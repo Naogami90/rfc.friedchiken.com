@@ -38498,6 +38498,7 @@ ul li a {
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
+    margin-left: 0px;
     /* background: #9d7d66; */
   }
   .home-page2-container02 {
@@ -38523,13 +38524,14 @@ ul li a {
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 177px;
+    width: 30px;
     height: 30px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
     /* background: #6e5b94; */
+    /* margin-left: 0px; */
   }
   .home-page2-container03 {
     flex: 0 0 auto;
@@ -38539,6 +38541,7 @@ ul li a {
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin-left: -72px;
   }
   .home-page2-image2 {
     width: 30px;
