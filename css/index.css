@@ -29310,16 +29310,16 @@ ul li a {
 }
 @media (max-width: 780px) {
   .benefit-splash {
-    top: 105px;
+    top: -246px;
     left: 59px;
     right: 0px;
-    width: 404px;
+    width: 467px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -29331,7 +29331,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -29499,11 +29499,11 @@ ul li a {
   .modal-container {
     position: absolute;
     justify-content: center;
-    left: 2.5%;
-    width: 95%;
+    left: 5%;
+    width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 15%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -29577,10 +29577,10 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 63%;
-    top: 181px;
+    width: 52%;
+    top: -130px;
     left: 24%;
   }
 
@@ -29616,30 +29616,30 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 377px;
+    top: 281px;
     /* left: 16px; */
   }
   .choose1 {
     position: relative;
-    left: 86px;
+    left: 1px;
     width: 31px;
     height: 30px;
   }
   .choose2 {
     position: relative;
-    left: 162px;
+    left: 89px;
     width: 30px;
     height: 30px;
   }
   .choose3 {
     position: relative;
-    left: 231px;
+    left: 166px;
     width: 30px;
     height: 30px;
   }
   .choose4 {
     position: relative;
-    left: 303px;
+    left: 240px;
     width: 30px;
     height: 30px;
   }
@@ -29675,7 +29675,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5153px;
+    height: 3570px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -29721,7 +29721,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -29759,7 +29759,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -29775,10 +29775,10 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
-    width: 635px;
+    width: 759px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -29830,7 +29830,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -29848,16 +29848,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 173px;
+    height: 43px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 82px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -29888,7 +29888,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -29898,11 +29898,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 588px;
     width: 100%;
-    top: 68px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -29913,7 +29913,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -29922,26 +29922,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 49px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -29969,7 +29969,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 4009px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -30003,13 +30003,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 16px;
+    left: 69px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 21px;
+    left: 72px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -30051,9 +30051,9 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 234px;
+    margin-left: 261px;
     flex: 0 0 auto;
-    width: 174px;
+    width: 200px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -30083,7 +30083,7 @@ ul li a {
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 158px;
+    width: 200px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -30113,7 +30113,7 @@ ul li a {
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 199px;
+    width: 250px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -30369,7 +30369,7 @@ ul li a {
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
@@ -30525,25 +30525,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4161px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: -153px;
+    top: 0px;
     left: 0px;
     width: auto;
-    height: 4841px;
+    height: 4162px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
     width: auto;
-    height: 4536px;
+    height: 4170px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -30559,10 +30559,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 101px;
+    top: -151px;
     width: 45%;
     height: auto;
-    left: 25%;
+    left: 26%;
   }
   .pemisah-1 {
     position: absolute;
@@ -30573,14 +30573,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -30588,31 +30588,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 0;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 3755px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -30634,7 +30634,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -30650,16 +30650,17 @@ ul li a {
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -71px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 763px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-stepto-mitra3 {
     display: none;
@@ -30673,16 +30674,17 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3049px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: none;
@@ -30695,10 +30697,10 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 708px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -30729,29 +30731,30 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
-    left: 24%;
+    top: -268px;
+    left: 20%;
     /* right: 0%; */
     width: 463px;
     height: auto;
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -30769,7 +30772,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -30804,7 +30807,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: 5%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -31225,7 +31228,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 13%;
+    margin-left: 20%;
   }
 
   ul.nav-container {
@@ -31403,17 +31406,17 @@ ul li a {
 }
 @media (max-width: 767px) {
   .benefit-splash {
-    top: 105px;
-    left: 11px;
+    top: -246px;
+    left: 59px;
     right: 0px;
-    width: 404px;
+    width: 467px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
-    left: -36px;
+    top: -148px;
+    left: 0px;
     right: 0px;
     width: 294px;
     height: auto;
@@ -31424,7 +31427,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -31592,11 +31595,11 @@ ul li a {
   .modal-container {
     position: absolute;
     justify-content: center;
-    left: 2.5%;
-    width: 95%;
+    left: 5%;
+    width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 7%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -31670,11 +31673,11 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 82%;
-    top: 181px;
-    left: 9%;
+    width: 52%;
+    top: -130px;
+    left: 24%;
   }
 
   .gambarslide {
@@ -31709,30 +31712,30 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 427px;
+    top: 281px;
     /* left: 16px; */
   }
   .choose1 {
     position: relative;
-    left: 86px;
+    left: 1px;
     width: 31px;
     height: 30px;
   }
   .choose2 {
     position: relative;
-    left: 162px;
+    left: 89px;
     width: 30px;
     height: 30px;
   }
   .choose3 {
     position: relative;
-    left: 231px;
+    left: 166px;
     width: 30px;
     height: 30px;
   }
   .choose4 {
     position: relative;
-    left: 303px;
+    left: 240px;
     width: 30px;
     height: 30px;
   }
@@ -31768,7 +31771,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5153px;
+    height: 3570px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -31814,7 +31817,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -31842,7 +31845,7 @@ ul li a {
   .mitra-image281,
   .mitra-image282,
   .mitra-image283 {
-    height: 300px;
+    height: 350px;
   }
   .home-page2-menu1 {
     top: 87px;
@@ -31852,7 +31855,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -31868,10 +31871,10 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
-    width: 635px;
+    width: 759px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -31923,7 +31926,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -31941,16 +31944,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 173px;
+    height: 43px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 82px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -31981,7 +31984,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -31991,11 +31994,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 588px;
     width: 100%;
-    top: 68px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -32006,7 +32009,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -32015,26 +32018,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 49px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -32062,7 +32065,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 4009px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -32096,13 +32099,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 16px;
+    left: 69px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 21px;
+    left: 72px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -32139,15 +32142,17 @@ ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
+    position: absolute;
+    top: 85px;
   }
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 234px;
+    margin-left: 193px;
     flex: 0 0 auto;
-    width: 174px;
-    height: 50px;
+    width: 200px;
+    height: 40px;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -32155,16 +32160,16 @@ ul li a {
   }
   .home-page2-container01 {
     flex: 0 0 auto;
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: auto;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
   }
   .home-page2-image {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: auto;
     object-fit: cover;
   }
   .home-page2-text40 {
@@ -32176,8 +32181,9 @@ ul li a {
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 158px;
-    height: 50px;
+    margin-left: 192px;
+    width: 200px;
+    height: 40px;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -32185,16 +32191,16 @@ ul li a {
   }
   .home-page2-container02 {
     flex: 0 0 auto;
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: auto;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
   }
   .home-page2-image1 {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: auto;
     object-fit: cover;
   }
   .home-page2-text43 {
@@ -32202,12 +32208,12 @@ ul li a {
     font-size: 12px;
     font-style: normal;
     font-weight: 600;
-    margin-left: var(--dl-space-space-halfunit);
+    margin-left: 18px;
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 199px;
-    height: 50px;
+    width: 250px;
+    height: 37px;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -32215,16 +32221,17 @@ ul li a {
   }
   .home-page2-container03 {
     flex: 0 0 auto;
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: auto;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin-left: 120px;
   }
   .home-page2-image2 {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: auto;
     object-fit: cover;
   }
   .home-page2-text44 {
@@ -32318,10 +32325,11 @@ ul li a {
     object-fit: cover;
   }
   .home-page2-text47 {
+    font-size: 14px;
     color: #ffffff;
     font-style: normal;
     font-weight: 600;
-    margin-left: var(--dl-space-space-halfunit);
+    margin-left: 15px;
   }
   .home-page2-about--ssecondpage1 {
     top: 876px;
@@ -32458,11 +32466,11 @@ ul li a {
   .home-page2-desktop-tabletmenu {
     /* gap: 21px; */
     top: 0px;
-    left: 0px;
+    left: -1px;
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
@@ -32618,25 +32626,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4161px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: -153px;
+    top: 0px;
     left: 0px;
     width: auto;
-    height: 4841px;
+    height: 4162px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
     width: auto;
-    height: 4536px;
+    height: 4170px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -32652,10 +32660,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 113px;
+    top: -151px;
     width: 45%;
     height: auto;
-    left: 25%;
+    left: 26%;
   }
   .pemisah-1 {
     position: absolute;
@@ -32666,14 +32674,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -32681,31 +32689,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 39px;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 3755px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -32727,7 +32735,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -32743,16 +32751,17 @@ ul li a {
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -71px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 763px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-stepto-mitra3 {
     display: none;
@@ -32766,16 +32775,17 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3049px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: none;
@@ -32788,10 +32798,10 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 708px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -32822,29 +32832,30 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
-    left: 24%;
+    top: -268px;
+    left: 20%;
     /* right: 0%; */
     width: 463px;
     height: auto;
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -32862,7 +32873,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -32897,7 +32908,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: 5%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -33318,7 +33329,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    /* margin-left: 15%; */
+    margin-left: 20%;
   }
 
   ul.nav-container {
@@ -33496,16 +33507,16 @@ ul li a {
 }
 @media (max-width: 622px) {
   .benefit-splash {
-    top: 105px;
-    left: 59px;
+    top: -246px;
+    left: 38px;
     right: 0px;
-    width: 404px;
+    width: 467px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -33517,7 +33528,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -33685,11 +33696,11 @@ ul li a {
   .modal-container {
     position: absolute;
     justify-content: center;
-    left: 25%;
-    width: 50%;
+    left: 5%;
+    width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 15%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -33763,18 +33774,17 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 90%;
-    top: 181px;
-    left: 3%;
+    width: 71%;
+    top: -126px;
+    left: 19%;
   }
 
   .gambarslide {
     display: flex;
     height: auto;
-    width: 79%;
-    margin-left: 55px;
+    width: 80%;
     overflow: hidden;
     align-content: center;
   }
@@ -33803,30 +33813,30 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 408px;
+    top: 306px;
     /* left: 16px; */
   }
   .choose1 {
     position: relative;
-    left: 86px;
+    left: 1px;
     width: 31px;
     height: 30px;
   }
   .choose2 {
     position: relative;
-    left: 162px;
+    left: 89px;
     width: 30px;
     height: 30px;
   }
   .choose3 {
     position: relative;
-    left: 231px;
+    left: 166px;
     width: 30px;
     height: 30px;
   }
   .choose4 {
     position: relative;
-    left: 303px;
+    left: 240px;
     width: 30px;
     height: 30px;
   }
@@ -33862,7 +33872,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5153px;
+    height: 5745px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -33908,7 +33918,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -33936,7 +33946,7 @@ ul li a {
   .mitra-image281,
   .mitra-image282,
   .mitra-image283 {
-    height: 300px;
+    height: 350px;
   }
   .home-page2-menu1 {
     top: 87px;
@@ -33946,7 +33956,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -33962,10 +33972,10 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
-    width: 100%;
+    width: 559px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -34017,7 +34027,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -34035,16 +34045,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 158px;
+    height: 36px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 75px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -34075,7 +34085,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -34085,11 +34095,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 491px;
     width: 100%;
-    top: 68px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -34100,7 +34110,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -34109,26 +34119,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 36px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -34156,7 +34166,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 5487px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -34190,13 +34200,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 16px;
+    left: 69px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 21px;
+    left: 72px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -34229,32 +34239,29 @@ ul li a {
   }
   .home-page2-sosmed-container-desk {
     width: 100%;
-    font-size: 12px;
     height: 53px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     position: absolute;
-    top: 76px;
-    left: 87px;
+    top: 85px;
   }
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 0px;
+    margin-left: 193px;
     flex: 0 0 auto;
-    width: 176px;
-    height: 30px;
+    width: 200px;
+    height: 40px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
-    /* background: chocolate; */
   }
   .home-page2-container01 {
     flex: 0 0 auto;
-    width: 30px;
+    width: 35px;
     height: auto;
     display: flex;
     align-items: center;
@@ -34262,31 +34269,30 @@ ul li a {
     justify-content: center;
   }
   .home-page2-image {
-    width: 30px;
+    width: 35px;
     height: auto;
     object-fit: cover;
   }
   .home-page2-text40 {
     color: rgb(249, 249, 249);
-    font-size: 13px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 600;
-    margin-left: 0px;
-    /* background: chocolate; */
+    margin-left: var(--dl-space-space-halfunit);
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 176px;
-    height: 30px;
+    margin-left: 192px;
+    width: 200px;
+    height: 40px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
-    /* background: #9d7d66; */
   }
   .home-page2-container02 {
     flex: 0 0 auto;
-    width: 30px;
+    width: 35px;
     height: auto;
     display: flex;
     align-items: center;
@@ -34294,7 +34300,7 @@ ul li a {
     justify-content: center;
   }
   .home-page2-image1 {
-    width: 30px;
+    width: 35px;
     height: auto;
     object-fit: cover;
   }
@@ -34303,29 +34309,29 @@ ul li a {
     font-size: 12px;
     font-style: normal;
     font-weight: 600;
-    margin-left: var(--dl-space-space-halfunit);
+    margin-left: 18px;
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 177px;
-    height: 30px;
+    width: 250px;
+    height: 37px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
-    /* background: #6e5b94; */
   }
   .home-page2-container03 {
     flex: 0 0 auto;
-    width: 30px;
+    width: 35px;
     height: auto;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin-left: 120px;
   }
   .home-page2-image2 {
-    width: 30px;
+    width: 35px;
     height: auto;
     object-fit: cover;
   }
@@ -34420,10 +34426,11 @@ ul li a {
     object-fit: cover;
   }
   .home-page2-text47 {
+    font-size: 14px;
     color: #ffffff;
     font-style: normal;
     font-weight: 600;
-    margin-left: var(--dl-space-space-halfunit);
+    margin-left: 15px;
   }
   .home-page2-about--ssecondpage1 {
     top: 876px;
@@ -34564,7 +34571,7 @@ ul li a {
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
@@ -34720,25 +34727,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4161px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: -153px;
+    top: 0px;
     left: 0px;
-    width: auto;
-    height: 4197px;
+    width: 500px;
+    height: 4162px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
-    width: auto;
-    height: 4536px;
+    width: 500px;
+    height: 4170px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -34754,10 +34761,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 109px;
-    width: 55%;
+    top: -151px;
+    width: 53%;
     height: auto;
-    left: 21%;
+    left: 20%;
   }
   .pemisah-1 {
     position: absolute;
@@ -34768,14 +34775,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -34783,31 +34790,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 39px;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 4482px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -34829,7 +34836,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -34841,62 +34848,65 @@ ul li a {
     top: 369px;
     left: 0px;
     right: 0px;
-    width: 617px;
+    width: 628px;
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -71px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 763px;
+    height: auto;
     margin: auto;
     position: absolute;
     display: none;
   }
   .mitra-stepto-mitra3 {
-    display: none;
-    top: 304px;
+    /* display: none; */
+    top: -59px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 426px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3157px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
-    display: none;
-    top: 307px;
+    display: block;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 873px;
-    height: 478px;
+    width: 371px;
+    height: auto;
     margin: auto;
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 575px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .invest-text-header {
     top: 129px;
@@ -34924,33 +34934,34 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
-    left: 18%;
+    top: -268px;
+    left: 13%;
     /* right: 0%; */
     width: 463px;
     height: auto;
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
-    width: 508px;
+    width: 517px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -34964,7 +34975,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -34999,7 +35010,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: -283%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -35420,7 +35431,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 8%;
+    margin-left: 20%;
   }
 
   ul.nav-container {
@@ -35598,16 +35609,16 @@ ul li a {
 }
 @media (max-width: 568px) {
   .benefit-splash {
-    top: 105px;
-    left: 15px;
+    top: -236px;
+    left: 38px;
     right: 0px;
-    width: 404px;
+    width: 424px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -35619,7 +35630,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 83%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -35729,7 +35740,6 @@ ul li a {
     height: 600px;
     border-radius: 5px;
     text-align: left;
-    margin-top: 65px;
   }
 
   /* Styled input */
@@ -35788,11 +35798,11 @@ ul li a {
   .modal-container {
     position: absolute;
     justify-content: center;
-    left: 2.5%;
-    width: 95%;
-    height: 71%;
+    left: 5%;
+    width: 90%;
+    height: 75%;
     /* background: rgb(169 169 169); */
-    top: 6%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -35866,18 +35876,17 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 90%;
-    top: 181px;
-    left: 3%;
+    width: 71%;
+    top: -126px;
+    left: 19%;
   }
 
   .gambarslide {
     display: flex;
     height: auto;
-    width: 100%;
-    margin-left: 5px;
+    width: 80%;
     overflow: hidden;
     align-content: center;
   }
@@ -35906,30 +35915,30 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 408px;
+    top: 306px;
     /* left: 16px; */
   }
   .choose1 {
     position: relative;
-    left: 86px;
+    left: 1px;
     width: 31px;
     height: 30px;
   }
   .choose2 {
     position: relative;
-    left: 162px;
+    left: 89px;
     width: 30px;
     height: 30px;
   }
   .choose3 {
     position: relative;
-    left: 231px;
+    left: 166px;
     width: 30px;
     height: 30px;
   }
   .choose4 {
     position: relative;
-    left: 303px;
+    left: 240px;
     width: 30px;
     height: 30px;
   }
@@ -35965,7 +35974,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 6000px;
+    height: 5745px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -36011,7 +36020,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -36039,7 +36048,7 @@ ul li a {
   .mitra-image281,
   .mitra-image282,
   .mitra-image283 {
-    height: 300px;
+    height: 350px;
   }
   .home-page2-menu1 {
     top: 87px;
@@ -36049,7 +36058,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -36065,11 +36074,11 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
-    width: 90%;
-    height: 618px;
+    width: 559px;
+    height: 600px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -36083,7 +36092,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 426.2142333984375px;
-    bottom: 25px;
+    bottom: 60px;
     height: 117px;
     margin: auto;
     display: flex;
@@ -36120,7 +36129,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -36138,16 +36147,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 158px;
+    height: 36px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 75px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -36178,7 +36187,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -36188,11 +36197,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 491px;
     width: 100%;
-    top: 68px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -36203,7 +36212,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -36212,26 +36221,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 36px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -36259,7 +36268,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 5751px;
+    top: 5487px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -36293,13 +36302,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 16px;
+    left: 69px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 21px;
+    left: 72px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -36332,32 +36341,29 @@ ul li a {
   }
   .home-page2-sosmed-container-desk {
     width: 100%;
-    font-size: 12px;
     height: 53px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     position: absolute;
-    top: 76px;
-    left: 87px;
+    top: 85px;
   }
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 0px;
+    margin-left: 193px;
     flex: 0 0 auto;
-    width: 176px;
-    height: 30px;
+    width: 200px;
+    height: 40px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
-    /* background: chocolate; */
   }
   .home-page2-container01 {
     flex: 0 0 auto;
-    width: 30px;
+    width: 35px;
     height: auto;
     display: flex;
     align-items: center;
@@ -36365,31 +36371,30 @@ ul li a {
     justify-content: center;
   }
   .home-page2-image {
-    width: 30px;
+    width: 35px;
     height: auto;
     object-fit: cover;
   }
   .home-page2-text40 {
     color: rgb(249, 249, 249);
-    font-size: 13px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 600;
-    margin-left: 0px;
-    /* background: chocolate; */
+    margin-left: var(--dl-space-space-halfunit);
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 176px;
-    height: 30px;
+    margin-left: 192px;
+    width: 200px;
+    height: 40px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
-    /* background: #9d7d66; */
   }
   .home-page2-container02 {
     flex: 0 0 auto;
-    width: 30px;
+    width: 35px;
     height: auto;
     display: flex;
     align-items: center;
@@ -36397,7 +36402,7 @@ ul li a {
     justify-content: center;
   }
   .home-page2-image1 {
-    width: 30px;
+    width: 35px;
     height: auto;
     object-fit: cover;
   }
@@ -36406,29 +36411,29 @@ ul li a {
     font-size: 12px;
     font-style: normal;
     font-weight: 600;
-    margin-left: var(--dl-space-space-halfunit);
+    margin-left: 18px;
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 177px;
-    height: 30px;
+    width: 250px;
+    height: 37px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: flex-start;
-    /* background: #6e5b94; */
   }
   .home-page2-container03 {
     flex: 0 0 auto;
-    width: 30px;
+    width: 35px;
     height: auto;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin-left: 120px;
   }
   .home-page2-image2 {
-    width: 30px;
+    width: 35px;
     height: auto;
     object-fit: cover;
   }
@@ -36523,10 +36528,11 @@ ul li a {
     object-fit: cover;
   }
   .home-page2-text47 {
+    font-size: 14px;
     color: #ffffff;
     font-style: normal;
     font-weight: 600;
-    margin-left: var(--dl-space-space-halfunit);
+    margin-left: 15px;
   }
   .home-page2-about--ssecondpage1 {
     top: 876px;
@@ -36667,13 +36673,12 @@ ul li a {
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
     flex-shrink: 0;
     justify-content: flex-end;
-    /* display: none; */
   }
 
   /* navbar list property awal*/
@@ -36824,25 +36829,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4161px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: -153px;
+    top: 0px;
     left: 0px;
-    width: 100%;
-    height: 4197px;
+    width: 500px;
+    height: 4162px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
-    width: auto;
-    height: 4536px;
+    width: 500px;
+    height: 4170px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -36858,10 +36863,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 109px;
-    width: 68%;
+    top: -151px;
+    width: 53%;
     height: auto;
-    left: 16%;
+    left: 20%;
   }
   .pemisah-1 {
     position: absolute;
@@ -36872,14 +36877,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -36887,31 +36892,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 39px;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 4092px;
+    top: 4482px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1600px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -36933,8 +36938,8 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
-    left: 13px;
+    top: -338px;
+    left: 0px;
     right: 0px;
     width: 355px;
     height: auto;
@@ -36945,60 +36950,61 @@ ul li a {
     top: 369px;
     left: 0px;
     right: 0px;
-    width: 100%;
-    height: auto;
+    width: 628px;
+    height: 753px;
     margin: auto;
     position: absolute;
     display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -71px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 763px;
+    height: auto;
     margin: auto;
     position: absolute;
     display: none;
   }
   .mitra-stepto-mitra3 {
-    display: block;
-    top: 345px;
+    /* display: none; */
+    top: -59px;
     left: 0px;
     right: 0px;
-    width: 84%;
+    width: 426px;
     height: auto;
     margin: auto;
     position: absolute;
-    /* display: none; */
+    display: block;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3157px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: block;
-    top: 307px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 65%;
+    width: 371px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 541px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -37030,33 +37036,34 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
-    left: 12%;
+    top: -268px;
+    left: 13%;
     /* right: 0%; */
     width: 463px;
     height: auto;
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
-    width: 508px;
+    width: 463px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -37070,7 +37077,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -37105,7 +37112,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: 0%;
+    bottom: -283%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -37520,14 +37527,13 @@ ul li a {
   }
   /* navbar list property awal*/
   .flex-row {
-    /* display: none; */
     display: flex;
     flex-direction: row;
   }
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 18%;
+    margin-left: 20%;
   }
 
   ul.nav-container {
