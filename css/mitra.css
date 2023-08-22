@@ -1,0 +1,2584 @@
+.mitra-page {
+  width: 100%;
+  height: 100vh;
+  top: 0px;
+  bottom: 0px;
+}
+.mitra-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mitra-mitra {
+  width: 100%;
+  height: 4706px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mitra-side-bg {
+  top: -11px;
+  left: 0px;
+  width: 100%;
+  height: 4844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mitra-sideplain011 {
+  top: 0px;
+  left: 0px;
+  width: auto;
+  height: 4841px;
+  position: absolute;
+}
+.mitra-sideplain021 {
+  top: 0px;
+  right: 0px;
+  width: auto;
+  height: 4536px;
+  position: absolute;
+}
+.mitra-pemisah {
+  top: 679px;
+  left: 0px;
+  width: 100%;
+  height: 2780px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mitra-image281 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 511px;
+  position: absolute;
+}
+.mitra-image282 {
+  top: 1149px;
+  left: -1px;
+  width: 100%;
+  height: 511px;
+  position: absolute;
+}
+.mitra-image283 {
+  top: 2269px;
+  left: 0px;
+  width: 100%;
+  height: 511px;
+  position: absolute;
+}
+.mitra-section4 {
+  top: 3155px;
+  left: 0px;
+  right: 0px;
+  width: 797px;
+  height: 1267px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mitra-ln1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 494px;
+  height: 247px;
+  margin: auto;
+  position: absolute;
+}
+.mitra-stepto-mitra1 {
+  top: 304px;
+  left: 0px;
+  right: 0px;
+  width: 638px;
+  height: 770px;
+  margin: auto;
+  position: absolute;
+}
+.mitra-stepto-mitra2 {
+  top: 304px;
+  left: 0px;
+  right: 0px;
+  width: 1024px;
+  height: 380px;
+  margin: auto;
+  position: absolute;
+  display: none;
+}
+.mitra-section3 {
+  top: 2029px;
+  left: 0px;
+  right: 0px;
+  width: 1010px;
+  height: 941px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mitra-bene1 {
+  top: 463px;
+  left: 0px;
+  right: 0px;
+  width: 873px;
+  height: 478px;
+  margin: auto;
+  position: absolute;
+}
+.invest-text-header {
+  top: 129px;
+  left: 326px;
+  color: rgb(255 255 255);
+  right: 0px;
+  width: 751px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Medium;
+  text-align: justified;
+  font-family: rancho;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-typ1 {
+  top: 171px;
+  left: 28px;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+}
+.mitra-section2 {
+  top: 859px;
+  left: 0px;
+  right: 0px;
+  width: 925px;
+  height: 1030px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mitra-bergab1 {
+  top: 0px;
+  left: 85px;
+  width: 721px;
+  height: 294px;
+  position: absolute;
+}
+.mitra-text {
+  top: 449px;
+  left: 0px;
+  color: rgb(0, 0, 0);
+  right: 0px;
+  width: 751px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Montserrat Alternates;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-text21 {
+  top: 388px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-secion1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1440px;
+  height: 813px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.button1 {
+  gap: 10px;
+  left: 0px;
+  right: 0px;
+  width: 349px;
+  bottom: -3492px;
+  margin: auto;
+  display: flex;
+  padding: 14px 25px;
+  position: absolute;
+  align-items: center;
+  border-radius: 13px;
+  justify-content: center;
+  background-color: rgba(175, 30, 35, 1);
+  transition: all 0.2s ease;
+}
+.button1:active {
+  transform: scale(0.96);
+}
+
+.button2 {
+  transition: all 0.2s ease;
+  border-radius: 13px;
+  left: 592px;
+  right: -98px;
+  top: 467px;
+  margin: auto;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0px;
+  margin-bottom: auto;
+  padding-right: 0px;
+  position: absolute;
+  width: 178px;
+  height: 40px;
+  text-align: center;
+  background-color: rgba(175, 35, 35, 1);
+  padding-top: var(--dl-space-space-halfunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  border: black;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.button2:active {
+  transform: scale(0.96);
+}
+.mitra-text23 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-web-homepage-rfc1052 {
+  top: -151px;
+  left: -463px;
+  width: 1017px;
+  height: 1083px;
+  position: absolute;
+}
+.H2-herobodytext {
+  top: 411px;
+  color: rgb(0, 0, 0);
+  right: 6px;
+  width: 696px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.H1-heroobodytext {
+  top: 297px;
+  left: 725.1502075195312px;
+  color: rgb(0, 0, 0);
+  width: 702px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-footer-group {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 256px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mitra-footer {
+  top: 0.0002288818359375px;
+  left: 0px;
+  width: 100%;
+  height: 256px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.mitra-ssosialmediatext {
+  gap: 58px;
+  top: 69px;
+  left: 0px;
+  right: 0px;
+  height: 140px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.mitra-rfclogoi2 {
+  top: -7px;
+  left: 60px;
+  width: 181px;
+  height: 44px;
+  position: absolute;
+}
+.mitra-text33 {
+  left: 66px;
+  color: rgba(255, 255, 255, 1);
+  width: 213px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat Alternates;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-text41 {
+  color: rgba(255, 255, 255, 1);
+  width: 227px;
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-sosmed-container-desk {
+  width: 100%;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mitra-wa {
+  flex: 0 0 auto;
+  width: 250px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.mitra-container01 {
+  flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.mitra-image {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.mitra-text46 {
+  color: #f9f9f9;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.mitra-fb {
+  flex: 0 0 auto;
+  width: 250px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.mitra-container02 {
+  flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.mitra-image1 {
+  width: 45 px;
+  height: 45px;
+  object-fit: cover;
+}
+.mitra-text49 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.mitra-ig {
+  flex: 0 0 auto;
+  width: 250px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.mitra-container03 {
+  flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.mitra-image2 {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.mitra-text50 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.mitra-sosmed-mobile {
+  flex: 0 0 auto;
+  width: 100%;
+  display: none;
+  align-items: flex-start;
+  justify-content: center;
+}
+.mitra-container04 {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.mitra-container05 {
+  flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.mitra-image3 {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.mitra-text51 {
+  color: #f9f9f9;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.mitra-container06 {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.mitra-container07 {
+  flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.mitra-image4 {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.mitra-text52 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.mitra-container08 {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.mitra-container09 {
+  flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.mitra-image5 {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.mitra-text53 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.mitra-navbar {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 40px;
+  display: flex;
+  z-index: 10;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  align-items: flex-start;
+  background-color: #f10000;
+}
+.mitra-logo {
+  top: 0px;
+  left: 0px;
+  width: 250.5px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mitra-subtract {
+  top: 0px;
+  left: 136px;
+  width: 65px;
+  height: 40px;
+  position: absolute;
+}
+.mitra-rectangle6891 {
+  top: 0px;
+  left: -29px;
+  width: 226px;
+  height: 40px;
+  position: absolute;
+}
+.mitra-rfclogoi1 {
+  top: 6px;
+  left: 20px;
+  width: 113px;
+  height: 29px;
+  position: absolute;
+}
+/* Buger properties */
+.close-burger {
+  top: 0px;
+  left: 340px;
+  width: 340x;
+  height: 34px;
+  display: none;
+  fill: #ffffff;
+  z-index: 101;
+  position: fixed;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.burger {
+  top: 0px;
+  left: 340px;
+  width: 340x;
+  height: 34px;
+  display: none;
+  fill: #ffffff;
+  z-index: 101;
+  position: fixed;
+  justify-content: space-between;
+  cursor: pointer;
+}
+/* navbar list property awal*/
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+ul.nav-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  line-height: 40px;
+}
+ul li a {
+  padding: 0 10px;
+}
+.Page-scroll {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+}
+#prioritas {
+  height: 100%;
+}
+#investasi {
+  height: 100%;
+}
+#langkah {
+  height: 100%;
+}
+.mitra-container10 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.mitra-navimenu-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.mitra-burger-menumobile {
+  top: 0px;
+  left: 318px;
+  width: 34px;
+  height: 34px;
+  display: none;
+  position: absolute;
+  flex-direction: column;
+}
+.mitra-icon {
+  width: 24px;
+  height: 24px;
+}
+.mitra-desktop-tabletmenu {
+  gap: 21px;
+  top: 0px;
+  left: -1px;
+  width: 100%;
+  height: 40px;
+  display: flex;
+  padding: 0 88px 0 0;
+  z-index: 9999;
+  position: fixed;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.mitra-frame11 {
+  display: flex;
+  align-items: flex-start;
+}
+.mitra-text54 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mitra-frame12 {
+  display: flex;
+  align-items: flex-start;
+}
+.mitra-text55 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mitra-frame13 {
+  display: flex;
+  align-items: flex-start;
+}
+.mitra-text56 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+}
+.mitra-frame14 {
+  display: flex;
+  align-items: flex-start;
+}
+.mitra-text58 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-frame15 {
+  display: none;
+  align-items: flex-start;
+}
+.mitra-text59 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  display: none;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mitra-frame16 {
+  display: none;
+  align-items: flex-start;
+}
+.mitra-text61 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat Alternates;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media (max-width: 1440px) {
+  .mitra-footer-group {
+    top: 3742px;
+  }
+  .mitra-mitra {
+    height: 4000px;
+  }
+  .mitra-side-bg {
+    height: 4000px;
+  }
+  .button2 {
+    left: 526px;
+    right: 0px;
+    top: 412px;
+  }
+  .mitra-footer-group {
+    bottom: 823px;
+    height: 200px;
+  }
+  .mitra-section4 {
+    width: 1200px;
+  }
+  .mitra-stepto-mitra1 {
+    display: none;
+  }
+  .mitra-stepto-mitra2 {
+    display: block;
+    top: -18px;
+    width: 1200px;
+  }
+  .mitra-ln1 {
+    top: -274px;
+    left: 0px;
+    right: 0px;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+  }
+  .mitra-image283 {
+    top: 2042px;
+    left: 0px;
+    width: 100%;
+    height: 400px;
+  }
+  .invest-text-header {
+    top: 175px;
+    left: 0px;
+    right: 0px;
+    font-size: 55px;
+    text-align: center;
+  }
+  .mitra-typ1 {
+    top: 162px;
+    left: 117px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .mitra-image281 {
+    top: -47px;
+    left: 0px;
+    width: 100%;
+    height: 400px;
+    position: absolute;
+  }
+  .mitra-image282 {
+    top: 1287px;
+    left: 0px;
+    width: 100%;
+    height: 400px;
+    position: absolute;
+  }
+  .mitra-side-bg {
+    width: 100%;
+  }
+  .mitra-sideplain011 {
+    width: auto;
+  }
+  .mitra-sideplain021 {
+    right: 0px;
+    width: auto;
+  }
+  .mitra-section4 {
+    height: 1084px;
+  }
+
+  .mitra-bene1 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    top: 339px;
+    width: 80%;
+    height: 44%;
+  }
+  .mitra-bergab1 {
+    top: -74px;
+    left: 0px;
+    right: 0px;
+    width: 650px;
+    height: 263px;
+    margin: auto;
+  }
+  .mitra-text {
+    left: 0px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    margin: auto;
+    font-size: 16px;
+    font-family: Montserrat Alternates;
+    font-weight: 450;
+    line-height: normal;
+    text-decoration: none;
+    width: 660px;
+    top: 351px;
+  }
+  .mitra-text21 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    text-align: center;
+    top: 304px;
+  }
+  .button1 {
+    top: 2846px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+    margin: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .mitra-text23 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: italic;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .mitra-web-homepage-rfc1052 {
+    top: -222px;
+    left: -325px;
+    width: 880px;
+    height: 915px;
+    position: absolute;
+  }
+  /* Hero text 1440px Properties */
+  .H2-herobodytext {
+    left: 550px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    bottom: 342px;
+    margin: auto;
+    font-size: 20px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    height: 40px;
+    top: 293px;
+  }
+  .H1-heroobodytext {
+    top: 212px;
+    left: 550px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    margin: auto;
+    font-size: 48px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    height: 120px;
+  }
+
+  .mitra-ssosialmediatext {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .mitra-rfclogoi2 {
+    top: 15px;
+    left: 66px;
+  }
+  .mitra-text33 {
+    line-height: 1.5;
+  }
+  .mitra-text41 {
+    align-self: center;
+  }
+  .mitra-text46 {
+    font-size: 12px;
+  }
+  .mitra-text49 {
+    font-size: 12px;
+  }
+  .mitra-text50 {
+    font-size: 12px;
+  }
+  .mitra-sosmed-mobile {
+    display: none;
+  }
+  .mitra-text59 {
+    display: none;
+  }
+}
+@media (max-width: 1366px) {
+  .mitra-sideplain021 {
+    right: 0px;
+    position: 0px;
+  }
+  .mitra-stepto-mitra1 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .button1 {
+    left: -100px;
+    right: 0px;
+    bottom: -3471px;
+    margin: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0px;
+    margin-bottom: auto;
+    padding-right: 0px;
+  }
+
+  .H2-herobodytext {
+    top: 263px;
+    left: 490px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    margin: auto;
+    font-size: 17px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .H1-heroobodytext {
+    left: 515px;
+    font-size: 45px;
+  }
+  .mitra-footer {
+    border-width: 0px;
+  }
+  .mitra-rfclogoi2 {
+    top: 16px;
+    left: 72px;
+  }
+  .mitra-text33 {
+    left: 77px;
+    bottom: 0px;
+    line-height: 1.5;
+  }
+  .mitra-text41 {
+    font-size: 12px;
+  }
+  .mitra-text46 {
+    font-size: 12px;
+  }
+  .mitra-text49 {
+    font-size: 12px;
+  }
+  .mitra-text50 {
+    font-size: 12px;
+  }
+  .mitra-navbar {
+    box-shadow: 5px 0px 15px 0px #000000;
+  }
+
+  .mitra-container10 {
+    height: 40px;
+  }
+  .mitra-desktop-tabletmenu {
+    top: 1px;
+    left: -13px;
+  }
+  .mitra-text58 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+  }
+}
+@media (max-width: 1200px) {
+  .button2 {
+    left: 176px;
+  }
+  .mitra-sideplain021 {
+    right: 0px;
+    position: 0px;
+  }
+  .mitra-stepto-mitra1 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .button1 {
+    left: -100px;
+    right: 0px;
+    bottom: -3471px;
+    margin: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0px;
+    margin-bottom: auto;
+    padding-right: 0px;
+  }
+
+  .H2-herobodytext {
+    top: 263px;
+    left: 232px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    margin: auto;
+    font-size: 17px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .H1-heroobodytext {
+    font-size: 45px;
+    left: 211px;
+  }
+  .mitra-footer {
+    border-width: 0px;
+  }
+  .mitra-rfclogoi2 {
+    top: 16px;
+    left: 72px;
+  }
+  .mitra-text33 {
+    left: 77px;
+    bottom: 0px;
+    line-height: 1.5;
+  }
+  .mitra-text41 {
+    font-size: 12px;
+  }
+  .mitra-text46 {
+    font-size: 12px;
+  }
+  .mitra-text49 {
+    font-size: 12px;
+  }
+  .mitra-text50 {
+    font-size: 12px;
+  }
+  .mitra-navbar {
+    box-shadow: 5px 0px 15px 0px #000000;
+  }
+
+  .mitra-container10 {
+    height: 40px;
+  }
+  .mitra-desktop-tabletmenu {
+    top: 1px;
+    left: -13px;
+  }
+  .mitra-text58 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+  }
+}
+
+@media (max-width: 800px) {
+  /* social media cion size  */
+  .mitra-footer-group {
+    top: 2684px;
+  }
+  .mitra-mitra {
+    height: 2879px;
+  }
+  .mitra-side-bg {
+    height: 2879px;
+  }
+  .mitra-ssosialmediatext {
+    top: 39px;
+  }
+  .mitra-image4,
+  .mitra-image3,
+  .mitra-image5 {
+    width: 40px;
+    height: 40px;
+  }
+  .invest-text-header {
+    top: -2px;
+    left: 0px;
+    right: 0px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .H1-heroobodytext {
+    top: 194px;
+    left: 150px;
+    color: rgb(0, 0, 0);
+    right: -194px;
+    width: 450px;
+    margin: auto;
+    font-size: 35px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    height: 35px;
+  }
+  .H2-herobodytext {
+    top: 309px;
+    left: 331px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    width: 400px;
+    margin: auto;
+    font-size: 14px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .button2 {
+    right: 0px;
+    top: 350px;
+    left: 322px;
+  }
+  .mitra-desktop-tabletmenu {
+    left: 55px;
+  }
+  .mitra-stepto-mitra1 {
+    display: block;
+  }
+  .mitra-stepto-mitra2 {
+    display: none;
+  }
+  /* .mitra-mitra {
+    height: 3756px;
+    margin-bottom: 0px;
+  }
+  .mitra-side-bg {
+    height: 3766px;
+  }
+  .mitra-sideplain011 {
+    height: 3777px;
+  }
+  .mitra-sideplain021 {
+    height: 3772px;
+  } */
+  .mitra-pemisah {
+    height: 2496px;
+  }
+  .mitra-image281 {
+    top: -231px;
+    left: 0px;
+    width: 100%;
+    height: 250px;
+  }
+  .mitra-image282 {
+    top: 538px;
+    left: 0px;
+    height: 200px;
+  }
+  .mitra-image283 {
+    top: 1131px;
+    height: 200px;
+  }
+  .mitra-section4 {
+    top: 2500px;
+    width: 800px;
+    height: 700px;
+    top: 1908px;
+  }
+  .mitra-ln1 {
+    top: -44px;
+    left: 0px;
+    right: 0px;
+    width: 291px;
+    height: 150px;
+    margin: auto;
+    margin-right: auto;
+  }
+  .mitra-stepto-mitra1 {
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    width: 92vh;
+    height: 108vh;
+    margin: auto;
+  }
+  .mitra-section3 {
+    width: 800px;
+    height: 550px;
+    top: 1321px;
+  }
+  .mitra-bene1 {
+    top: 120px;
+    left: 0px;
+    right: 0px;
+    width: 650px;
+    height: 349px;
+    margin: auto;
+  }
+  .mitra-typ1 {
+    top: -488px;
+    left: 412px;
+    width: 276px;
+    height: 264px;
+    margin: auto;
+  }
+  .mitra-section2 {
+    width: 798px;
+    height: 700px;
+    top: 552px;
+  }
+  .mitra-bergab1 {
+    top: -36px;
+    left: 76px;
+    width: 550px;
+    height: 225px;
+  }
+  .mitra-text {
+    font-weight: 600;
+    top: 244px;
+    left: 0px;
+    right: 0px;
+    width: 531px;
+    height: 550px;
+    margin: auto;
+    font-size: 10px;
+    text-align: justify;
+  }
+  .mitra-text21 {
+    top: 200px;
+    left: 0px;
+    right: 0px;
+    width: 650px;
+    margin: auto;
+    font-size: 25px;
+  }
+  .mitra-secion1 {
+    width: 799px;
+    height: 541px;
+  }
+  .button1 {
+    left: 0px;
+    right: 0px;
+    bottom: -2908px;
+    margin: auto;
+    position: absolute;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    justify-content: center;
+    top: 1808px;
+  }
+  .mitra-text23 {
+    top: 8px;
+    left: 57px;
+    position: absolute;
+  }
+  .mitra-web-homepage-rfc1052 {
+    top: -176px;
+    left: -255px;
+    width: 623px;
+    height: 663px;
+  }
+
+  .mitra-text31 {
+    font-size: 25px;
+  }
+  .mitra-footer-group {
+    bottom: 817px;
+  }
+  .mitra-footer {
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    height: 192px;
+  }
+  .mitra-rfclogoi2 {
+    top: 19px;
+    left: 30px;
+  }
+  .mitra-text33 {
+    left: 35px;
+    color: rgb(255, 255, 255);
+    bottom: 1px;
+    font-size: 12px;
+    text-align: justify;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+  .mitra-text41 {
+    align-self: center;
+    margin-left: 250px;
+  }
+  .mitra-sosmed-container-desk {
+    display: none;
+    position: relative;
+  }
+  .mitra-wa {
+    top: -2px;
+    left: 275px;
+    position: absolute;
+  }
+  .mitra-text46 {
+    color: rgb(249, 249, 249);
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-fb {
+    top: -2px;
+    left: 525px;
+    position: absolute;
+  }
+  .mitra-ig {
+    top: -2px;
+    right: -33px;
+    position: absolute;
+  }
+  .mitra-sosmed-mobile {
+    width: 100%;
+    display: flex;
+    position: relative;
+  }
+  .mitra-container04 {
+    top: 0px;
+    left: 243px;
+    width: 166px;
+    position: absolute;
+    padding-left: 2px;
+    flex-direction: row;
+  }
+  .mitra-text51 {
+    top: 19px;
+    color: rgb(249, 249, 249);
+    right: 10px;
+    width: 100px;
+    position: absolute;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container06 {
+    top: 0px;
+    right: 243px;
+    width: 146px;
+    position: absolute;
+    align-self: flex-start;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .mitra-container07 {
+    align-items: flex-start;
+    flex-direction: row;
+  }
+  .mitra-image4 {
+    top: 6px;
+    left: 6px;
+    margin: auto;
+    position: absolute;
+  }
+  .mitra-text52 {
+    top: 19px;
+    color: rgb(255, 255, 255);
+    right: 10px;
+    position: absolute;
+    font-size: 11px;
+    align-self: center;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container08 {
+    top: 0px;
+    flex: 1;
+    right: 41px;
+    position: absolute;
+    align-self: flex-start;
+    justify-content: flex-start;
+  }
+  .mitra-text53 {
+    top: 16px;
+    left: 60px;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-text55 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+}
+@media (max-width: 767px) {
+  /* social media cion size  */
+
+  .mitra-ssosialmediatext {
+    top: 39px;
+  }
+  .mitra-image4,
+  .mitra-image3,
+  .mitra-image5 {
+    width: 40px;
+    height: 40px;
+  }
+  .invest-text-header {
+    top: -2px;
+    left: 0px;
+    right: 0px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .H1-heroobodytext {
+    top: 194px;
+    left: 90px;
+    color: rgb(0, 0, 0);
+    right: -194px;
+    width: 450px;
+    margin: auto;
+    font-size: 30px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    height: 35px;
+  }
+  .H2-herobodytext {
+    top: 309px;
+    left: 290px;
+    color: rgb(0, 0, 0);
+    right: 0px;
+    width: 400px;
+    margin: auto;
+    font-size: 14px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .Page-scroll {
+    font-size: 14px;
+  }
+  .button2 {
+    right: 0px;
+    top: 342px;
+    left: 285px;
+    width: 100px;
+    height: 35px;
+    font-size: 10px;
+  }
+  .mitra-desktop-tabletmenu {
+    left: 55px;
+  }
+  .mitra-stepto-mitra1 {
+    display: block;
+  }
+  .mitra-stepto-mitra2 {
+    display: none;
+  }
+  .mitra-mitra {
+    height: 2879px;
+    margin-bottom: 0px;
+  }
+  .mitra-side-bg {
+    height: 3766px;
+  }
+  .mitra-sideplain011 {
+    height: 3777px;
+  }
+  .mitra-sideplain021 {
+    height: 3772px;
+  }
+  .mitra-pemisah {
+    height: 2496px;
+  }
+  .mitra-image281 {
+    top: -231px;
+    left: 0px;
+    width: 100%;
+    height: 250px;
+  }
+  .mitra-image282 {
+    top: 538px;
+    left: 0px;
+    height: 200px;
+  }
+  .mitra-image283 {
+    top: 1131px;
+    height: 200px;
+  }
+  .mitra-section4 {
+    top: 2500px;
+    width: 800px;
+    height: 700px;
+    top: 1908px;
+  }
+  .mitra-ln1 {
+    top: -44px;
+    left: 0px;
+    right: 0px;
+    width: 291px;
+    height: 150px;
+    margin: auto;
+    margin-right: auto;
+  }
+  .mitra-stepto-mitra1 {
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    width: 92vh;
+    height: 108vh;
+    margin: auto;
+  }
+  .mitra-section3 {
+    width: 800px;
+    height: 550px;
+    top: 1321px;
+  }
+  .mitra-bene1 {
+    top: 120px;
+    left: 0px;
+    right: 0px;
+    width: 650px;
+    height: 349px;
+    margin: auto;
+  }
+  .mitra-typ1 {
+    top: -488px;
+    left: 412px;
+    width: 276px;
+    height: 264px;
+    margin: auto;
+  }
+  .mitra-section2 {
+    width: 798px;
+    height: 700px;
+    top: 552px;
+  }
+  .mitra-bergab1 {
+    top: -36px;
+    left: 76px;
+    width: 550px;
+    height: 225px;
+  }
+  .mitra-text {
+    font-weight: 600;
+    top: 244px;
+    left: 0px;
+    right: 0px;
+    width: 531px;
+    height: 550px;
+    margin: auto;
+    font-size: 10px;
+    text-align: justify;
+  }
+  .mitra-text21 {
+    top: 200px;
+    left: 0px;
+    right: 0px;
+    width: 650px;
+    margin: auto;
+    font-size: 25px;
+  }
+  .mitra-secion1 {
+    width: 799px;
+    height: 541px;
+  }
+  .button1 {
+    left: 0px;
+    right: 0px;
+    bottom: -2908px;
+    margin: auto;
+    position: absolute;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    justify-content: center;
+    top: 1808px;
+  }
+  .mitra-text23 {
+    top: 8px;
+    left: 57px;
+    position: absolute;
+  }
+  .mitra-web-homepage-rfc1052 {
+    top: -176px;
+    left: -255px;
+    width: 623px;
+    height: 663px;
+  }
+
+  .mitra-text31 {
+    font-size: 25px;
+  }
+  .mitra-footer-group {
+    bottom: 817px;
+  }
+  .mitra-footer {
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    height: 192px;
+  }
+  .mitra-rfclogoi2 {
+    top: 19px;
+    left: 30px;
+  }
+  .mitra-text33 {
+    left: 35px;
+    color: rgb(255, 255, 255);
+    bottom: 1px;
+    font-size: 12px;
+    text-align: justify;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+  .mitra-text41 {
+    align-self: center;
+    margin-left: 250px;
+  }
+  .mitra-sosmed-container-desk {
+    display: none;
+    position: relative;
+  }
+  .mitra-wa {
+    top: -2px;
+    left: 275px;
+    position: absolute;
+  }
+  .mitra-text46 {
+    color: rgb(249, 249, 249);
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-fb {
+    top: -2px;
+    left: 525px;
+    position: absolute;
+  }
+  .mitra-ig {
+    top: -2px;
+    right: -33px;
+    position: absolute;
+  }
+  .mitra-sosmed-mobile {
+    width: 100%;
+    display: flex;
+    position: relative;
+    top: -33px;
+  }
+  .mitra-container04 {
+    top: 0px;
+    left: 243px;
+    width: 166px;
+    position: absolute;
+    padding-left: 2px;
+    flex-direction: row;
+  }
+  .mitra-text51 {
+    top: 19px;
+    color: rgb(249, 249, 249);
+    right: 10px;
+    width: 100px;
+    position: absolute;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container06 {
+    top: 0px;
+    right: 198px;
+    width: 150px;
+    position: absolute;
+    align-self: flex-start;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .mitra-container07 {
+    align-items: flex-start;
+    flex-direction: row;
+  }
+  .mitra-image4 {
+    top: 6px;
+    left: 6px;
+    margin: auto;
+    position: absolute;
+  }
+  .mitra-text52 {
+    top: 19px;
+    color: rgb(255, 255, 255);
+    right: 10px;
+    position: absolute;
+    font-size: 11px;
+    align-self: center;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container08 {
+    top: 0px;
+    flex: 1;
+    right: 41px;
+    position: absolute;
+    align-self: flex-start;
+    justify-content: flex-start;
+    width: 150px;
+  }
+  .mitra-text53 {
+    top: 16px;
+    left: 60px;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-text55 {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+}
+@media (max-width: 390px) {
+  .Page-scroll {
+    font-size: 14px;
+  }
+  .button2 {
+    right: 0px;
+    top: 198px;
+    left: 140px;
+    width: 100px;
+    height: 35px;
+    font-size: 10px;
+  }
+  .mitra-container05 {
+    top: 0px;
+  }
+  .mitra-container07 {
+    top: 0px;
+  }
+  .mitra-container05,
+  .mitra-container07,
+  .mitra-container09 {
+    width: 25px;
+    height: 25px;
+  }
+
+  .mitra-container04,
+  .mitra-container06,
+  .mitra-container08 {
+    width: 167px;
+    height: 25px;
+  }
+
+  .mitra-image3,
+  .mitra-image4,
+  .mitra-image5 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .invest-text-header {
+    top: -72px;
+    left: 0px;
+    right: 0px;
+    font-size: 26px;
+    width: 390px;
+    text-align: center;
+  }
+  .mitra-mitra {
+    height: 2003px;
+  }
+  .mitra-side-bg {
+    height: 2003px;
+  }
+  .mitra-sideplain011 {
+    height: 2003px;
+  }
+  .mitra-sideplain021 {
+    height: 2003px;
+  }
+  .mitra-pemisah {
+    top: 601px;
+    right: -111px;
+    width: 100%;
+    height: 517px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 4px;
+  }
+  .mitra-image281 {
+    top: -353px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    height: 131px;
+    margin: auto;
+    position: absolute;
+    padding-right: 0px;
+  }
+  .mitra-image282 {
+    top: 205px;
+    right: 0px;
+    width: 390px;
+    height: 158px;
+  }
+  .mitra-image283 {
+    top: 360px;
+    left: 0px;
+    right: 0px;
+    bottom: -388px;
+    height: 167px;
+    margin: auto;
+  }
+  .mitra-section4 {
+    top: 1226px;
+    left: 0px;
+    right: 0px;
+    width: 359px;
+    height: 588px;
+    margin: auto;
+  }
+  .mitra-ln1 {
+    top: -25px;
+    left: 0px;
+    right: 0px;
+    width: 212px;
+    height: 105px;
+    margin: auto;
+    position: absolute;
+    padding-right: 0px;
+  }
+  .mitra-stepto-mitra1 {
+    top: 100px;
+    left: 0px;
+    width: 359px;
+    height: 433px;
+  }
+  .mitra-section3 {
+    top: 970px;
+    left: 0px;
+    right: 0px;
+    width: 359px;
+    height: 198px;
+    margin: auto;
+  }
+  .mitra-bene1 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 327px;
+    bottom: 0px;
+    height: 178px;
+    margin: auto;
+  }
+  .mitra-typ1 {
+    top: -141px;
+    left: 192px;
+    width: 133px;
+    height: 126px;
+    margin: auto;
+  }
+  .mitra-section2 {
+    top: 397px;
+    left: 0px;
+    width: 360px;
+    height: 414px;
+    margin: auto;
+    margin-bottom: auto;
+  }
+  .mitra-bergab1 {
+    top: -110px;
+    left: 40px;
+    width: 280px;
+    height: 113px;
+    margin: auto;
+  }
+  .mitra-text {
+    color: rgb(0, 0, 0);
+    width: 330px;
+    height: 350px;
+    font-size: 8px;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+    top: 23px;
+  }
+  .mitra-text21 {
+    width: 360px;
+    font-size: 15px;
+    top: 0px;
+  }
+  .mitra-secion1 {
+    top: 0px;
+    right: -12px;
+    width: 328px;
+    height: 296px;
+  }
+  .button1 {
+    left: -17px;
+    width: 246px;
+    bottom: -1518px;
+    height: 28px;
+    margin: auto;
+  }
+  .mitra-text23 {
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-style: italic;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .mitra-web-homepage-rfc1052 {
+    top: -87px;
+    left: -186px;
+    width: 359px;
+    height: 382px;
+  }
+  .H2-herobodytext {
+    top: 154px;
+    left: 141px;
+    color: rgb(0, 0, 0);
+    margin: 00px;
+    font-size: 8px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    width: 197px;
+  }
+  .H1-heroobodytext {
+    top: 105px;
+    left: 18px;
+    color: rgb(0, 0, 0);
+    margin: 0px;
+    position: absolute;
+    font-size: 15px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .mitra-footer {
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    height: 143px;
+  }
+  .mitra-footer-group {
+    right: -1px;
+    /* bottom: 0px; */
+    align-items: flex-end;
+    top: 1830px;
+  }
+
+  .mitra-rfclogoi2 {
+    top: 44px;
+    left: 29px;
+    width: 100px;
+    height: 24px;
+  }
+  .mitra-text33 {
+    left: 31px;
+    color: rgb(255, 255, 255);
+    bottom: 11px;
+    font-size: 8px;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: none;
+    top: 72px;
+  }
+  .mitra-text41 {
+    top: 5px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    font-size: 10px;
+    align-self: center;
+  }
+  .mitra-sosmed-mobile {
+    right: -30px;
+    bottom: -37px;
+    height: 154px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    top: -1px;
+  }
+  .mitra-container04 {
+    top: 41px;
+    left: 200px;
+
+    margin: auto;
+    position: absolute;
+  }
+  .mitra-container05 {
+    left: 0px;
+    bottom: 7px;
+    position: absolute;
+  }
+
+  .mitra-text51 {
+    top: 8px;
+    left: 30px;
+    color: rgb(249, 249, 249);
+    right: 1px;
+    margin: 0px;
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container06 {
+    top: 66px;
+    left: 200px;
+    position: absolute;
+  }
+  .mitra-container07 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+  }
+  .mitra-text52 {
+    top: 4px;
+    left: 23px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container08 {
+    top: 91px;
+    left: 200px;
+    right: 56px;
+    margin: auto;
+    position: absolute;
+  }
+  .mitra-container09 {
+    top: -5px;
+    left: 0px;
+    position: absolute;
+  }
+  .mitra-text53 {
+    top: 1px;
+    left: 30px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: 0px;
+  }
+  .mitra-container10 {
+    position: relative;
+  }
+  .mitra-burger-menumobile {
+    display: flex;
+  }
+  .mitra-icon {
+    top: 0px;
+    fill: #ffffff;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+    position: absolute;
+  }
+  .mitra-desktop-tabletmenu {
+    padding: 0 0 0 0;
+
+    width: 100%;
+    left: -76px;
+    display: none;
+    align-content: center;
+  }
+}
+@media (max-width: 360px) {
+  .close-burger {
+    left: 313px;
+  }
+  .burger {
+    left: 313px;
+  }
+  .mitra-container05 {
+    top: 0px;
+  }
+  .mitra-container07 {
+    top: 0px;
+  }
+  .mitra-container05,
+  .mitra-container07,
+  .mitra-container09 {
+    width: 25px;
+    height: 25px;
+  }
+
+  .mitra-container04,
+  .mitra-container06,
+  .mitra-container08 {
+    width: 167px;
+    height: 25px;
+  }
+
+  .mitra-image3,
+  .mitra-image4,
+  .mitra-image5 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .invest-text-header {
+    top: -72px;
+    left: 0px;
+    right: 0px;
+    font-size: 26px;
+    width: 390px;
+    text-align: center;
+  }
+  .mitra-mitra {
+    height: 2003px;
+  }
+  .mitra-side-bg {
+    height: 2003px;
+  }
+  .mitra-sideplain011 {
+    height: 2003px;
+  }
+  .mitra-sideplain021 {
+    height: 2003px;
+  }
+  .mitra-pemisah {
+    top: 601px;
+    right: -111px;
+    width: 100%;
+    height: 517px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 4px;
+  }
+  .mitra-image281 {
+    top: -353px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    height: 131px;
+    margin: auto;
+    position: absolute;
+    padding-right: 0px;
+  }
+  .mitra-image282 {
+    top: 205px;
+    right: 0px;
+    width: 390px;
+    height: 158px;
+  }
+  .mitra-image283 {
+    top: 360px;
+    left: 0px;
+    right: 0px;
+    bottom: -388px;
+    height: 167px;
+    margin: auto;
+  }
+  .mitra-section4 {
+    top: 1226px;
+    left: 0px;
+    right: 0px;
+    width: 359px;
+    height: 588px;
+    margin: auto;
+  }
+  .mitra-ln1 {
+    top: -25px;
+    left: 0px;
+    right: 0px;
+    width: 212px;
+    height: 105px;
+    margin: auto;
+    position: absolute;
+    padding-right: 0px;
+  }
+  .mitra-stepto-mitra1 {
+    top: 100px;
+    left: 0px;
+    width: 359px;
+    height: 433px;
+  }
+  .mitra-section3 {
+    top: 970px;
+    left: 0px;
+    right: 0px;
+    width: 359px;
+    height: 198px;
+    margin: auto;
+  }
+  .mitra-bene1 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 327px;
+    bottom: 0px;
+    height: 178px;
+    margin: auto;
+  }
+  .mitra-typ1 {
+    top: -141px;
+    left: 192px;
+    width: 133px;
+    height: 126px;
+    margin: auto;
+  }
+  .mitra-section2 {
+    top: 397px;
+    left: 0px;
+    width: 360px;
+    height: 414px;
+    margin: auto;
+    margin-bottom: auto;
+  }
+  .mitra-bergab1 {
+    top: -110px;
+    left: 40px;
+    width: 280px;
+    height: 113px;
+    margin: auto;
+  }
+  .mitra-text {
+    color: rgb(0, 0, 0);
+    width: 330px;
+    height: 350px;
+    font-size: 8px;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+    top: 23px;
+  }
+  .mitra-text21 {
+    width: 360px;
+    font-size: 15px;
+    top: 0px;
+  }
+  .mitra-secion1 {
+    top: 0px;
+    right: -12px;
+    width: 328px;
+    height: 296px;
+  }
+  .button1 {
+    left: -17px;
+    width: 246px;
+    bottom: -1518px;
+    height: 28px;
+    margin: auto;
+  }
+  .mitra-text23 {
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-style: italic;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .mitra-web-homepage-rfc1052 {
+    top: -87px;
+    left: -186px;
+    width: 359px;
+    height: 382px;
+  }
+  .H2-herobodytext {
+    top: 154px;
+    left: 141px;
+    color: rgb(0, 0, 0);
+    margin: 00px;
+    font-size: 8px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    width: 197px;
+  }
+  .H1-heroobodytext {
+    top: 105px;
+    left: 18px;
+    color: rgb(0, 0, 0);
+    margin: 0px;
+    position: absolute;
+    font-size: 15px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .mitra-footer-group {
+    right: -1px;
+    bottom: -22px;
+    align-items: flex-end;
+  }
+  .mitra-rfclogoi2 {
+    top: 44px;
+    left: 29px;
+    width: 100px;
+    height: 24px;
+  }
+  .mitra-text33 {
+    left: 31px;
+    color: rgb(255, 255, 255);
+    bottom: 11px;
+    font-size: 8px;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: none;
+    top: 72px;
+  }
+  .mitra-text41 {
+    top: -9px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    font-size: 10px;
+    align-self: center;
+  }
+  .mitra-sosmed-mobile {
+    right: -30px;
+    bottom: -37px;
+    height: 154px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    top: -1px;
+  }
+  .mitra-container04 {
+    top: 41px;
+    left: 200px;
+
+    margin: auto;
+    position: absolute;
+  }
+  .mitra-container05 {
+    left: 0px;
+    bottom: 7px;
+    position: absolute;
+  }
+
+  .mitra-text51 {
+    top: 8px;
+    left: 30px;
+    color: rgb(249, 249, 249);
+    right: 1px;
+    margin: 0px;
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container06 {
+    top: 66px;
+    left: 200px;
+    position: absolute;
+  }
+  .mitra-container07 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+  }
+  .mitra-text52 {
+    top: 4px;
+    left: 23px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .mitra-container08 {
+    top: 91px;
+    left: 200px;
+    right: 56px;
+    margin: auto;
+    position: absolute;
+  }
+  .mitra-container09 {
+    top: -5px;
+    left: 0px;
+    position: absolute;
+  }
+  .mitra-text53 {
+    top: 1px;
+    left: 30px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: 0px;
+  }
+  .mitra-container10 {
+    position: relative;
+  }
+  .mitra-burger-menumobile {
+    display: flex;
+  }
+  .mitra-icon {
+    top: 0px;
+    fill: #ffffff;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+    position: absolute;
+  }
+  .mitra-desktop-tabletmenu {
+    display: none;
+  }
+}
