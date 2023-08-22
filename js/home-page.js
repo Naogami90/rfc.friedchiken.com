@@ -1,37 +1,38 @@
 //----------------------------pdf-modal-----------------------------------------------
 // script.js
-const pdfModal = document.getElementById("pdfModal");
-const pdfModalContent = document.querySelector(".modal-content");
-const pdfContainer = document.getElementById("pdfIframe");
-const pdfOpenModalBtns = document.querySelectorAll(".button-pdf");
-const pdfCloseBtn = document.querySelector(".close");
+document.addEventListener("DOMContentLoaded", function () {
+  const pdfModal = document.getElementById("pdfModal");
+  const pdfModalContent = document.querySelector(".modal-content");
+  const pdfContainer = document.getElementById("pdfIframe");
+  const pdfOpenModalBtns = document.querySelectorAll(".button-pdf");
+  const pdfCloseBtn = document.querySelector(".close");
 
-const pdfUrls = [
-  "https://drive.google.com/file/d/1w9MfQySAjVFAkLeoYXbR0v3-3CY1nWSJ/preview",
-  "https://drive.google.com/file/d/1i0mga9tlM43zw55a_2oCwu1dLOY_I_kp/preview",
-  "https://drive.google.com/file/d/1xkLWNoqX7roCER0BAuKctbYmx8a6AOvM/preview",
-];
+  const pdfUrls = [
+    "https://drive.google.com/file/d/1w9MfQySAjVFAkLeoYXbR0v3-3CY1nWSJ/preview",
+    "https://drive.google.com/file/d/1i0mga9tlM43zw55a_2oCwu1dLOY_I_kp/preview",
+    "https://drive.google.com/file/d/1xkLWNoqX7roCER0BAuKctbYmx8a6AOvM/preview",
+  ];
 
-pdfOpenModalBtns.forEach((btn) => {
-  btn.addEventListener("click", () => {
-    pdfModal.style.display = "block";
-    const pdfUrl = btn.dataset.pdf;
-    pdfContainer.src = pdfUrl;
+  pdfOpenModalBtns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      pdfModal.style.display = "block";
+      const pdfUrl = btn.dataset.pdf;
+      pdfContainer.src = pdfUrl;
+    });
   });
-});
 
-pdfCloseBtn.addEventListener("click", () => {
-  pdfModal.style.display = "none";
-  pdfContainer.src = "";
-});
-
-window.addEventListener("click", (event) => {
-  if (event.target === pdfModal) {
+  pdfCloseBtn.addEventListener("click", () => {
     pdfModal.style.display = "none";
     pdfContainer.src = "";
-  }
-});
+  });
 
+  window.addEventListener("click", (event) => {
+    if (event.target === pdfModal) {
+      pdfModal.style.display = "none";
+      pdfContainer.src = "";
+    }
+  });
+});
 //----------------------------pdf-modal-end-----------------------------------------------
 
 //----------------------------register-modal-------------------------------------------

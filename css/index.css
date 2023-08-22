@@ -2529,7 +2529,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 177%;
+    top: 153%;
     left: 0;
     right: 0px;
     width: 100%;
@@ -3533,7 +3533,7 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 265%;
+    top: 218%;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -32444,7 +32444,7 @@ ul li a {
   .home-page2-desktop-tabletmenu {
     /* gap: 21px; */
     top: 0px;
-    left: -1px;
+    left: 0px;
     width: 100%;
     height: 40px;
     display: flex;
@@ -33304,7 +33304,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 15%;
+    /* margin-left: 15%; */
   }
 
   ul.nav-container {
@@ -36659,6 +36659,7 @@ ul li a {
     align-items: center;
     flex-shrink: 0;
     justify-content: flex-end;
+    /* display: none; */
   }
 
   /* navbar list property awal*/
@@ -37505,6 +37506,7 @@ ul li a {
   }
   /* navbar list property awal*/
   .flex-row {
+    /* display: none; */
     display: flex;
     flex-direction: row;
   }

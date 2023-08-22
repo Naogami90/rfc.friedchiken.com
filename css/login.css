@@ -160,6 +160,7 @@ a:hover {
 .flex-column {
   display: flex;
   flex-direction: column;
+  margin-left: 1;
 }
 /* property navibar container */
 

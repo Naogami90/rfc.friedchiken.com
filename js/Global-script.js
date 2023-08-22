@@ -61,9 +61,10 @@ $(document).ready(function () {
   $(".burger").on("click", function () {
     $("ul.flex-row").removeClass("flex-row").addClass("flex-column");
     //home Page
+    $(".home-page2-desktop-tabletmenu").css("margin-top", "25px");
     $(".Home-Navibar-linkcontainer").css("height", "300");
     $(".Home-Navibar-linkcontainer").css("top", "39.5px");
-    $(".home-page2-desktop-tabletmenu").css("height", "350");
+    $(".home-page2-desktop-tabletmenu").css("height", "300");
     $(".home-page2-desktop-tabletmenu").css("display", "flex");
     $(".home-page2-desktop-tabletmenu").css("justify-content", "center");
     //mitra Page
@@ -85,6 +86,7 @@ $(document).ready(function () {
     //home Page
     $(".Home-Navibar-linkcontainer").css("height", "0");
     $(".home-page2-desktop-tabletmenu").css("display", "none");
+    $(".home-page2-desktop-tabletmenu").css("margin-top", "0px");
     $(".home-page2-desktop-tabletmenu").css("height", "40");
     $(".home-page2-desktop-tabletmenu").css("justify-content", "flex-end");
     //mitra Page
@@ -116,11 +118,7 @@ $(document).ready(function () {
       $(".pembatas").css("display", "none");
       $(".splash-container").css("display", "none");
       $(".close-burger, .burger").css("left", "85%");
-      //untuk page mitra
-      $(".mitra-desktop-tabletmenu").css("display", "none");
-      $(".mitra-navbar").css("height", "40");
-      $(".mitra-desktop-tabletmenu").css("height", "40");
-      //page outlet
+      // //page outlet
       $(".outlet-navibar-menu").css("display", "none");
       $(".outlet-navibar").css("height", "40");
       $(".outlet-navibar-menu").css("height", "40");

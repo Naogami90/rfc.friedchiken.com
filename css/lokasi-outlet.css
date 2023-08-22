@@ -154,6 +154,7 @@ ul li a {
 .flex-column {
   display: flex;
   flex-direction: column;
+  margin-right: 35%;
 }
 /* property navibar container */
 
