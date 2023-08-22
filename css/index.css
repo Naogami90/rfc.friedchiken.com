@@ -18830,7 +18830,7 @@ ul li a {
 }
 @media (max-width: 896px) {
   .benefit-splash {
-    top: 101px;
+    top: -246px;
     left: 59px;
     right: 0px;
     width: 467px;
@@ -18839,7 +18839,7 @@ ul li a {
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -18851,7 +18851,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -19023,7 +19023,7 @@ ul li a {
     width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 7%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -19097,10 +19097,10 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 63%;
-    top: 181px;
+    width: 52%;
+    top: -130px;
     left: 24%;
   }
 
@@ -19136,7 +19136,7 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 377px;
+    top: 312px;
     /* left: 16px; */
   }
   .choose1 {
@@ -19195,7 +19195,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5156px;
+    height: 4036px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -19241,7 +19241,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -19279,7 +19279,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -19295,7 +19295,7 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
     width: 812px;
@@ -19350,7 +19350,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -19368,16 +19368,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 173px;
+    height: 43px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 82px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -19408,7 +19408,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -19418,11 +19418,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 588px;
     width: 100%;
-    top: 55px;
+    top: 56px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -19433,7 +19433,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -19442,26 +19442,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 49px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -19489,7 +19489,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 4103px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -20045,25 +20045,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4280px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: 200px;
+    top: 0px;
     left: 0px;
     width: auto;
-    height: 4841px;
+    height: 4278px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
     width: auto;
-    height: 4536px;
+    height: 4262px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -20079,7 +20079,7 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 110px;
+    top: -151px;
     width: 35%;
     height: auto;
     left: 30%;
@@ -20093,14 +20093,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -20108,31 +20108,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 0;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 3755px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -20154,7 +20154,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -20170,16 +20170,17 @@ ul li a {
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -65px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 849px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-stepto-mitra3 {
     display: none;
@@ -20193,16 +20194,17 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3049px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: none;
@@ -20215,10 +20217,10 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 708px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -20249,21 +20251,22 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
+    top: -268px;
     left: 30%;
     /* right: 0%; */
     width: 463px;
@@ -20271,7 +20274,7 @@ ul li a {
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -20289,7 +20292,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 305px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -20324,7 +20327,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: 0%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -20921,18 +20924,18 @@ ul li a {
     text-decoration: none;
   }
 }
-@media (max-width: 852px) {
+@media (max-width: 854px) {
   .benefit-splash {
-    top: 105px;
+    top: -246px;
     left: 59px;
     right: 0px;
-    width: 404px;
+    width: 467px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -20944,7 +20947,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -21116,7 +21119,7 @@ ul li a {
     width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 7%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -21190,10 +21193,10 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 63%;
-    top: 181px;
+    width: 52%;
+    top: -130px;
     left: 24%;
   }
 
@@ -21229,7 +21232,7 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 377px;
+    top: 312px;
     /* left: 16px; */
   }
   .choose1 {
@@ -21288,7 +21291,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5156px;
+    height: 4036px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -21334,7 +21337,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -21372,7 +21375,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -21388,7 +21391,7 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
     width: 812px;
@@ -21443,7 +21446,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -21461,16 +21464,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 173px;
+    height: 43px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 82px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -21501,7 +21504,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -21511,11 +21514,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 588px;
     width: 100%;
-    top: 55px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -21526,7 +21529,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -21535,26 +21538,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 49px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -21582,7 +21585,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 4103px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -21664,7 +21667,7 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 305px;
+    margin-left: 261px;
     flex: 0 0 auto;
     width: 200px;
     height: 50px;
@@ -21982,7 +21985,7 @@ ul li a {
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
@@ -22138,25 +22141,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4280px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: 66px;
+    top: 0px;
     left: 0px;
     width: auto;
-    height: 4841px;
+    height: 4278px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
     width: auto;
-    height: 4536px;
+    height: 4262px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -22172,10 +22175,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 101px;
-    width: 45%;
+    top: -151px;
+    width: 35%;
     height: auto;
-    left: 25%;
+    left: 30%;
   }
   .pemisah-1 {
     position: absolute;
@@ -22186,14 +22189,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -22201,31 +22204,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 0;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 3755px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -22247,7 +22250,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -22263,16 +22266,17 @@ ul li a {
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -65px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 849px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-stepto-mitra3 {
     display: none;
@@ -22286,16 +22290,17 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3049px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: none;
@@ -22308,10 +22313,10 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 708px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -22342,21 +22347,22 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
+    top: -268px;
     left: 30%;
     /* right: 0%; */
     width: 463px;
@@ -22364,7 +22370,7 @@ ul li a {
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -22382,7 +22388,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -22417,7 +22423,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: 0%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -22838,7 +22844,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 10%;
+    margin-left: 20%;
   }
 
   ul.nav-container {
@@ -23016,16 +23022,16 @@ ul li a {
 }
 @media (max-width: 844px) {
   .benefit-splash {
-    top: 105px;
+    top: -246px;
     left: 59px;
     right: 0px;
-    width: 404px;
+    width: 467px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -23037,7 +23043,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -23209,7 +23215,7 @@ ul li a {
     width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 7%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -23283,10 +23289,10 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 63%;
-    top: 181px;
+    width: 52%;
+    top: -130px;
     left: 24%;
   }
 
@@ -23322,7 +23328,7 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 377px;
+    top: 312px;
     /* left: 16px; */
   }
   .choose1 {
@@ -23381,7 +23387,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5156px;
+    height: 3570px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -23427,7 +23433,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -23465,7 +23471,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -23481,7 +23487,7 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
     width: 812px;
@@ -23536,7 +23542,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -23554,16 +23560,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 173px;
+    height: 43px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 82px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -23594,7 +23600,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -23604,11 +23610,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 588px;
     width: 100%;
-    top: 55px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -23619,7 +23625,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -23628,26 +23634,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 49px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -23675,7 +23681,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 4009px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -23757,7 +23763,7 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 305px;
+    margin-left: 261px;
     flex: 0 0 auto;
     width: 200px;
     height: 50px;
@@ -24075,7 +24081,7 @@ ul li a {
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
@@ -24231,25 +24237,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4161px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: 200px;
+    top: 0px;
     left: 0px;
     width: auto;
-    height: 4841px;
+    height: 4162px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
     width: auto;
-    height: 4536px;
+    height: 4170px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -24265,10 +24271,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 101px;
-    width: 45%;
+    top: -151px;
+    width: 35%;
     height: auto;
-    left: 25%;
+    left: 30%;
   }
   .pemisah-1 {
     position: absolute;
@@ -24279,14 +24285,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -24294,31 +24300,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 0;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 3755px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -24340,7 +24346,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -24349,7 +24355,6 @@ ul li a {
     position: absolute;
   }
   .mitra-stepto-mitra1 {
-    display: block;
     top: 369px;
     left: 0px;
     right: 0px;
@@ -24357,16 +24362,17 @@ ul li a {
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 361px;
+    top: -71px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 849px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-stepto-mitra3 {
     display: none;
@@ -24380,16 +24386,17 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3049px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: none;
@@ -24402,10 +24409,10 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 708px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -24436,21 +24443,22 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
+    top: -268px;
     left: 30%;
     /* right: 0%; */
     width: 463px;
@@ -24458,7 +24466,7 @@ ul li a {
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -24476,7 +24484,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -24511,7 +24519,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: 5%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -24932,7 +24940,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 10%;
+    margin-left: 20%;
   }
 
   ul.nav-container {
@@ -25110,16 +25118,16 @@ ul li a {
 }
 @media (max-width: 820px) {
   .benefit-splash {
-    top: 105px;
+    top: -246px;
     left: 59px;
     right: 0px;
-    width: 404px;
+    width: 467px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -25131,7 +25139,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -25303,7 +25311,7 @@ ul li a {
     width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 6%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -25377,10 +25385,10 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 63%;
-    top: 181px;
+    width: 52%;
+    top: -130px;
     left: 24%;
   }
 
@@ -25416,7 +25424,7 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 377px;
+    top: 312px;
     /* left: 16px; */
   }
   .choose1 {
@@ -25475,7 +25483,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5153px;
+    height: 3570px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -25521,7 +25529,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -25559,7 +25567,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -25575,7 +25583,7 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
     width: 812px;
@@ -25630,7 +25638,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -25648,16 +25656,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 173px;
+    height: 43px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 82px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -25688,7 +25696,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -25698,11 +25706,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 588px;
     width: 100%;
-    top: 55px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -25713,7 +25721,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -25722,26 +25730,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 49px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -25769,7 +25777,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 4009px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -25851,9 +25859,9 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 325px;
+    margin-left: 261px;
     flex: 0 0 auto;
-    width: 174px;
+    width: 200px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -25883,7 +25891,7 @@ ul li a {
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 158px;
+    width: 200px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -26169,7 +26177,7 @@ ul li a {
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
@@ -26325,25 +26333,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4161px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: -153px;
+    top: 0px;
     left: 0px;
     width: auto;
-    height: 4841px;
+    height: 4162px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
     width: auto;
-    height: 4536px;
+    height: 4170px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -26359,10 +26367,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 101px;
-    width: 45%;
+    top: -151px;
+    width: 35%;
     height: auto;
-    left: 25%;
+    left: 30%;
   }
   .pemisah-1 {
     position: absolute;
@@ -26373,14 +26381,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -26388,31 +26396,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 0;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 3755px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -26434,7 +26442,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -26450,16 +26458,17 @@ ul li a {
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -71px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 807px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-stepto-mitra3 {
     display: none;
@@ -26473,16 +26482,17 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3049px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: none;
@@ -26495,10 +26505,10 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 708px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -26529,21 +26539,22 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
+    top: -268px;
     left: 30%;
     /* right: 0%; */
     width: 463px;
@@ -26551,7 +26562,7 @@ ul li a {
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -26569,7 +26580,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -26604,7 +26615,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: 5%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -27025,7 +27036,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 10%;
+    margin-left: 20%;
   }
 
   ul.nav-container {
@@ -27203,16 +27214,16 @@ ul li a {
 }
 @media (max-width: 812px) {
   .benefit-splash {
-    top: 105px;
+    top: -246px;
     left: 59px;
     right: 0px;
-    width: 404px;
+    width: 467px;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: -148px;
     left: 0px;
     right: 0px;
     width: 294px;
@@ -27224,7 +27235,7 @@ ul li a {
   .button-sertifikat {
     display: flex;
     position: absolute;
-    top: 81%;
+    top: 76%;
     left: 0%;
     right: 0%;
     justify-content: center;
@@ -27396,7 +27407,7 @@ ul li a {
     width: 90%;
     height: 75%;
     /* background: rgb(169 169 169); */
-    top: 15%;
+    top: 16%;
     border-radius: 10px 10px 0 0;
   }
   .modal {
@@ -27470,10 +27481,10 @@ ul li a {
     height: 500px;
     margin: auto;
     position: absolute;
-    margin: 2.5%;
+    margin: 4.5%;
     /* margin-left: 9%; */
-    width: 63%;
-    top: 181px;
+    width: 52%;
+    top: -130px;
     left: 24%;
   }
 
@@ -27509,7 +27520,7 @@ ul li a {
   .choose2,
   .choose3,
   .choose4 {
-    top: 377px;
+    top: 312px;
     /* left: 16px; */
   }
   .choose1 {
@@ -27568,7 +27579,7 @@ ul li a {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    height: 5153px;
+    height: 3570px;
     /* background: #000; */
   }
   .home-page2-home-page2 {
@@ -27614,7 +27625,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1267px;
+    top: 1489px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -27652,7 +27663,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 390px;
+    top: 608px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -27668,7 +27679,7 @@ ul li a {
   }
   .tentang-container {
     z-index: 2;
-    top: 266px;
+    top: 0px;
     left: 0px;
     right: 0px;
     width: 812px;
@@ -27723,7 +27734,7 @@ ul li a {
     position: absolute;
   }
   .home-page2-text02 {
-    top: 150px;
+    top: 129px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -27741,16 +27752,16 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-rfclogoi1 {
-    top: 44px;
+    top: 32px;
     left: 0px;
     right: 0px;
-    width: 230px;
-    height: 53px;
+    width: 173px;
+    height: 43px;
     margin: auto;
     position: absolute;
   }
   .home-page2-text19 {
-    top: 105px;
+    top: 82px;
     left: 0px;
     color: rgba(255, 134, 0, 1);
     right: 0px;
@@ -27781,7 +27792,7 @@ ul li a {
   .home-page2-web-homepage-rfc1052 {
     top: -20px;
     left: -3px;
-    width: 362px;
+    width: 288px;
     height: auto;
     position: absolute;
     z-index: 5;
@@ -27791,11 +27802,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 483px;
+    max-width: 588px;
     width: 100%;
-    top: 55px;
+    top: 48px;
     /* bottom: -149px; */
-    height: 300px;
+    height: 262px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -27806,7 +27817,7 @@ ul li a {
     background-color: rgba(255, 255, 255, 0.89);
   }
   .home-page2-text20 {
-    top: 26px;
+    top: 10px;
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
@@ -27815,26 +27826,26 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 22px;
+    font-size: 20px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-weight: 600;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 67px;
+    top: 49px;
     /* left: -13%; */
-    right: 16%;
+    right: 15%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
     width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 42px;
+    font-size: 34px;
     font-style: ExtraBold;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -27862,7 +27873,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 4898px;
+    top: 4009px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -27944,9 +27955,9 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 325px;
+    margin-left: 261px;
     flex: 0 0 auto;
-    width: 174px;
+    width: 200px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -27976,7 +27987,7 @@ ul li a {
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 158px;
+    width: 200px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -28262,7 +28273,7 @@ ul li a {
     width: 100%;
     height: 40px;
     display: flex;
-    padding: 0 88px 0 0;
+    padding: 0 50px 0 0;
     z-index: 100;
     position: fixed;
     align-items: center;
@@ -28418,25 +28429,25 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 4161px;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: -153px;
+    top: 0px;
     left: 0px;
     width: auto;
-    height: 4841px;
+    height: 4162px;
     position: absolute;
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
     width: auto;
-    height: 4536px;
+    height: 4170px;
     position: absolute;
   }
   .mitra-pemisah {
@@ -28452,10 +28463,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 101px;
-    width: 45%;
+    top: -151px;
+    width: 35%;
     height: auto;
-    left: 25%;
+    left: 30%;
   }
   .pemisah-1 {
     position: absolute;
@@ -28466,14 +28477,14 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: -345px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: -265px;
     left: 0px;
     width: 100%;
     height: 250px;
@@ -28481,31 +28492,31 @@ ul li a {
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: -277px;
     left: 0px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: -346px;
     left: -1px;
     width: 100%;
     height: 250px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 0;
+    top: -476px;
     left: 0px;
     width: 100%;
     position: absolute;
   }
   .mitra-section4 {
-    top: 3580px;
+    top: 3755px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1058px;
+    height: 270px;
     margin: auto;
     display: flex;
     position: absolute;
@@ -28527,7 +28538,7 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 140px;
+    top: -338px;
     left: 0px;
     right: 0px;
     width: 355px;
@@ -28543,16 +28554,17 @@ ul li a {
     height: 753px;
     margin: auto;
     position: absolute;
+    display: none;
   }
   .mitra-stepto-mitra2 {
-    top: 304px;
+    top: -71px;
     left: 0px;
     right: 0px;
-    width: 1024px;
-    height: 380px;
+    width: 807px;
+    height: auto;
     margin: auto;
     position: absolute;
-    display: none;
+    display: block;
   }
   .mitra-stepto-mitra3 {
     display: none;
@@ -28566,16 +28578,17 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 2853px;
+    top: 3049px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 941px;
+    height: 322px;
     margin: auto;
     display: flex;
     position: absolute;
     align-items: flex-start;
     flex-shrink: 1;
+    /* background: bisque; */
   }
   .mitra-bene2 {
     display: none;
@@ -28588,10 +28601,10 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 294px;
+    top: -46px;
     left: 0px;
     right: 0px;
-    width: 708px;
+    width: 549px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -28622,21 +28635,22 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 1920px;
+    top: 2161px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 1030px;
+    height: 692px;
     margin: auto;
     display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;
     text-align: justify;
+    /* background: burlywood; */
     z-index: 5;
   }
   .mitra-bergab1 {
-    top: 82px;
+    top: -268px;
     left: 30%;
     /* right: 0%; */
     width: 463px;
@@ -28644,7 +28658,7 @@ ul li a {
     position: absolute;
   }
   .mitra-text {
-    top: 352px;
+    top: 55px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -28662,7 +28676,7 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 281px;
+    top: 0px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
@@ -28697,7 +28711,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: -18%;
+    bottom: 5%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
@@ -29118,7 +29132,7 @@ ul li a {
   .flex-column {
     display: flex;
     flex-direction: column;
-    margin-left: 0px;
+    margin-left: 20%;
   }
 
   ul.nav-container {

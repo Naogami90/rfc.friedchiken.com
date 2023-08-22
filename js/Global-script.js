@@ -64,6 +64,7 @@ $(document).ready(function () {
     $(".home-page2-desktop-tabletmenu").css("margin-top", "25px");
     $(".Home-Navibar-linkcontainer").css("height", "300");
     $(".Home-Navibar-linkcontainer").css("top", "39.5px");
+    $(".flex-column").css("margin-left", "5% ");
     $(".home-page2-desktop-tabletmenu").css("height", "300");
     $(".home-page2-desktop-tabletmenu").css("display", "flex");
     $(".home-page2-desktop-tabletmenu").css("justify-content", "center");
@@ -87,6 +88,7 @@ $(document).ready(function () {
     $(".Home-Navibar-linkcontainer").css("height", "0");
     $(".home-page2-desktop-tabletmenu").css("display", "none");
     $(".home-page2-desktop-tabletmenu").css("margin-top", "0px");
+    $(".flex-column").css("margin-left", "0% ");
     $(".home-page2-desktop-tabletmenu").css("height", "40");
     $(".home-page2-desktop-tabletmenu").css("justify-content", "flex-end");
     //mitra Page
