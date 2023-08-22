@@ -40647,6 +40647,7 @@ ul li a {
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin-left: -1px;
   }
   .home-page2-image2 {
     width: 30px;
@@ -40745,6 +40746,7 @@ ul li a {
     object-fit: cover;
   }
   .home-page2-text47 {
+    font-size: 12px;
     color: #ffffff;
     font-style: normal;
     font-weight: 600;
@@ -41128,7 +41130,7 @@ ul li a {
     position: absolute;
   }
   .mitra-section4 {
-    top: 4852px;
+    top: 4879px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -41207,7 +41209,7 @@ ul li a {
   }
   .mitra-bene2 {
     display: block;
-    top: 307px;
+    top: 297px;
     left: 0px;
     right: 0px;
     width: 84%;
@@ -41951,8 +41953,8 @@ ul li a {
     left: 5%;
     right: 0%;
     justify-content: center;
-    width: 92%;
-    height: 45px;
+    width: 94%;
+    height: 72px;
   }
   .pembatas {
     margin-top: 1px;
@@ -41982,8 +41984,8 @@ ul li a {
     transition: background-color 0.3s ease-in-out;
   }
   .button-pdf {
-    margin-right: 15px;
-    margin-left: 15px;
+    margin-right: 10px;
+    margin-left: 12px;
     height: 51px;
     display: block;
     width: 90%;
@@ -42737,7 +42739,7 @@ ul li a {
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 177px;
+    width: 100px;
     height: 30px;
     display: flex;
     align-items: center;
@@ -42752,6 +42754,7 @@ ul li a {
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-left: -39px;
     justify-content: center;
   }
   .home-page2-image2 {
@@ -42851,6 +42854,7 @@ ul li a {
     object-fit: cover;
   }
   .home-page2-text47 {
+    font-size: 12px;
     color: #ffffff;
     font-style: normal;
     font-weight: 600;
