@@ -27483,7 +27483,7 @@ ul li a {
     position: absolute;
     margin: 4.5%;
     /* margin-left: 9%; */
-    width: 52%;
+    width: 60%;
     top: -130px;
     left: 24%;
   }
@@ -31675,7 +31675,7 @@ ul li a {
     position: absolute;
     margin: 4.5%;
     /* margin-left: 9%; */
-    width: 52%;
+    width: 57%;
     top: -130px;
     left: 24%;
   }
@@ -32757,7 +32757,7 @@ ul li a {
     top: -71px;
     left: 0px;
     right: 0px;
-    width: 763px;
+    width: 746px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -32901,14 +32901,14 @@ ul li a {
     flex-shrink: 1;
   }
   .button1 {
-    display: inline-block;
     font-family: Montserrat Alternates;
-    font-weight: 500;
+    font-size: 12px;
+    font-weight: 600;
     color: #fefefe;
     left: 0px;
     right: 0px;
     width: 349px;
-    bottom: 5%;
+    bottom: 10%;
     margin: auto;
     display: flex;
     padding: 14px 25px;
