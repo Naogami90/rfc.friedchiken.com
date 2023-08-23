@@ -41928,19 +41928,19 @@ ul li a {
 }
 @media (max-width: 360px) {
   .benefit-splash {
-    top: 113px;
+    top: 149px;
     left: 0px;
     right: 0px;
-    width: 100%;
+    width: 81%;
     height: auto;
     margin: auto;
     position: absolute;
   }
   .produk-kami-h2 {
-    top: 120px;
+    top: 132px;
     left: 0px;
     right: 0px;
-    width: 294px;
+    width: 226px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -43189,10 +43189,10 @@ ul li a {
   .tentang-splash {
     /* z-index: 0; */
     position: absolute;
-    top: 113px;
-    width: 88%;
+    top: 119px;
+    width: 75%;
     height: auto;
-    left: 4%;
+    left: 11%;
   }
   .pemisah-1 {
     position: absolute;
@@ -43203,38 +43203,39 @@ ul li a {
     z-index: 3;
   }
   .section3-pemisah {
-    top: 0;
+    top: 50px;
     left: 0px;
     width: 100%;
-    height: 250px;
+    height: 170px;
     position: absolute;
   }
   .section2-pemisah {
-    top: 0px;
+    top: 46px;
     left: 0px;
     width: 100%;
-    height: 250px;
+    height: 170px;
     position: absolute;
   }
 
   .mitra-image281 {
-    top: 0px;
+    top: 50px;
     left: 0px;
     width: 100%;
-    height: 250px;
+    height: 170px;
     position: absolute;
   }
   .mitra-image282 {
-    top: 0px;
+    top: 75px;
     left: -1px;
     width: 100%;
-    height: 250px;
+    height: 170px;
     position: absolute;
   }
   .mitra-image283 {
-    top: 39px;
+    top: 127px;
     left: 0px;
     width: 100%;
+    height: 170px;
     position: absolute;
   }
   .mitra-section4 {
@@ -43264,10 +43265,10 @@ ul li a {
     /* background: #ee909077; */
   }
   .mitra-ln1 {
-    top: 149px;
+    top: 176px;
     left: 13px;
     right: 0px;
-    width: 320px;
+    width: 239px;
     height: auto;
     margin: auto;
     position: absolute;

@@ -1,4 +1,19 @@
-.outlet-page {
+.judul1 {
+  font-size: 30px;
+}
+.login-navimenu-container {
+  z-index: 100;
+  position: absolute;
+  flex: 0 0 auto;
+  width: 100%;
+  height: 0px;
+  top: 0px;
+  display: flex;
+
+  background-color: #810000;
+}
+
+.login-page {
   width: 100%;
   height: 800px;
   display: flex;
@@ -61,12 +76,12 @@
   font-size: 40px;
 }
 /* bentuk navibar */
-.outlet-navibar {
+.login-navibar {
   flex: 0 0 auto;
   width: 100%;
   height: 40px;
   display: flex;
-  z-index: 10;
+  z-index: 150;
   position: fixed;
   box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
   align-items: flex-start;
@@ -100,17 +115,19 @@
 /* ---------------------------------------------------------------------------------------- */
 /* navibar Link container awal */
 .outlet-navibar-menu {
+  text-align: center;
   top: 0px;
   left: 0px;
   width: 100%;
   height: 40px;
   display: flex;
-  padding: 0 88px 0 0;
-  z-index: 100;
+  padding: 0 88px 0 88px;
+  /* z-index: 100; */
   position: fixed;
   align-items: center;
   flex-shrink: 0;
   justify-content: flex-end;
+  /* background: #7d0101; */
 }
 ul.nav-container {
   list-style-type: none;
@@ -160,7 +177,9 @@ a:hover {
 .flex-column {
   display: flex;
   flex-direction: column;
-  margin-left: 1;
+  margin-left: 0px;
+  justify-content: center;
+  /* margin-left: 17%; */
 }
 /* property navibar container */
 
@@ -205,13 +224,14 @@ a:hover {
   height: 400px;
   display: flex;
   flex-direction: column;
+  position: absolute;
   align-items: center;
 }
 .log-area {
   width: 100%;
   height: 400px;
   position: absolute;
-  top: 20%;
+  top: 050px;
 }
 .splash-container {
   z-index: 2;
@@ -233,11 +253,12 @@ a:hover {
   width: 400px;
   height: 100%;
   top: 0%;
+  left: 4%;
 }
 
 h1 {
   text-align: center;
-  margin-bottom: 10px;
+  margin-bottom: 13px;
 }
 
 form {
@@ -257,24 +278,26 @@ label {
   top: -11px;
   left: 0px;
   width: 100%;
-  height: 4844px;
+  height: 1000px;
   display: flex;
   position: absolute;
   align-items: flex-start;
+  overflow: hidden;
   flex-shrink: 1;
+  z-index: 1;
 }
 .bg-sisi-kiri {
   top: -6px;
   left: 0px;
-  width: auto;
-  height: 4841px;
+  width: 100%;
+  height: auto;
   position: absolute;
 }
 .bg-sisi-kanan {
   top: -7%;
   right: 0px;
-  width: auto;
-  height: 4536px;
+  width: 100%;
+  height: auto;
   position: absolute;
 }
 /* input {
@@ -405,7 +428,7 @@ button:hover {
 /* login akhir */
 @media (max-width: 2560px) {
   /* 1440 */
-  .outlet-page {
+  .login-page {
     height: 1440px;
   }
   .login-container {
@@ -418,11 +441,26 @@ button:hover {
   }
 }
 @media (max-width: 1920px) {
+  .bg-sisi-kiri {
+    height: auto;
+    width: 50%;
+  }
+  .bg-sisi-kanan {
+    height: auto;
+    width: 50%;
+  }
+  .splash-logo {
+    left: 19%;
+  }
+  .splash-container {
+    top: 45%;
+  }
   /* 1080 */
-  .outlet-page {
+  .login-page {
     height: 1080px;
   }
   .login-container {
+    top: 45%;
     width: 25%;
   }
   button {
@@ -431,12 +469,17 @@ button:hover {
   }
 }
 @media (max-width: 1440px) {
+  .splash-container {
+    top: 37%;
+  }
+
   /* 1080 */
-  .outlet-page {
+  .login-page {
     height: 1080px;
   }
   .login-container {
     width: 25%;
+    top: 37%;
   }
   button {
     width: 87%;
@@ -445,22 +488,70 @@ button:hover {
 }
 @media (max-width: 1366px) {
   /* 768   */
-  .outlet-page {
+  .splash-logo {
+    left: 6%;
+  }
+  .splash-container {
+    top: 18%;
+  }
+  .login-page {
     height: 768px;
   }
   .login-container {
     width: 25%;
+    top: 18%;
   }
 }
 @media (max-width: 1280px) {
   /* 720   */
-  .outlet-page {
+  .login-page {
     height: 720px;
+  }
+  .login-container {
+    width: 25%;
+    top: 25%;
+  }
+  .splash-container {
+    top: 25%;
+  }
+  .splash-logo {
+    left: 2%;
+  }
+}
+@media (max-width: 1090px) {
+  h1 {
+    /* position: absolute; */
+    margin-top: 11px;
+  }
+  #login-form {
+    top: 3%;
+  }
+  .Judul-2 {
+    top: 0px;
+    position: absolute;
+    top: 99px;
+  }
+  /* 720   */
+  .login-page {
+    height: 720px;
+  }
+  .login-container {
+    width: 27%;
+    top: 13%;
+  }
+  .splash-container {
+    top: 13%;
+  }
+  .splash-logo {
+    left: -8%;
   }
 }
 @media (max-width: 1024px) {
+  .log-area {
+    top: 113px;
+  }
   /* 768  */
-  .outlet-page {
+  .login-page {
     height: 768px;
   }
   .splash-logo {
@@ -471,14 +562,14 @@ button:hover {
     left: -2%;
   }
 }
+
 @media (max-width: 896px) {
   /* 768  */
-  .outlet-page {
+  .login-page {
     height: 414px;
   }
   .log-area {
-    top: 19.5%;
-
+    top: 29px;
     height: 300px;
   }
   .login-container {
@@ -490,7 +581,7 @@ button:hover {
     top: 0%;
   }
   .Judul-2 {
-    margin-top: -10px;
+    margin-top: -23px;
     margin-bottom: 10px;
   }
   button {
@@ -519,11 +610,11 @@ button:hover {
 }
 @media (max-width: 880px) {
   /* 768  */
-  .outlet-page {
+  .login-page {
     height: 414px;
   }
   .log-area {
-    top: 2.5%;
+    top: 24px;
     height: 300px;
   }
   .login-container {
@@ -564,24 +655,23 @@ button:hover {
 }
 @media (max-width: 844px) {
   /* 768  */
-  .outlet-page {
+  .login-page {
     height: 414px;
   }
   .log-area {
-    top: 6.5%;
-
+    top: 14px;
     height: 300px;
   }
   .login-container {
     width: 36%;
     height: 300px;
-    margin-left: 50%;
+    margin-left: 32%;
   }
   #login-form {
     top: 0%;
   }
   .Judul-2 {
-    margin-top: -10px;
+    margin-top: -21px;
     margin-bottom: 10px;
   }
   button {
@@ -610,24 +700,23 @@ button:hover {
 }
 @media (max-width: 800px) {
   /* 768  */
-  .outlet-page {
-    height: 390px;
+  .login-page {
+    height: 414px;
   }
   .log-area {
-    top: 6.5%;
-
+    top: 14px;
     height: 300px;
   }
   .login-container {
     width: 36%;
     height: 300px;
-    margin-left: 50%;
+    margin-left: 32%;
   }
   #login-form {
     top: 0%;
   }
   .Judul-2 {
-    margin-top: -10px;
+    margin-top: -21px;
     margin-bottom: 10px;
   }
   button {
@@ -644,7 +733,7 @@ button:hover {
     width: 273px;
     height: 80%;
     top: 9%;
-    left: -4%;
+    left: 5%;
   }
   .text-input {
     height: 35px;
@@ -656,24 +745,23 @@ button:hover {
 }
 @media (max-width: 780px) {
   /* 768  */
-  .outlet-page {
-    height: 390px;
+  .login-page {
+    height: 414px;
   }
   .log-area {
-    top: 6.5%;
-
+    top: 14px;
     height: 300px;
   }
   .login-container {
     width: 36%;
     height: 300px;
-    margin-left: 50%;
+    margin-left: 32%;
   }
   #login-form {
     top: 0%;
   }
   .Judul-2 {
-    margin-top: -10px;
+    margin-top: -21px;
     margin-bottom: 10px;
   }
   button {
@@ -690,7 +778,7 @@ button:hover {
     width: 273px;
     height: 80%;
     top: 9%;
-    left: -4%;
+    left: 5%;
   }
   .text-input {
     height: 35px;
@@ -702,24 +790,24 @@ button:hover {
 }
 @media (max-width: 767px) {
   /* 768  */
-  .outlet-page {
-    height: 360px;
+  .login-page {
+    height: 414px;
   }
   .log-area {
-    top: 6.5%;
-
+    top: 14px;
     height: 300px;
   }
   .login-container {
     width: 36%;
     height: 300px;
-    margin-left: 50%;
+    margin-left: 32%;
   }
   #login-form {
     top: 0%;
   }
   .Judul-2 {
-    margin-top: -10px;
+    font-size: 12px;
+    margin-top: -21px;
     margin-bottom: 10px;
   }
   button {
@@ -736,7 +824,7 @@ button:hover {
     width: 273px;
     height: 80%;
     top: 9%;
-    left: -4%;
+    left: 5%;
   }
   .text-input {
     height: 35px;
@@ -746,26 +834,28 @@ button:hover {
     top: 18%;
   }
 }
-@media (max-width: 662px) {
+@media (max-width: 622px) {
+  .judul1 {
+    font-size: 20px;
+  }
   /* 768  */
-  .outlet-page {
-    height: 390px;
+  .login-page {
+    height: 414px;
   }
   .log-area {
-    top: 6.5%;
-
+    top: 14px;
     height: 300px;
   }
   .login-container {
     width: 36%;
     height: 300px;
-    margin-left: 50%;
+    margin-left: 32%;
   }
   #login-form {
     top: 0%;
   }
   .Judul-2 {
-    margin-top: -10px;
+    margin-top: -21px;
     margin-bottom: 10px;
   }
   button {
@@ -782,7 +872,7 @@ button:hover {
     width: 273px;
     height: 80%;
     top: 9%;
-    left: -16%;
+    left: 5%;
   }
   .text-input {
     height: 35px;
@@ -792,8 +882,11 @@ button:hover {
     top: 18%;
   }
 }
-@media (max-width: 428px) {
-  .outlet-page {
+@media (max-width: 430px) {
+  #login-form {
+    top: 242px;
+  }
+  .login-page {
     height: 896px;
   }
   .splash-container {
@@ -816,8 +909,9 @@ button:hover {
     display: none;
   }
   .Judul-2 {
-    margin-top: 185px;
+    margin-top: 136px;
     margin-bottom: 8px;
+    font-weight: 600;
   }
   .log-mobile {
     position: absolute;
@@ -826,7 +920,7 @@ button:hover {
   }
 }
 @media (max-width: 390px) {
-  .outlet-page {
+  .login-page {
     height: 896px;
   }
   .splash-container {
@@ -838,15 +932,14 @@ button:hover {
     margin-left: 10%;
   }
   .log-area {
-    top: 20.5%;
-
+    top: 62px;
     height: 500px;
   }
   h1 {
     display: none;
   }
   .Judul-2 {
-    margin-top: 185px;
+    margin-top: 142px;
     margin-bottom: 8px;
   }
   .log-mobile {
