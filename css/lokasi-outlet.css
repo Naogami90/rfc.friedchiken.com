@@ -142,6 +142,7 @@ ul.nav-container {
 li {
   list-style: none;
   line-height: 40px;
+  color: white;
 }
 ul li a {
   padding: 0 10px;
@@ -1856,7 +1857,7 @@ td {
   .judul {
     position: absolute;
     height: 120px;
-    top: 51%;
+    top: 74%;
     width: 50%;
     align-content: center;
     align-items: center;
@@ -1867,7 +1868,7 @@ td {
     z-index: 2;
     font-family: Montserrat Alternates;
     color: #ffffff;
-    font-size: 40px;
+    font-size: 35px;
   }
   /* bentuk navibar */
   .outlet-navibar {
@@ -1936,6 +1937,7 @@ td {
     /* margin: 5px 0px 0px 0px; */
     /* padding: 5px 5px 5px 5px; */
     margin-right: 5px;
+    color: white;
   }
   ul li a {
     padding: 0 10px;
@@ -2001,18 +2003,18 @@ td {
     border-radius: 10px;
     position: absolute;
     width: 90%;
-    height: 577px;
-    top: 63px;
+    height: 560px;
+    top: 56px;
     /* left: 5%;
     right: 5%; */
     background-color: #f10000;
     /* overflow: auto; */
   }
   .form-map {
-    top: 10%;
+    top: 13%;
     width: 61%;
     position: absolute;
-    height: 345px;
+    height: 311px;
     background: #ffffff;
     border-width: 0.25px; /* Atur sesuai kebutuhan */
     border: solid #00000028;
@@ -2024,7 +2026,7 @@ td {
   .map-size {
     position: absolute;
     width: 96%;
-    height: 301px;
+    height: 267px;
     left: 2%;
     right: 2%;
     top: 5%;
@@ -2034,7 +2036,7 @@ td {
   }
   #mapFrame {
     width: 100%;
-    height: 292px;
+    height: 261px;
     border: 0;
   }
   .title-table {
@@ -2053,9 +2055,9 @@ td {
     border: solid #00000028;
     background-color: #ffffff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 61%);
-    top: 10%;
+    top: 13%;
     right: 3%;
-    height: 488px;
+    height: 455px;
   }
   .table-outlet {
     height: 200px;
@@ -2063,13 +2065,13 @@ td {
   }
   table {
     border-collapse: collapse;
-    width: 100%;
+    width: 98%;
     border: 1px solid #ffffff;
-
     font-size: 12px;
     font-family: Montserrat Alternates;
     font-weight: 500;
     text-align: center;
+    /* height: 512px; */
   }
   td {
     border: 1px solid #181818;
@@ -2108,6 +2110,7 @@ td {
     position: absolute;
     border-radius: 8px;
     left: 5%;
+    height: 191px;
   }
   .scrollable-container {
     top: 13%;
@@ -2119,15 +2122,17 @@ td {
   }
   .title-detail-alamat {
     position: absolute;
-    bottom: 118px;
+    bottom: 162px;
     left: 5%;
+    font-size: 17px;
+    font-weight: 700;
   }
   #detail-container {
     font-family: Montserrat Alternates;
     font-weight: 500;
     font-size: 12px;
     position: absolute;
-    top: 79%;
+    top: 67%;
     bottom: 20%;
     left: 5%;
   }
@@ -2140,11 +2145,11 @@ td {
     bottom: 16%;
     left: 3%;
     width: 61%;
-    height: 164px;
+    height: 166px;
   }
   .outlet-alamt-footer {
     position: absolute;
-    top: 98%;
+    top: 89%;
     color: rgba(255, 255, 255, 1);
     height: auto;
     font-size: 12px;
@@ -2158,7 +2163,7 @@ td {
     height: 80px;
   }
   .footer-logo {
-    top: 64%;
+    top: 60%;
     left: 0px;
     width: 181px;
     height: 44px;
@@ -2167,7 +2172,7 @@ td {
   .sosial-media {
     position: absolute;
     left: 191px;
-    top: 115px;
+    top: 90px;
     width: 70%;
     height: 73px;
     right: 0px;
@@ -2205,7 +2210,7 @@ td {
     height: 45px;
   }
   .wa {
-    left: 14%;
+    left: 19%;
   }
   .fb {
     left: 50%;
@@ -2217,10 +2222,10 @@ td {
     left: -45%;
   }
   .footer-fb {
-    left: -45%;
+    left: -36%;
   }
   .footer-ig {
-    left: -45%;
+    left: -34%;
   }
   .sosial-text-container {
     top: 30%;
@@ -2228,7 +2233,7 @@ td {
     width: 100%;
     height: 73px;
     left: 0px;
-    font-size: 14px;
+    font-size: 12px;
     color: #ffffff;
     text-align: center;
     font-style: medium;
@@ -5414,7 +5419,7 @@ td {
     left: 90%;
   }
   .outlet-navibar-menu {
-    left: -75px;
+    left: 0px;
   }
 
   .sosial-container {
@@ -5581,7 +5586,7 @@ td {
     left: 90%;
   }
   .outlet-navibar-menu {
-    left: -75px;
+    left: 0px;
   }
 
   .sosial-container {
@@ -5748,7 +5753,7 @@ td {
     left: 90%;
   }
   .outlet-navibar-menu {
-    left: -75px;
+    left: 0px;
   }
 
   .sosial-container {
