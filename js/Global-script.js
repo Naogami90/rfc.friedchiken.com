@@ -62,10 +62,10 @@ $(document).ready(function () {
     $("ul.flex-row").removeClass("flex-row").addClass("flex-column");
     //home Page
     $(".home-page2-desktop-tabletmenu").css("margin-top", "25px");
-    $(".Home-Navibar-linkcontainer").css("height", "250");
+    $(".Home-Navibar-linkcontainer").css("height", "300px");
     $(".Home-Navibar-linkcontainer").css("top", "39.5px");
 
-    $(".home-page2-desktop-tabletmenu").css("height", "250");
+    $(".home-page2-desktop-tabletmenu").css("height", "300px");
     $(".home-page2-desktop-tabletmenu").css("display", "flex");
     $(".home-page2-desktop-tabletmenu").css("justify-content", "center");
     //mitra Page
@@ -74,7 +74,7 @@ $(document).ready(function () {
     $(".mitra-desktop-tabletmenu").css("display", "flex");
     //Outlet Page
     // $(".outlet-navibar").css("height", "360");
-    $(".outlet-navibar-menu").css("height", "250px");
+    $(".outlet-navibar-menu").css("height", "300px");
     $(".outlet-navibar-menu").css("top", "39.5px");
     $(".outlet-navibar-menu").css("display", "flex");
     $(".outlet-navibar-menu").css("background", "#690f0f");
@@ -112,14 +112,17 @@ $(document).ready(function () {
   // Fungsi untuk mengeksekusi kode saat resolusi berubah
   function handleResolutionChange() {
     var screenWidth = $(window).width();
-    if (screenWidth > 2560) {
+    if (screenWidth > 2570) {
       $(".Home-Navibar").css("height", "80px");
       $(".home-page2-desktop-tabletmenu").css("height", "80px");
       $(".login-navibar").css("height", "80px");
       $(".outlet-navibar-menu").css("height", "80px");
-    } else if (screenWidth >= 800 && screenWidth <= 2560) {
+      $(".outlet-navibar").css("height", "80px");
+    } else if (screenWidth >= 896 && screenWidth <= 2560) {
       //untuk lebih dari 875 tapi kurang dari resolusi 2k
       // Ketika resolusi lebih besar dari 600, ubah flex direction menjadi row
+      $(".home-page2-desktop-tabletmenu").css("margin-top", "0px");
+      $(".flex-row").css("margin-left", "20%");
       $(".login-navibar").css("height", "40px");
       $(".outlet-navibar-menu").css("height", "40px");
       $(".pembatas").css("display", "block");
@@ -146,6 +149,7 @@ $(document).ready(function () {
     } else {
       //untuk kurang dari 875
       // Ketika resolusi kurang dari atau sama dengan 600, ubah flex direction menjadi column
+      $(".flex-row").css("margin-left", "0%");
       $(".burger").css("display", "block");
       $(".Home-Navibar-linkcontainer").css("height", "0");
 
