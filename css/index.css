@@ -1076,10 +1076,10 @@ a {
   transition: color 0.3s;
 }
 a:hover {
-  background-color: #7d0101;
-  padding: 5px 7px 5px 7px;
-  /* margin: 5px; */
+  background-color: #3131314a;
+  padding: 7px 21px 7px 20px;
   border-radius: 5px;
+  margin-left: -3px;
 }
 
 .flex-column {
@@ -6754,7 +6754,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 3;
+    top: 1610px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -8703,7 +8703,7 @@ ul li a {
     position: absolute;
     margin: 2.5%;
     /* margin-left: 9%; */
-    width: 41%;
+    width: 37%;
     top: 262px;
     left: 28%;
   }
@@ -11818,7 +11818,7 @@ ul li a {
     position: absolute;
   }
   .mitra-section4 {
-    top: 4519px;
+    top: 4574px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -11884,7 +11884,7 @@ ul li a {
     display: none;
   }
   .mitra-section3 {
-    top: 3671px;
+    top: 3768px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -11906,7 +11906,7 @@ ul li a {
     position: absolute;
   }
   .mitra-bene1 {
-    top: 407px;
+    top: 374px;
     left: 0px;
     right: 0px;
     width: 873px;
@@ -11940,7 +11940,7 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 2490px;
+    top: 2571px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -14031,7 +14031,7 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 2522px;
+    top: 2533px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -14973,7 +14973,7 @@ ul li a {
     position: absolute;
     margin: 2.5%;
     /* margin-left: 9%; */
-    width: 56%;
+    width: 60%;
     top: 258px;
     left: 27%;
   }
@@ -15042,7 +15042,7 @@ ul li a {
     margin-left: 0px;
   }
   .choose2:checked ~ .gambarslide > .s1 {
-    margin-left: 100%;
+    margin-left: -100%;
   }
   .choose3:checked ~ .gambarslide > .s1 {
     margin-left: -200%;
@@ -15115,7 +15115,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1688px;
+    top: 1626px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -15153,7 +15153,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 652px;
+    top: 556px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -17061,7 +17061,7 @@ ul li a {
     position: absolute;
     margin: 2.5%;
     /* margin-left: 9%; */
-    width: 48%;
+    width: 56%;
     top: 258px;
     left: 27%;
   }
@@ -19149,7 +19149,7 @@ ul li a {
     position: absolute;
     margin: 2.5%;
     /* margin-left: 9%; */
-    width: 54%;
+    width: 61%;
     top: 258px;
     left: 21%;
   }

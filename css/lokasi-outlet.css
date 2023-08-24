@@ -35,7 +35,7 @@ a {
   transition: color 0.3s;
 }
 a:hover {
-  background-color: #7d0101;
+  background-color: #3131314a;
   padding: 5px 10px 5px 10px;
   /* margin: 5px; */
   border-radius: 5px;
@@ -487,7 +487,7 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
+    background-color: #3131314a;
     padding: 5px 10px 5px 10px;
     /* margin: 5px; */
     border-radius: 5px;
@@ -943,7 +943,7 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
+    background-color: #3131314a;
     padding: 5px 10px 5px 10px;
     /* margin: 5px; */
     border-radius: 5px;
@@ -1400,7 +1400,7 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
+    background-color: #3131314a;
     padding: 5px 10px 5px 10px;
     /* margin: 5px; */
     border-radius: 5px;
@@ -1849,8 +1849,8 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
+    background-color: #3131314a;
+    padding: 5px 12px 5px 14px;
     /* margin: 5px; */
     border-radius: 5px;
   }
@@ -2246,9 +2246,10 @@ td {
   .sosial-text-container {
     top: 30%;
     position: absolute;
-    width: 100%;
-    height: 73px;
+    width: 120%;
+    height: 24px;
     left: 0px;
+    border-radius: 10px;
     font-size: 14px;
     color: #ffffff;
     text-align: center;
@@ -2257,6 +2258,7 @@ td {
     font-weight: 600;
     line-height: normal;
     font-stretch: normal;
+    /* background: blue; */
   }
 }
 @media (max-width: 1768px) {
