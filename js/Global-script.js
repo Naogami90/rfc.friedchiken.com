@@ -112,24 +112,16 @@ $(document).ready(function () {
   // Fungsi untuk mengeksekusi kode saat resolusi berubah
   function handleResolutionChange() {
     var screenWidth = $(window).width();
-    if (screenWidth <= 875) {
-      // Ketika resolusi kurang dari atau sama dengan 600, ubah flex direction menjadi column
-      $(".burger").css("display", "block");
-      $(".Home-Navibar-linkcontainer").css("height", "0");
-      // $(".burger").css("right", "20%");
-      $(".close-burger").css("display", "none");
-      $(".home-page2-desktop-tabletmenu").css("display", "none");
-      $(".Home-Navibar").css("height", "40");
-      $(".home-page2-desktop-tabletmenu").css("height", "40");
-      $(".pembatas").css("display", "none");
-      $(".splash-container").css("display", "none");
-      $(".close-burger, .burger").css("left", "85%");
-      // //page outlet
-      $(".outlet-navibar-menu").css("display", "none");
-      $(".outlet-navibar").css("height", "40");
-      $(".outlet-navibar-menu").css("height", "40");
-    } else {
+    if (screenWidth > 2560) {
+      $(".Home-Navibar").css("height", "80px");
+      $(".home-page2-desktop-tabletmenu").css("height", "80px");
+      $(".login-navibar").css("height", "80px");
+      $(".outlet-navibar-menu").css("height", "80px");
+    } else if (screenWidth >= 800 && screenWidth <= 2560) {
+      //untuk lebih dari 875 tapi kurang dari resolusi 2k
       // Ketika resolusi lebih besar dari 600, ubah flex direction menjadi row
+      $(".login-navibar").css("height", "40px");
+      $(".outlet-navibar-menu").css("height", "40px");
       $(".pembatas").css("display", "block");
       $(".splash-container").css("display", "block");
       $(".burger").css("display", "none");
@@ -151,6 +143,23 @@ $(document).ready(function () {
       $(".outlet-navibar-menu").css("top", "0px");
       $(".outlet-navibar-menu").css("background", "#f1000000");
       $(".outlet-navibar-menu").css("justify-content", "flex-end");
+    } else {
+      //untuk kurang dari 875
+      // Ketika resolusi kurang dari atau sama dengan 600, ubah flex direction menjadi column
+      $(".burger").css("display", "block");
+      $(".Home-Navibar-linkcontainer").css("height", "0");
+
+      $(".close-burger").css("display", "none");
+      $(".home-page2-desktop-tabletmenu").css("display", "none");
+      $(".Home-Navibar").css("height", "40");
+      $(".home-page2-desktop-tabletmenu").css("height", "40");
+      $(".pembatas").css("display", "none");
+      $(".splash-container").css("display", "none");
+      $(".close-burger, .burger").css("left", "85%");
+      // //page outlet
+      $(".outlet-navibar-menu").css("display", "none");
+      $(".outlet-navibar").css("height", "40");
+      $(".outlet-navibar-menu").css("height", "40");
     }
   }
 

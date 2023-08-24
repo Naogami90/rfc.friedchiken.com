@@ -231,19 +231,19 @@ a:hover {
   width: 100%;
   height: 400px;
   position: absolute;
-  top: 050px;
+  top: 71px;
 }
 .splash-container {
   z-index: 2;
   position: absolute;
-  left: 19%;
+  left: 15%;
   background-color: rgb(255, 255, 255);
   border-radius: 8px 0px 0px 8px;
   padding: 20px;
   top: 0%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   width: 36.23%;
-  height: 400px;
+  height: 562px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -278,7 +278,7 @@ label {
   top: -11px;
   left: 0px;
   width: 100%;
-  height: 1000px;
+  height: 1632px;
   display: flex;
   position: absolute;
   align-items: flex-start;
@@ -361,18 +361,18 @@ button:hover {
 .bg-icon {
   border-radius: 10px 0px 0px 10px;
   left: 5%;
-  top: 17%;
+  top: 10px;
   position: absolute;
-  width: 31px;
-  height: 39.5px;
+  width: 49px;
+  height: 40.5px;
   background-color: #ccc;
 }
 .text-input {
-  height: 39px;
-  width: 78%;
+  height: 40px;
+  width: 80%;
   padding: 9px;
-  padding-left: 35px;
-  font-size: 13px;
+  padding-left: 55px;
+  font-size: 12px;
   border: none;
   /* border-bottom: 2px solid #aaa; */
   outline: none;
@@ -426,129 +426,2507 @@ button:hover {
   color: #000000;
 }
 /* login akhir */
-@media (max-width: 2560px) {
-  /* 1440 */
-  .login-page {
-    height: 1440px;
+@media (max-width: 3840px) {
+  .judul1 {
+    font-size: 30px;
   }
+  .login-navimenu-container {
+    z-index: 100;
+    position: absolute;
+    flex: 0 0 auto;
+    width: 100%;
+    height: 0px;
+    top: 0px;
+    display: flex;
+
+    background-color: #810000;
+  }
+
+  .login-page {
+    width: 100%;
+    height: 2154px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(70, 70, 70, 0.10000000149011612);
+  }
+  .login-button {
+    margin: 0px auto;
+    height: 60px;
+    display: block;
+    /* padding: 10px 10px 10px 10px; */
+    width: 200px;
+    /* padding: 2.5px; */
+    /* font-size: 12px; */
+    text-align: center;
+    background-color: #3498db;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    /* font-size: 14px; */
+    color: #fefefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .banner {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    align-content: center;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+  }
+  .log-mobile {
+    width: 200px;
+    height: 200px;
+    display: none;
+    top: 0%;
+  }
+  .judul {
+    position: absolute;
+    height: 120px;
+    top: 70%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    font-family: Montserrat Alternates;
+    color: #ffffff;
+    font-size: 40px;
+  }
+  /* bentuk navibar */
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #f10000;
+  }
+  /* bentuk navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* logo conatiner navibar awal */
+  .outlet-subtract {
+    top: 0px;
+    left: 306px;
+    width: auto;
+    height: 80px;
+    position: absolute;
+  }
+  .outlet-rectangle6891 {
+    top: 0px;
+    left: 3px;
+    width: auto;
+    height: 79px;
+    position: absolute;
+  }
+  .outlet-rfclogoi11 {
+    top: 5px;
+    left: 22px;
+    width: auto;
+    height: 66px;
+    position: absolute;
+  }
+  /* logo conatiner navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* navibar Link container awal */
+  .outlet-navibar-menu {
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 0px 120px 0px 88px;
+    /* z-index: 100; */
+    position: fixed;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    /* background: #7d0101; */
+    /* font-size: 2.5rem; */
+  }
+  ul.nav-container {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    line-height: 40px;
+  }
+  ul li a {
+    padding: 0 10px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  a:hover {
+    background-color: #7d0101;
+    padding: 5px 7px 5px 7px;
+    /* margin: 5px; */
+    border-radius: 5px;
+  }
+
+  .Page-scroll {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 2.5rem;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    /* margin: 0px; */
+    margin-left: 5px;
+    margin-right: 26px;
+    padding: 10px;
+    justify-content: center;
+  }
+  /* navibar Link container akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  .flex-row {
+    display: flex;
+    /* font-size: 0.5rem; */
+    flex-direction: row;
+  }
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    justify-content: center;
+    /* margin-left: 17%; */
+  }
+  /* property navibar container */
+
+  /* burger awal */
+  .close-burger {
+    top: 0px;
+    left: 322px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .burger {
+    top: 0px;
+    left: 340px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  /* burger akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  /* section 1 map outlet */
+  /* login awal */
   .login-container {
-    width: 20%;
-    margin-left: 55%;
+    /* position: absolute; */
+    left: 0px;
+    z-index: 2;
+    margin-left: 57%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 8px 8px 0px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 28%;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+  }
+  .log-area {
+    width: 100%;
+    height: 1004px;
+    position: absolute;
+    top: 20vh;
+  }
+  .splash-container {
+    z-index: 2;
+    position: absolute;
+    left: 21%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px 0px 0px 8px;
+    padding: 20px;
+    top: 0%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 36.23%;
+    height: 1001px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .splash-logo {
+    position: absolute;
+    width: 1000px;
+    height: 100%;
+    top: 0%;
+    left: 16%;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 13px;
+    position: absolute;
+    top: 88px;
+    font-size: 5.5rem;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  label {
+    margin-top: 10px;
+  }
+  #login-form {
+    position: relative;
+    top: 37%;
+  }
+  .Background-side {
+    top: -11px;
+    left: 0px;
+    width: 100%;
+    height: 2320px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    overflow: hidden;
+    flex-shrink: 1;
+    z-index: 1;
+  }
+  .bg-sisi-kiri {
+    top: -6px;
+    left: 0px;
+    width: 37%;
+    height: auto;
+    position: absolute;
+  }
+  .bg-sisi-kanan {
+    top: -7%;
+    right: 0px;
+    width: 37%;
+    height: auto;
+    position: absolute;
+  }
+  /* input {
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #aaa; 
+    padding: 10px;
+    margin: 8px 10%;
+  
+    border-radius: 4px;
+    width: 90%;
+  } */
+  .Judul-2 {
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: #585858;
+    position: absolute;
+    top: 268px;
   }
   button {
+    background-color: #f10000;
+    color: white;
+    border: none;
+    margin-top: 35px;
+    margin-left: 10%;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 2.5rem;
     width: 82%;
-    margin-left: 5%;
+    height: 80px;
+  }
+
+  button:hover {
+    background-color: #7d0101;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  #login-error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .input-wrapper {
+    position: relative;
+  }
+
+  .input-wrapper i {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translateY(-50%);
+    color: #ffffff;
+    /* height: 50px; */
+    font-size: 39px;
+    /* width: 50px; */
+  }
+
+  .input-container {
+    position: relative;
+  }
+  .bg-icon {
+    border-radius: 10px 0px 0px 10px;
+    left: 11%;
+    top: 18px;
+    position: absolute;
+    width: 89px;
+    height: 79.5px;
+    background-color: #ccc;
+  }
+  .text-input {
+    height: 80px;
+    width: 81%;
+    padding: 9px;
+    padding-left: 119px;
+    font-size: 1.8rem;
+    /* border: none; */
+    /* border-bottom: 2px solid #aaa; */
+    outline: none;
+    margin: 17px 10%;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 116px;
+    border-radius: 13px;
+  }
+
+  .text-input:focus {
+    border-color: transparent;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  .text-input:focus + label {
+    transform: translateY(-20px);
+    font-size: 14px;
+    color: #007bff;
+  }
+
+  .label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    color: #666;
+    transition: all 0.3s ease;
+  }
+
+  .label::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #007bff;
+    bottom: -5px;
+    left: 0;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+
+  .text-input:focus + .label::after {
+    transform: scaleX(1);
+  }
+
+  .fa-user {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #000000;
+  }
+}
+@media (max-width: 2560px) {
+  .judul1 {
+    font-size: 30px;
+  }
+  .login-navimenu-container {
+    z-index: 100;
+    position: absolute;
+    flex: 0 0 auto;
+    width: 100%;
+    height: 0px;
+    top: 0px;
+    display: flex;
+
+    background-color: #810000;
+  }
+
+  .login-page {
+    width: 100%;
+    height: 1440px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(70, 70, 70, 0.10000000149011612);
+  }
+  .login-button {
+    margin: 5px auto;
+    height: 30px;
+    display: block;
+    padding: 10px 0px -0px 0px;
+    width: 87px;
+    padding: 5px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #3498db;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 14px;
+    color: #fefefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .banner {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    align-content: center;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+  }
+  .log-mobile {
+    width: 200px;
+    height: 200px;
+    display: none;
+    top: 0%;
+  }
+  .judul {
+    position: absolute;
+    height: 120px;
+    top: 70%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    font-family: Montserrat Alternates;
+    color: #ffffff;
+    font-size: 40px;
+  }
+  /* bentuk navibar */
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #f10000;
+  }
+  /* bentuk navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* logo conatiner navibar awal */
+  .outlet-subtract {
+    top: 0px;
+    left: 136px;
+    width: 65px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rectangle6891 {
+    top: 0px;
+    left: -29px;
+    width: 226px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rfclogoi11 {
+    top: 6px;
+    left: 20px;
+    width: 113px;
+    height: 29px;
+    position: absolute;
+  }
+  /* logo conatiner navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* navibar Link container awal */
+  .outlet-navibar-menu {
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 0 88px 0 88px;
+    /* z-index: 100; */
+    position: fixed;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    /* background: #7d0101; */
+  }
+  ul.nav-container {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    line-height: 40px;
+  }
+  ul li a {
+    padding: 0 10px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  a:hover {
+    background-color: #7d0101;
+    padding: 5px 7px 5px 7px;
+    /* margin: 5px; */
+    border-radius: 5px;
+  }
+
+  .Page-scroll {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 19px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin: 0px;
+    /* margin-left: -2px; */
+    /* margin-right: 26px; */
+    padding: 10px;
+  }
+  /* navibar Link container akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    justify-content: center;
+    /* margin-left: 17%; */
+  }
+  /* property navibar container */
+
+  /* burger awal */
+  .close-burger {
+    top: 0px;
+    left: 322px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .burger {
+    top: 0px;
+    left: 340px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  /* burger akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  /* section 1 map outlet */
+  /* login awal */
+  .login-container {
+    z-index: 2;
+    margin-left: 55%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 8px 8px 0px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 25%;
+    height: 563px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+  }
+  .log-area {
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 20vh;
+  }
+  .splash-container {
+    z-index: 2;
+    position: absolute;
+    left: 19%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px 0px 0px 8px;
+    padding: 20px;
+    top: 0%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 36.23%;
+    height: 562px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .splash-logo {
+    position: absolute;
+    width: 582px;
+    height: 100%;
+    top: 0%;
+    left: 19%;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 13px;
+    position: absolute;
+    top: 73px;
+    font-size: 3.5rem;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  label {
+    margin-top: 10px;
+  }
+  #login-form {
+    position: relative;
+    top: 36%;
+  }
+  .Background-side {
+    top: -11px;
+    left: 0px;
+    width: 100%;
+    height: 1632px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    overflow: hidden;
+    flex-shrink: 1;
+    z-index: 1;
+  }
+  .bg-sisi-kiri {
+    top: -6px;
+    left: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  .bg-sisi-kanan {
+    top: -7%;
+    right: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  /* input {
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #aaa; 
+    padding: 10px;
+    margin: 8px 10%;
+  
+    border-radius: 4px;
+    width: 90%;
+  } */
+  .Judul-2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #585858;
+    top: 164px;
+  }
+  button {
+    background-color: #f10000;
+    color: white;
+    border: none;
+    margin-top: 35px;
+    margin-left: 12%;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 77%;
+    height: 40px;
+    font-size: 23px;
+  }
+
+  button:hover {
+    background-color: #7d0101;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  #login-error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .input-wrapper {
+    position: relative;
+  }
+
+  .input-wrapper i {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    font-size: 20px;
+    transform: translateY(-50%);
+    color: #ffffff;
+  }
+
+  .input-container {
+    position: relative;
+  }
+  .bg-icon {
+    border-radius: 10px 0px 0px 10px;
+    left: 12%;
+    top: 10px;
+    position: absolute;
+    width: 49px;
+    height: 40.5px;
+    background-color: #ccc;
+  }
+  .text-input {
+    height: 40px;
+    width: 73%;
+    padding: 9px;
+    padding-left: 68px;
+    font-size: 15px;
+    border: none;
+    /* border-bottom: 2px solid #aaa; */
+    outline: none;
+    margin: 10px 10%;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 94px;
+  }
+
+  .text-input:focus {
+    border-color: transparent;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  .text-input:focus + label {
+    transform: translateY(-20px);
+    font-size: 14px;
+    color: #007bff;
+  }
+
+  .label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    color: #666;
+    transition: all 0.3s ease;
+  }
+
+  .label::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #007bff;
+    bottom: -5px;
+    left: 0;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+
+  .text-input:focus + .label::after {
+    transform: scaleX(1);
+  }
+
+  .fa-user {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #000000;
   }
 }
 @media (max-width: 1920px) {
-  .bg-sisi-kiri {
-    height: auto;
-    width: 50%;
+  .judul1 {
+    font-size: 30px;
   }
-  .bg-sisi-kanan {
-    height: auto;
-    width: 50%;
+  .login-navimenu-container {
+    z-index: 100;
+    position: absolute;
+    flex: 0 0 auto;
+    width: 100%;
+    height: 0px;
+    top: 0px;
+    display: flex;
+
+    background-color: #810000;
   }
-  .splash-logo {
-    left: 19%;
+
+  .login-page {
+    width: 100%;
+    height: 1434px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(70, 70, 70, 0.10000000149011612);
+  }
+  .login-button {
+    margin: 5px auto;
+    height: 30px;
+    display: block;
+    padding: 10px 0px -0px 0px;
+    width: 87px;
+    padding: 5px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #3498db;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 14px;
+    color: #fefefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .banner {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    align-content: center;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+  }
+  .log-mobile {
+    width: 200px;
+    height: 200px;
+    display: none;
+    top: 0%;
+  }
+  .judul {
+    position: absolute;
+    height: 120px;
+    top: 70%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    font-family: Montserrat Alternates;
+    color: #ffffff;
+    font-size: 40px;
+  }
+  /* bentuk navibar */
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #d8d5d5;
+  }
+  /* bentuk navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* logo conatiner navibar awal */
+  .outlet-subtract {
+    top: 0px;
+    left: 136px;
+    width: 65px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rectangle6891 {
+    top: 0px;
+    left: -29px;
+    width: 226px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rfclogoi11 {
+    top: 6px;
+    left: 20px;
+    width: 113px;
+    height: 29px;
+    position: absolute;
+  }
+  /* logo conatiner navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* navibar Link container awal */
+  .outlet-navibar-menu {
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 0 88px 0 88px;
+    /* z-index: 100; */
+    position: fixed;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    /* background: #7d0101; */
+  }
+  ul.nav-container {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    line-height: 40px;
+  }
+  ul li a {
+    padding: 0 10px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  a:hover {
+    background-color: #7d0101;
+    padding: 5px 7px 5px 7px;
+    /* margin: 5px; */
+    border-radius: 5px;
+  }
+
+  .Page-scroll {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 19px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin: 0px;
+    /* margin-left: -2px; */
+    /* margin-right: 26px; */
+    padding: 10px;
+  }
+  /* navibar Link container akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    justify-content: center;
+    /* margin-left: 17%; */
+  }
+  /* property navibar container */
+
+  /* burger awal */
+  .close-burger {
+    top: 0px;
+    left: 322px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .burger {
+    top: 0px;
+    left: 340px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  /* burger akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  /* section 1 map outlet */
+  /* login awal */
+  .login-container {
+    z-index: 2;
+    margin-left: 55%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 8px 8px 0px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 25%;
+    height: 563px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+  }
+  .log-area {
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 20vh;
   }
   .splash-container {
-    top: 45%;
+    z-index: 2;
+    position: absolute;
+    left: 19%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px 0px 0px 8px;
+    padding: 20px;
+    top: 0%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 36.23%;
+    height: 562px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
-  /* 1080 */
-  .login-page {
-    height: 1080px;
+  .splash-logo {
+    position: absolute;
+    width: 582px;
+    height: 100%;
+    top: 0%;
+    left: 5%;
   }
-  .login-container {
-    top: 45%;
-    width: 25%;
+
+  h1 {
+    text-align: center;
+    margin-bottom: 13px;
+    position: absolute;
+    top: 73px;
+    font-size: 3.5rem;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  label {
+    margin-top: 10px;
+  }
+  #login-form {
+    position: relative;
+    top: 36%;
+  }
+  .Background-side {
+    top: -11px;
+    left: 0px;
+    width: 100%;
+    height: 1632px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    overflow: hidden;
+    flex-shrink: 1;
+    z-index: 1;
+  }
+  .bg-sisi-kiri {
+    top: -6px;
+    left: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  .bg-sisi-kanan {
+    top: -7%;
+    right: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  /* input {
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #aaa; 
+    padding: 10px;
+    margin: 8px 10%;
+  
+    border-radius: 4px;
+    width: 90%;
+  } */
+  .Judul-2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #585858;
+    top: 164px;
   }
   button {
-    width: 84%;
-    margin-left: 4%;
+    background-color: #f10000;
+    color: white;
+    border: none;
+    margin-top: 35px;
+    margin-left: 12%;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 83%;
+    height: 40px;
+    font-size: 23px;
+  }
+
+  button:hover {
+    background-color: #7d0101;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  #login-error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .input-wrapper {
+    position: relative;
+  }
+
+  .input-wrapper i {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    font-size: 20px;
+    transform: translateY(-50%);
+    color: #ffffff;
+  }
+
+  .input-container {
+    position: relative;
+  }
+  .bg-icon {
+    border-radius: 10px 0px 0px 10px;
+    left: 12%;
+    top: 10px;
+    position: absolute;
+    width: 49px;
+    height: 40.5px;
+    background-color: #ccc;
+  }
+  .text-input {
+    height: 40px;
+    width: 73%;
+    padding: 9px;
+    padding-left: 68px;
+    font-size: 15px;
+    border: none;
+    /* border-bottom: 2px solid #aaa; */
+    outline: none;
+    margin: 10px 10%;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 94px;
+  }
+
+  .text-input:focus {
+    border-color: transparent;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  .text-input:focus + label {
+    transform: translateY(-20px);
+    font-size: 14px;
+    color: #007bff;
+  }
+
+  .label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    color: #666;
+    transition: all 0.3s ease;
+  }
+
+  .label::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #007bff;
+    bottom: -5px;
+    left: 0;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+
+  .text-input:focus + .label::after {
+    transform: scaleX(1);
+  }
+
+  .fa-user {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #000000;
+  }
+}
+@media (max-width: 1768px) {
+  .judul1 {
+    font-size: 30px;
+  }
+  .login-navimenu-container {
+    z-index: 100;
+    position: absolute;
+    flex: 0 0 auto;
+    width: 100%;
+    height: 0px;
+    top: 0px;
+    display: flex;
+
+    background-color: #810000;
+  }
+
+  .login-page {
+    width: 100%;
+    height: 992px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(70, 70, 70, 0.10000000149011612);
+  }
+  .login-button {
+    margin: 5px auto;
+    height: 30px;
+    display: block;
+    padding: 10px 0px -0px 0px;
+    width: 87px;
+    padding: 5px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #3498db;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 14px;
+    color: #fefefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .banner {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    align-content: center;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+  }
+  .log-mobile {
+    width: 200px;
+    height: 200px;
+    display: none;
+    top: 0%;
+  }
+  .judul {
+    position: absolute;
+    height: 120px;
+    top: 70%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    font-family: Montserrat Alternates;
+    color: #ffffff;
+    font-size: 40px;
+  }
+  /* bentuk navibar */
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgb(57 57 57 / 50%);
+    align-items: flex-start;
+    background-color: #f10000;
+  }
+  /* bentuk navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* logo conatiner navibar awal */
+  .outlet-subtract {
+    top: 0px;
+    left: 136px;
+    width: 65px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rectangle6891 {
+    top: 0px;
+    left: -29px;
+    width: 226px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rfclogoi11 {
+    top: 6px;
+    left: 20px;
+    width: 113px;
+    height: 29px;
+    position: absolute;
+  }
+  /* logo conatiner navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* navibar Link container awal */
+  .outlet-navibar-menu {
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 0 88px 0 88px;
+    /* z-index: 100; */
+    position: fixed;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    /* background: #7d0101; */
+  }
+  ul.nav-container {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    line-height: 40px;
+  }
+  ul li a {
+    padding: 0 10px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  a:hover {
+    background-color: #7d0101;
+    padding: 5px 7px 5px 7px;
+    /* margin: 5px; */
+    border-radius: 5px;
+  }
+
+  .Page-scroll {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin: 0px;
+    /* margin-left: -2px; */
+    /* margin-right: 26px; */
+    padding: 10px;
+  }
+  /* navibar Link container akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    justify-content: center;
+    /* margin-left: 17%; */
+  }
+  /* property navibar container */
+
+  /* burger awal */
+  .close-burger {
+    top: 0px;
+    left: 322px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .burger {
+    top: 0px;
+    left: 340px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  /* burger akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  /* section 1 map outlet */
+  /* login awal */
+  .login-container {
+    z-index: 2;
+    margin-left: 55%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 8px 8px 0px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 27%;
+    height: 563px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+  }
+  .log-area {
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 18vh;
+  }
+  .splash-container {
+    z-index: 2;
+    position: absolute;
+    left: 19%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px 0px 0px 8px;
+    padding: 20px;
+    top: 0%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 36.23%;
+    height: 562px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .splash-logo {
+    position: absolute;
+    width: 582px;
+    height: 100%;
+    top: 0%;
+    left: -1%;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 13px;
+    position: absolute;
+    top: 73px;
+    font-size: 3.5rem;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  label {
+    margin-top: 10px;
+  }
+  #login-form {
+    position: relative;
+    top: 36%;
+    /* left: -16px; */
+  }
+  .Background-side {
+    top: -11px;
+    left: 0px;
+    width: 100%;
+    height: 1632px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    overflow: hidden;
+    flex-shrink: 1;
+    z-index: 1;
+  }
+  .bg-sisi-kiri {
+    top: -6px;
+    left: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  .bg-sisi-kanan {
+    top: -7%;
+    right: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  /* input {
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #aaa; 
+    padding: 10px;
+    margin: 8px 10%;
+  
+    border-radius: 4px;
+    width: 90%;
+  } */
+  .Judul-2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #585858;
+    top: 164px;
+  }
+  button {
+    background-color: #f10000;
+    color: white;
+    border: none;
+    margin-top: 35px;
+    margin-left: 12%;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 83%;
+    height: 40px;
+    font-size: 23px;
+  }
+
+  button:hover {
+    background-color: #7d0101;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  #login-error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .input-wrapper {
+    position: relative;
+  }
+
+  .input-wrapper i {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    font-size: 20px;
+    transform: translateY(-50%);
+    color: #ffffff;
+  }
+
+  .input-container {
+    position: relative;
+  }
+  .bg-icon {
+    border-radius: 10px 0px 0px 10px;
+    left: 12%;
+    top: 10px;
+    position: absolute;
+    width: 49px;
+    height: 40.5px;
+    background-color: #ccc;
+  }
+  .text-input {
+    height: 40px;
+    width: 73%;
+    padding: 9px;
+    padding-left: 68px;
+    font-size: 15px;
+    border: none;
+    /* border-bottom: 2px solid #aaa; */
+    outline: none;
+    margin: 10px 10%;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 94px;
+  }
+
+  .text-input:focus {
+    border-color: transparent;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  .text-input:focus + label {
+    transform: translateY(-20px);
+    font-size: 14px;
+    color: #007bff;
+  }
+
+  .label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    color: #666;
+    transition: all 0.3s ease;
+  }
+
+  .label::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #007bff;
+    bottom: -5px;
+    left: 0;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+
+  .text-input:focus + .label::after {
+    transform: scaleX(1);
+  }
+
+  .fa-user {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #000000;
   }
 }
 @media (max-width: 1440px) {
-  .splash-container {
-    top: 37%;
+  .judul1 {
+    font-size: 30px;
+  }
+  .login-navimenu-container {
+    z-index: 100;
+    position: absolute;
+    flex: 0 0 auto;
+    width: 100%;
+    height: 0px;
+    top: 0px;
+    display: flex;
+
+    background-color: #810000;
   }
 
-  /* 1080 */
   .login-page {
-    height: 1080px;
+    width: 100%;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(70, 70, 70, 0.10000000149011612);
   }
+  .login-button {
+    margin: 5px auto;
+    height: 30px;
+    display: block;
+    padding: 10px 0px -0px 0px;
+    width: 87px;
+    padding: 5px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #3498db;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 14px;
+    color: #fefefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .banner {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    align-content: center;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+  }
+  .log-mobile {
+    width: 200px;
+    height: 200px;
+    display: none;
+    top: 0%;
+  }
+  .judul {
+    position: absolute;
+    height: 120px;
+    top: 70%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    font-family: Montserrat Alternates;
+    color: #ffffff;
+    font-size: 40px;
+  }
+  /* bentuk navibar */
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgb(57 57 57 / 50%);
+    align-items: flex-start;
+    background-color: #5a785f;
+  }
+  /* bentuk navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* logo conatiner navibar awal */
+  .outlet-subtract {
+    top: 0px;
+    left: 136px;
+    width: 65px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rectangle6891 {
+    top: 0px;
+    left: -29px;
+    width: 226px;
+    height: 40px;
+    position: absolute;
+  }
+  .outlet-rfclogoi11 {
+    top: 6px;
+    left: 20px;
+    width: 113px;
+    height: 29px;
+    position: absolute;
+  }
+  /* logo conatiner navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* navibar Link container awal */
+  .outlet-navibar-menu {
+    text-align: center;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 0 88px 0 88px;
+    /* z-index: 100; */
+    position: fixed;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    /* background: #7d0101; */
+  }
+  ul.nav-container {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    line-height: 40px;
+  }
+  ul li a {
+    padding: 0 10px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  a:hover {
+    background-color: #7d0101;
+    padding: 5px 7px 5px 7px;
+    /* margin: 5px; */
+    border-radius: 5px;
+  }
+
+  .Page-scroll {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin: 0px;
+    /* margin-left: -2px; */
+    /* margin-right: 26px; */
+    padding: 10px;
+  }
+  /* navibar Link container akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    justify-content: center;
+    /* margin-left: 17%; */
+  }
+  /* property navibar container */
+
+  /* burger awal */
+  .close-burger {
+    top: 0px;
+    left: 322px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .burger {
+    top: 0px;
+    left: 340px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  /* burger akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  /* section 1 map outlet */
+  /* login awal */
   .login-container {
-    width: 25%;
-    top: 37%;
+    z-index: 2;
+    margin-left: 55%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 8px 8px 0px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 27%;
+    height: 410px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+  }
+  .log-area {
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 20vh;
+  }
+  .splash-container {
+    z-index: 2;
+    position: absolute;
+    left: 19%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px 0px 0px 8px;
+    padding: 20px;
+    top: 0%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 36.23%;
+    height: 410px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .splash-logo {
+    position: absolute;
+    width: auto;
+    height: 87%;
+    top: 4%;
+    left: 15%;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 13px;
+    position: absolute;
+    top: 39px;
+    font-size: 2.5rem;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  label {
+    margin-top: 10px;
+  }
+  #login-form {
+    position: relative;
+    top: 36%;
+    /* left: -16px; */
+  }
+  .Background-side {
+    top: -11px;
+    left: 0px;
+    width: 100%;
+    height: 1632px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    overflow: hidden;
+    flex-shrink: 1;
+    z-index: 1;
+  }
+  .bg-sisi-kiri {
+    top: -6px;
+    left: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  .bg-sisi-kanan {
+    top: -7%;
+    right: 0px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+  }
+  /* input {
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #aaa; 
+    padding: 10px;
+    margin: 8px 10%;
+  
+    border-radius: 4px;
+    width: 90%;
+  } */
+  .Judul-2 {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #585858;
+    top: 115px;
   }
   button {
-    width: 87%;
-    margin-left: 4%;
+    background-color: #f10000;
+    color: white;
+    border: none;
+    margin-top: 35px;
+    margin-left: 12%;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 83%;
+    height: 40px;
+    font-size: 23px;
+  }
+
+  button:hover {
+    background-color: #7d0101;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  #login-error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .input-wrapper {
+    position: relative;
+  }
+
+  .input-wrapper i {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    font-size: 20px;
+    transform: translateY(-50%);
+    color: #ffffff;
+  }
+
+  .input-container {
+    position: relative;
+  }
+  .bg-icon {
+    border-radius: 10px 0px 0px 10px;
+    left: 12%;
+    top: 10px;
+    position: absolute;
+    width: 49px;
+    height: 40.5px;
+    background-color: #ccc;
+  }
+  .text-input {
+    height: 40px;
+    width: 76%;
+    padding: 9px;
+    padding-left: 65px;
+    font-size: 15px;
+    border: none;
+    /* border-bottom: 2px solid #aaa; */
+    outline: none;
+    margin: 10px 10%;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 62px;
+  }
+
+  .text-input:focus {
+    border-color: transparent;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  .text-input:focus + label {
+    transform: translateY(-20px);
+    font-size: 14px;
+    color: #007bff;
+  }
+
+  .label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    color: #666;
+    transition: all 0.3s ease;
+  }
+
+  .label::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #007bff;
+    bottom: -5px;
+    left: 0;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+
+  .text-input:focus + .label::after {
+    transform: scaleX(1);
+  }
+
+  .fa-user {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #000000;
   }
 }
 @media (max-width: 1366px) {
+  .Judul-2 {
+    position: absolute;
+    top: 101px;
+  }
+  .log-area {
+    top: 12vh;
+    left: 0px;
+  }
+
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #f10000;
+  }
   /* 768   */
   .splash-logo {
     left: 6%;
   }
   .splash-container {
     top: 18%;
+    left: 15%;
   }
   .login-page {
     height: 768px;
   }
   .login-container {
-    width: 25%;
+    width: 393px;
     top: 18%;
+    /* left: 0px; */
+    margin-left: 684px;
   }
 }
 @media (max-width: 1280px) {
+  h1 {
+    text-align: center;
+    margin-bottom: 13px;
+    position: absolute;
+    top: 77px;
+    font-size: 2.5rem;
+  }
+  .Judul-2 {
+    position: absolute;
+    top: 134px;
+  }
+  .log-area {
+    top: 2vh;
+    left: 0px;
+  }
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #f10000;
+  }
   /* 720   */
   .login-page {
     height: 720px;
   }
   .login-container {
-    width: 25%;
+    width: 28%;
     top: 25%;
+    margin-left: 627px;
   }
   .splash-container {
     top: 25%;
+    left: 216px;
   }
   .splash-logo {
-    left: 2%;
+    left: 3%;
   }
 }
 @media (max-width: 1090px) {
+  .input-wrapper i {
+    position: absolute;
+    top: 49%;
+    left: 35%;
+    font-size: 19px;
+    transform: translateY(-50%);
+    color: #ffffff;
+  }
+  button {
+    background-color: #f10000;
+    color: white;
+    border: none;
+    margin-top: 18px;
+    margin-left: 9%;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 88%;
+    height: 40px;
+    font-size: 21px;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 8%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  .bg-icon {
+    border-radius: 10px 0px 0px 10px;
+    left: 8%;
+    top: 7px;
+    position: absolute;
+    width: 49px;
+    height: 40.5px;
+    background-color: #ccc;
+  }
+  .text-input {
+    height: 40px;
+    width: 76%;
+    padding: 9px;
+    padding-left: 29px;
+    font-size: 13px;
+    border: none;
+    /* border-bottom: 2px solid #aaa; */
+    outline: none;
+    margin: 7px 10%;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 62px;
+  }
+  .login-button {
+    margin: 5px auto;
+    height: 30px;
+    display: block;
+    padding: 10px 0px 0px 0px;
+    width: 73px;
+    padding: 5px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #3498db;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 14px;
+    color: #fefefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .Page-scroll {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin: 0px;
+    /* margin-left: -2px; */
+    /* margin-right: 26px; */
+    padding: 5px;
+  }
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #c9f100;
+  }
   h1 {
     /* position: absolute; */
-    margin-top: 11px;
+    margin-top: -39px;
   }
   #login-form {
-    top: 3%;
+    top: 31%;
   }
   .Judul-2 {
     top: 0px;
     position: absolute;
-    top: 99px;
+    top: 112px;
+    font-size: 14px;
   }
   /* 720   */
   .login-page {
     height: 720px;
   }
   .login-container {
-    width: 27%;
+    width: 30%;
     top: 13%;
+    height: 368px;
   }
   .splash-container {
     top: 13%;
+    width: 415px;
+    height: 368px;
   }
   .splash-logo {
-    left: -8%;
+    left: 9%;
   }
 }
 @media (max-width: 1024px) {
+  .input-wrapper i {
+    position: absolute;
+    top: 49%;
+    left: 35%;
+    font-size: 15px;
+    transform: translateY(-50%);
+    color: #ffffff;
+  }
+  h1 {
+    /* position: absolute; */
+    margin-top: -39px;
+  }
+  .Judul-2 {
+    top: 0px;
+    position: absolute;
+    top: 98px;
+    font-size: 13px;
+  }
+  .bg-icon {
+    border-radius: 10px 0px 0px 10px;
+    left: 8%;
+    top: 6.5px;
+    position: absolute;
+    width: 42px;
+    height: 36.5px;
+    background-color: #ccc;
+  }
+  .text-input {
+    height: 35px;
+    width: 80%;
+    padding: 9px;
+    padding-left: 27px;
+    font-size: 12px;
+    border: none;
+    /* border-bottom: 2px solid #aaa; */
+    outline: none;
+    margin: 7px 10%;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 43px;
+  }
+  button {
+    background-color: #f10000;
+    color: white;
+    border: none;
+    margin-top: 6px;
+    margin-left: 9%;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 88%;
+    height: 36px;
+    font-size: 17px;
+  }
+  .login-container {
+    width: 30%;
+    top: 13%;
+    height: 301px;
+    left: -93px;
+  }
+  .splash-container {
+    top: 13%;
+    width: 415px;
+    height: 302px;
+    left: 124px;
+  }
+  .login-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 150;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #f10000;
+  }
   .log-area {
-    top: 113px;
+    top: 10vh;
   }
   /* 768  */
   .login-page {
@@ -556,14 +2934,27 @@ button:hover {
   }
   .splash-logo {
     position: absolute;
-    width: 342px;
+    width: 306px;
     height: 85%;
     top: 7%;
-    left: -2%;
+    left: 13%;
   }
 }
 
 @media (max-width: 896px) {
+  h1 {
+    /* position: absolute; */
+    margin-top: -45px;
+    font-size: 34px;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
   /* 768  */
   .login-page {
     height: 414px;
@@ -573,316 +2964,476 @@ button:hover {
     height: 300px;
   }
   .login-container {
-    width: 36%;
+    width: 33%;
     height: 300px;
-    margin-left: 50%;
+    margin-left: 61%;
   }
   #login-form {
-    top: 0%;
+    top: 27%;
   }
   .Judul-2 {
-    margin-top: -23px;
-    margin-bottom: 10px;
+    margin-top: -13px;
+    /* margin-bottom: 10px; */
+    left: 67px;
   }
   button {
-    width: 89%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 81%;
+    margin-left: 8%;
+    margin-top: 3%;
   }
   .splash-container {
-    left: 13.5%;
+    left: 16.5%;
     height: 300px;
+    width: 35%;
   }
   .splash-logo {
     position: absolute;
-    width: 273px;
+    width: 267px;
     height: 80%;
     top: 9%;
     left: 5%;
   }
   .text-input {
     height: 35px;
+    width: 70%;
+    margin-left: 46px;
+    font-size: 11px;
   }
   .bg-icon {
     height: 35.5px;
-    top: 18%;
+    top: 15%;
   }
 }
 @media (max-width: 880px) {
+  h1 {
+    /* position: absolute; */
+    margin-top: -45px;
+    font-size: 34px;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
   /* 768  */
   .login-page {
     height: 414px;
   }
   .log-area {
-    top: 24px;
+    top: 29px;
     height: 300px;
   }
   .login-container {
-    width: 36%;
+    width: 33%;
     height: 300px;
-    margin-left: 50%;
+    margin-left: 61%;
   }
   #login-form {
-    top: 0%;
+    top: 27%;
   }
   .Judul-2 {
-    margin-top: -10px;
-    margin-bottom: 10px;
+    margin-top: -13px;
+    /* margin-bottom: 10px; */
+    left: 67px;
   }
   button {
-    width: 89%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 81%;
+    margin-left: 8%;
+    margin-top: 3%;
   }
   .splash-container {
-    left: 13.5%;
+    left: 16.5%;
     height: 300px;
+    width: 35%;
   }
   .splash-logo {
     position: absolute;
-    width: 273px;
+    width: 267px;
     height: 80%;
     top: 9%;
     left: 5%;
   }
   .text-input {
     height: 35px;
+    width: 70%;
+    margin-left: 46px;
+    font-size: 11px;
   }
   .bg-icon {
     height: 35.5px;
-    top: 18%;
+    top: 15%;
   }
 }
 @media (max-width: 844px) {
+  h1 {
+    /* position: absolute; */
+    margin-top: -45px;
+    font-size: 34px;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
   /* 768  */
   .login-page {
     height: 414px;
   }
   .log-area {
-    top: 14px;
+    top: 29px;
     height: 300px;
   }
   .login-container {
-    width: 36%;
+    width: 33%;
     height: 300px;
-    margin-left: 32%;
+    margin-left: 61%;
   }
   #login-form {
-    top: 0%;
+    top: 27%;
   }
   .Judul-2 {
-    margin-top: -21px;
-    margin-bottom: 10px;
+    margin-top: -13px;
+    /* margin-bottom: 10px; */
+    left: 67px;
   }
   button {
-    width: 89%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 81%;
+    margin-left: 8%;
+    margin-top: 3%;
   }
   .splash-container {
-    left: 13.5%;
+    left: 16.5%;
     height: 300px;
+    width: 35%;
   }
   .splash-logo {
     position: absolute;
-    width: 273px;
+    width: 267px;
     height: 80%;
     top: 9%;
     left: 5%;
   }
   .text-input {
     height: 35px;
+    width: 70%;
+    margin-left: 46px;
+    font-size: 11px;
   }
   .bg-icon {
     height: 35.5px;
-    top: 18%;
+    top: 15%;
   }
 }
 @media (max-width: 800px) {
+  h1 {
+    /* position: absolute; */
+    margin-top: -68px;
+    font-size: 28px;
+    left: 104px;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
   /* 768  */
   .login-page {
     height: 414px;
   }
   .log-area {
-    top: 14px;
+    top: 21px;
     height: 300px;
   }
   .login-container {
-    width: 36%;
-    height: 300px;
-    margin-left: 32%;
+    width: 33%;
+    height: 201px;
+    margin-left: 61%;
   }
   #login-form {
-    top: 0%;
+    top: 16%;
   }
   .Judul-2 {
-    margin-top: -21px;
-    margin-bottom: 10px;
+    margin-top: -53px;
+    /* margin-bottom: 10px; */
+    left: 78px;
+    font-size: 11px;
   }
   button {
-    width: 89%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 73%;
+    margin-left: 18%;
+    margin-top: 3%;
+    height: 25px;
+    font-size: 12px;
   }
   .splash-container {
-    left: 13.5%;
-    height: 300px;
+    left: 16.5%;
+    height: 201px;
+    width: 35%;
   }
   .splash-logo {
     position: absolute;
-    width: 273px;
+    width: 187px;
     height: 80%;
     top: 9%;
-    left: 5%;
+    left: 15%;
   }
   .text-input {
-    height: 35px;
+    height: 25px;
+    width: 70%;
+    margin-left: 46px;
+    font-size: 11px;
+    padding-left: 31px;
   }
   .bg-icon {
-    height: 35.5px;
-    top: 18%;
+    height: 27.5px;
+    width: 29px;
+    top: 15%;
+    left: 40px;
   }
 }
 @media (max-width: 780px) {
+  h1 {
+    /* position: absolute; */
+    margin-top: -68px;
+    font-size: 28px;
+    left: 97px;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
   /* 768  */
   .login-page {
     height: 414px;
   }
   .log-area {
-    top: 14px;
+    top: 21px;
     height: 300px;
   }
   .login-container {
-    width: 36%;
-    height: 300px;
-    margin-left: 32%;
+    width: 33%;
+    height: 201px;
+    margin-left: 48%;
   }
   #login-form {
-    top: 0%;
+    top: 16%;
+    left: -10px;
   }
   .Judul-2 {
-    margin-top: -21px;
-    margin-bottom: 10px;
+    margin-top: -53px;
+    /* margin-bottom: 10px; */
+    left: 67px;
+    font-size: 11px;
   }
   button {
-    width: 89%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 73%;
+    margin-left: 18%;
+    margin-top: 3%;
+    height: 25px;
+    font-size: 12px;
   }
   .splash-container {
-    left: 13.5%;
-    height: 300px;
+    left: 16.5%;
+    height: 201px;
+    width: 35%;
   }
   .splash-logo {
     position: absolute;
-    width: 273px;
+    width: 187px;
     height: 80%;
     top: 9%;
-    left: 5%;
+    left: 15%;
   }
   .text-input {
-    height: 35px;
+    height: 25px;
+    width: 70%;
+    margin-left: 46px;
+    font-size: 11px;
+    padding-left: 31px;
   }
   .bg-icon {
-    height: 35.5px;
-    top: 18%;
+    height: 27.5px;
+    width: 29px;
+    top: 15%;
+    left: 40px;
   }
 }
 @media (max-width: 767px) {
+  h1 {
+    /* position: absolute; */
+    margin-top: -68px;
+    font-size: 28px;
+    left: 97px;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 16%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
   /* 768  */
   .login-page {
     height: 414px;
   }
   .log-area {
-    top: 14px;
+    top: 21px;
     height: 300px;
   }
   .login-container {
-    width: 36%;
-    height: 300px;
-    margin-left: 32%;
+    width: 33%;
+    height: 201px;
+    margin-left: 48%;
   }
   #login-form {
-    top: 0%;
+    top: 16%;
+    left: -10px;
   }
   .Judul-2 {
-    font-size: 12px;
-    margin-top: -21px;
-    margin-bottom: 10px;
+    margin-top: -53px;
+    /* margin-bottom: 10px; */
+    left: 67px;
+    font-size: 11px;
   }
   button {
-    width: 89%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 73%;
+    margin-left: 18%;
+    margin-top: 3%;
+    height: 25px;
+    font-size: 12px;
   }
   .splash-container {
-    left: 13.5%;
-    height: 300px;
+    left: 16.5%;
+    height: 201px;
+    width: 35%;
   }
   .splash-logo {
     position: absolute;
-    width: 273px;
+    width: 187px;
     height: 80%;
     top: 9%;
-    left: 5%;
+    left: 15%;
   }
   .text-input {
-    height: 35px;
+    height: 25px;
+    width: 70%;
+    margin-left: 46px;
+    font-size: 11px;
+    padding-left: 31px;
   }
   .bg-icon {
-    height: 35.5px;
-    top: 18%;
+    height: 27.5px;
+    width: 29px;
+    top: 15%;
+    left: 40px;
   }
 }
 @media (max-width: 622px) {
-  .judul1 {
-    font-size: 20px;
+  h1 {
+    /* position: absolute; */
+    margin-top: -68px;
+    font-size: 28px;
+    left: 31%;
+  }
+  .toggle-password {
+    color: #ccc;
+    position: absolute;
+    top: 50%;
+    right: 3%;
+    transform: translateY(-50%);
+    cursor: pointer;
   }
   /* 768  */
   .login-page {
     height: 414px;
   }
   .log-area {
-    top: 14px;
+    top: 21px;
     height: 300px;
   }
   .login-container {
-    width: 36%;
-    height: 300px;
-    margin-left: 32%;
+    width: 33%;
+    height: 201px;
+    margin-left: 50%;
   }
   #login-form {
-    top: 0%;
+    top: 16%;
+    left: -10px;
   }
   .Judul-2 {
-    margin-top: -21px;
-    margin-bottom: 10px;
+    margin-top: -53px;
+    /* margin-bottom: 10px; */
+    left: 18%;
+    font-size: 11px;
   }
   button {
-    width: 89%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 91%;
+    margin-left: 11%;
+    margin-top: 3%;
+    height: 25px;
+    font-size: 12px;
   }
   .splash-container {
-    left: 13.5%;
-    height: 300px;
+    left: 16.5%;
+    height: 201px;
+    width: 35%;
   }
   .splash-logo {
     position: absolute;
-    width: 273px;
+    width: 187px;
     height: 80%;
     top: 9%;
-    left: 5%;
+    left: 15%;
   }
   .text-input {
-    height: 35px;
+    height: 25px;
+    width: 84%;
+    margin-left: 33px;
+    font-size: 11px;
+    padding-left: 20px;
   }
   .bg-icon {
-    height: 35.5px;
-    top: 18%;
+    height: 27.5px;
+    width: 29px;
+    top: 15%;
+    left: 16px;
   }
 }
 @media (max-width: 430px) {
+  button {
+    width: 91%;
+    margin-left: 11%;
+    margin-top: 5%;
+    height: 36px;
+    font-size: 15px;
+  }
+  .text-input {
+    height: 35px;
+    width: 84%;
+    margin-left: 53px;
+    font-size: 11px;
+    padding-left: 20px;
+  }
+  .bg-icon {
+    height: 35.5px;
+    width: 29px;
+    top: 14%;
+    left: 36px;
+  }
   #login-form {
     top: 242px;
   }
@@ -898,11 +3449,12 @@ button:hover {
   .login-container {
     width: 80%;
     height: 500px;
-    margin-left: 10%;
+    margin-left: 33%;
+    border-radius: 10px;
+    top: 0px;
   }
   .log-area {
-    top: 20.5%;
-
+    top: 13.5%;
     height: 500px;
   }
   h1 {
@@ -912,6 +3464,8 @@ button:hover {
     margin-top: 136px;
     margin-bottom: 8px;
     font-weight: 600;
+    left: 30%;
+    font-size: 14px;
   }
   .log-mobile {
     position: absolute;
@@ -920,27 +3474,118 @@ button:hover {
   }
 }
 @media (max-width: 390px) {
+  button {
+    width: 91%;
+    margin-left: 11%;
+    margin-top: 5%;
+    height: 36px;
+    font-size: 15px;
+  }
+  .text-input {
+    height: 35px;
+    width: 84%;
+    margin-left: 47px;
+    font-size: 11px;
+    padding-left: 29px;
+  }
+  .bg-icon {
+    height: 35.5px;
+    width: 29px;
+    top: 14%;
+    left: 31px;
+  }
+  #login-form {
+    top: 242px;
+  }
   .login-page {
     height: 896px;
   }
   .splash-container {
     display: none;
   }
+  .splash-logo {
+    display: none;
+  }
   .login-container {
     width: 80%;
     height: 500px;
-    margin-left: 10%;
+    margin-left: 33%;
+    top: 0px;
+    border-radius: 10px;
   }
   .log-area {
-    top: 62px;
+    top: 13.5%;
     height: 500px;
   }
   h1 {
     display: none;
   }
   .Judul-2 {
-    margin-top: 142px;
+    margin-top: 136px;
     margin-bottom: 8px;
+    font-weight: 600;
+    left: 28%;
+    font-size: 14px;
+  }
+  .log-mobile {
+    position: absolute;
+    display: block;
+    top: 3%;
+  }
+}
+@media (max-width: 360px) {
+  button {
+    width: 90%;
+    margin-left: 13%;
+    margin-top: 8%;
+    height: 36px;
+    font-size: 15px;
+  }
+  .text-input {
+    height: 35px;
+    width: 84%;
+    margin-left: 47px;
+    font-size: 11px;
+    padding-left: 29px;
+  }
+  .bg-icon {
+    height: 35.5px;
+    width: 29px;
+    top: 14%;
+    left: 31px;
+  }
+  #login-form {
+    top: 242px;
+  }
+  .login-page {
+    height: 896px;
+  }
+  .splash-container {
+    display: none;
+  }
+  .splash-logo {
+    display: none;
+  }
+  .login-container {
+    width: 80%;
+    height: 500px;
+    margin-left: 36%;
+    top: 0px;
+    border-radius: 18px;
+  }
+  .log-area {
+    top: 13.5%;
+    height: 500px;
+  }
+  h1 {
+    display: none;
+  }
+  .Judul-2 {
+    margin-top: 136px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    left: 25%;
+    font-size: 14px;
   }
   .log-mobile {
     position: absolute;
