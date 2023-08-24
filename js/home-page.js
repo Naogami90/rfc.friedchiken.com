@@ -36,72 +36,72 @@ document.addEventListener("DOMContentLoaded", function () {
 //----------------------------pdf-modal-end-----------------------------------------------
 
 //----------------------------register-modal-------------------------------------------
-// Get the modal element
-var modal = document.getElementById("register-mymodal");
+// // Get the modal element
+// var modal = document.getElementById("register-mymodal");
 
-// Get the button that opens the modal
-var btn = document.getElementById("register-open-modal");
+// // Get the button that opens the modal
+// var btn = document.getElementById("register-open-modal");
 
-// Get the close button
-var closeBtn = document.getElementById("register-close-modal");
+// // Get the close button
+// var closeBtn = document.getElementById("register-close-modal");
 
-// Open the modal
-btn.onclick = function () {
-  modal.style.display = "block";
-};
+// // Open the modal
+// btn.onclick = function () {
+//   modal.style.display = "block";
+// };
 
-// Close the modal
-closeBtn.onclick = function () {
-  modal.style.display = "none";
-};
-// Pada saat submit form
-var form = document.querySelector("form");
-form.addEventListener("submit", function (event) {
-  event.preventDefault();
+// // Close the modal
+// closeBtn.onclick = function () {
+//   modal.style.display = "none";
+// };
+// // Pada saat submit form
+// var form = document.querySelector("form");
+// form.addEventListener("submit", function (event) {
+//   event.preventDefault();
 
-  var formData = {
-    name: document.getElementById("name").value,
-    address: document.getElementById("address").value,
-    membership: document.getElementById("membership").value,
-    email: document.getElementById("email").value,
-    attachment: document.getElementById("attachment").value,
-  };
+//   var formData = {
+//     name: document.getElementById("name").value,
+//     address: document.getElementById("address").value,
+//     membership: document.getElementById("membership").value,
+//     email: document.getElementById("email").value,
+//     attachment: document.getElementById("attachment").value,
+//   };
 
-  // Buat pesan WhatsApp dengan format yang diinginkan
-  var whatsappMessage =
-    "Nama: " +
-    formData.name +
-    "%0A" +
-    "Alamat: " +
-    formData.address +
-    "%0A" +
-    "Membership: " +
-    formData.membership +
-    "%0A" +
-    "Alamat Email: " +
-    formData.email +
-    "%0A" +
-    "File attachment: " +
-    formData.attachment;
+//   // Buat pesan WhatsApp dengan format yang diinginkan
+//   var whatsappMessage =
+//     "Nama: " +
+//     formData.name +
+//     "%0A" +
+//     "Alamat: " +
+//     formData.address +
+//     "%0A" +
+//     "Membership: " +
+//     formData.membership +
+//     "%0A" +
+//     "Alamat Email: " +
+//     formData.email +
+//     "%0A" +
+//     "File attachment: " +
+//     formData.attachment;
 
-  // Buat tautan WhatsApp dengan pesan yang sudah diformat
-  var whatsappLink = "https://wa.me/+6281288447499?text=" + whatsappMessage;
+//   // Buat tautan WhatsApp dengan pesan yang sudah diformat
+//   var whatsappLink = "https://wa.me/+6281288447499?text=" + whatsappMessage;
 
-  // Buka tautan WhatsApp
-  window.open(whatsappLink, "_blank");
+//   // Buka tautan WhatsApp
+//   window.open(whatsappLink, "_blank");
 
-  // Tutup modal
-  modal.style.display = "none";
-  document.body.style.overflow = "auto"; // Mengembalikan scroll normal pada latar belakang
-});
-//----------------------------register-modal-end---------------------------------------
-btn.onclick = function () {
-  modal.style.display = "block";
-  document.body.style.overflow = "hidden"; // Tambahkan baris ini
-};
+//   // Tutup modal
+//   modal.style.display = "none";
+//   document.body.style.overflow = "auto"; // Mengembalikan scroll normal pada latar belakang
+// });
+// //----------------------------register-modal-end---------------------------------------
+// btn.onclick = function () {
+//   modal.style.display = "block";
+//   document.body.style.overflow = "hidden"; // Tambahkan baris ini
+// };
 
-// Close the modal
-closeBtn.onclick = function () {
-  modal.style.display = "none";
-  document.body.style.overflow = "auto"; // Tambahkan baris ini
-};
+// // Close the modal
+// closeBtn.onclick = function () {
+//   modal.style.display = "none";
+//   document.body.style.overflow = "auto"; // Tambahkan baris ini
+// };

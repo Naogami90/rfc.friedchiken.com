@@ -155,10 +155,11 @@ a {
   transition: color 0.3s;
 }
 a:hover {
-  background-color: #3131314a;
-  padding: 5px 7px 5px 7px;
-  /* margin: 5px; */
+  background-color: rgba(0, 0, 0, 0.06);
+  padding: 1% 16px 1% 19px;
   border-radius: 5px;
+  margin-left: -3px;
+  transform: scale(0.9);
 }
 
 .Page-scroll {
@@ -584,10 +585,11 @@ button:hover {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #3131314a;
-    padding: 5px 7px 5px 7px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .Page-scroll {
@@ -1032,10 +1034,11 @@ button:hover {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #3131314a;
-    padding: 5px 7px 5px 7px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .Page-scroll {
@@ -1471,11 +1474,11 @@ button:hover {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #3131314a;
-    padding: 4px 12px 4px 17px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
-    margin-left: -4px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .Page-scroll {
@@ -1911,10 +1914,11 @@ button:hover {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 7px 5px 7px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .Page-scroll {
@@ -2351,10 +2355,11 @@ button:hover {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 7px 5px 7px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .Page-scroll {

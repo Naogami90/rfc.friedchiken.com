@@ -35,10 +35,11 @@ a {
   transition: color 0.3s;
 }
 a:hover {
-  background-color: #3131314a;
-  padding: 5px 10px 5px 10px;
-  /* margin: 5px; */
+  background-color: rgba(0, 0, 0, 0.06);
+  padding: 1% 16px 1% 19px;
   border-radius: 5px;
+  margin-left: -3px;
+  transform: scale(0.9);
 }
 
 .outlet-page {
@@ -487,10 +488,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #3131314a;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -943,10 +945,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #3131314a;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -1400,10 +1403,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #3131314a;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -1849,10 +1853,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #3131314a;
-    padding: 5px 12px 5px 14px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -2299,10 +2304,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -2747,10 +2753,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -3193,10 +3200,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -3646,10 +3654,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -4095,10 +4104,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -4545,10 +4555,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -5000,10 +5011,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -5455,10 +5467,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -5908,10 +5921,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {
@@ -6362,10 +6376,11 @@ td {
     transition: color 0.3s;
   }
   a:hover {
-    background-color: #7d0101;
-    padding: 5px 10px 5px 10px;
-    /* margin: 5px; */
+    background-color: rgba(0, 0, 0, 0.06);
+    padding: 1% 16px 1% 19px;
     border-radius: 5px;
+    margin-left: -3px;
+    transform: scale(0.9);
   }
 
   .outlet-page {

@@ -182,7 +182,7 @@ $(document).ready(function () {
   $(".button1 , .button2").hover(
     function () {
       // Fungsi ini akan dijalankan saat kursor berada di atas elemen
-      $(this).css("background-color", "#0074F0");
+      $(this).css("background-color", "#810000");
       $(this).css("transform", "scale(0.96)");
     },
     function () {

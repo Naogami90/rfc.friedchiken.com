@@ -48,11 +48,12 @@
   font-weight: 500;
   font-size: 14px;
   color: #fefefe;
-
   border: none;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease-in-out;
+  /* border: 3px solid; */
+  border-color: white;
 }
 .button-pdf {
   margin-right: 5px;
@@ -1076,10 +1077,11 @@ a {
   transition: color 0.3s;
 }
 a:hover {
-  background-color: #3131314a;
-  padding: 7px 21px 7px 20px;
+  background-color: rgba(0, 0, 0, 0.06);
+  padding: 1% 16px 1% 19px;
   border-radius: 5px;
   margin-left: -3px;
+  transform: scale(0.9);
 }
 
 .flex-column {
@@ -2168,7 +2170,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-    border: none;
+    /* border: none; */
     border-radius: 10px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -4272,8 +4274,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: none; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -5724,7 +5725,7 @@ ul li a {
     color: #fefefe;
     left: 0px;
     right: 0px;
-    width: 771px;
+    width: 521px;
     font-size: 22px;
     height: 64px;
     bottom: -4%;
@@ -6389,8 +6390,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: none; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -8483,8 +8483,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: none; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -10573,8 +10572,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: none; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -12664,8 +12662,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: none; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -14753,8 +14750,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: none; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -16841,8 +16837,7 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: none; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -18929,8 +18924,8 @@ ul li a {
     font-weight: 500;
     font-size: 14px;
     color: #fefefe;
-
-    border: none;
+    /* border: white; */
+    /* border: 2px solid; */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
@@ -20370,7 +20365,7 @@ ul li a {
     color: #fefefe;
     left: 0px;
     right: 0px;
-    width: 349px;
+    width: 324px;
     bottom: -12%;
     margin: auto;
     display: flex;
