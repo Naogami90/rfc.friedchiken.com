@@ -1079,7 +1079,7 @@ a {
 a:hover {
   background-color: rgba(0, 0, 0, 0.06);
   padding: 1% 16px 1% 19px;
-  border-radius: 5px;
+  border-radius: 4px;
   margin-left: -3px;
   transform: scale(0.9);
 }
