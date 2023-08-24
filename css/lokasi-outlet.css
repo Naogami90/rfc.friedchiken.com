@@ -445,6 +445,462 @@ td {
   line-height: normal;
   font-stretch: normal;
 }
+@media (max-width: 4096px) {
+  .pembatas {
+    font-size: 40px;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+  /* .outlet-navimenu-container {
+  z-index: 5;
+  position: absolute;
+  flex: 0 0 auto;
+  width: 100%;
+  height: 0px;
+  top: 0px;
+  display: flex;
+  flex-direction: column;
+  background-color: #7c0000;
+} */
+  .login-button {
+    margin: 6px auto;
+    height: 61px;
+    display: block;
+    /* padding: 10px 10px 10px 10px; */
+    width: 180px;
+    padding: 5.5px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #3498db;
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 14px;
+    color: #fefefe;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  a:hover {
+    background-color: #7d0101;
+    padding: 5px 10px 5px 10px;
+    /* margin: 5px; */
+    border-radius: 5px;
+  }
+
+  .outlet-page {
+    width: 100%;
+    height: 2160px;
+    display: flex;
+    overflow: auto;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    /* background-color: rgb(76 53 53 / 77%); */
+    flex-direction: row;
+  }
+  .banner {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    align-content: center;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+  }
+  .judul {
+    position: absolute;
+    height: 120px;
+    top: -18%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    font-family: Montserrat Alternates;
+    color: #ffffff;
+    font-size: 6rem;
+  }
+  /* bentuk navibar */
+  .outlet-navibar {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    z-index: 1000;
+    position: fixed;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    align-items: flex-start;
+    background-color: #f10000;
+  }
+  /* bentuk navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* logo conatiner navibar awal */
+  .outlet-subtract {
+    top: 0px;
+    left: 271px;
+    width: 139px;
+    height: 80px;
+    position: absolute;
+  }
+  .outlet-rectangle6891 {
+    top: 0px;
+    left: -59px;
+    width: 452px;
+    height: 80px;
+    position: absolute;
+  }
+  .outlet-rfclogoi11 {
+    top: 9px;
+    left: 42px;
+    width: 226px;
+    height: 58px;
+    position: absolute;
+  }
+  /* logo conatiner navibar akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* navibar Link container awal */
+  .outlet-navibar-menu {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 0 88px 0 88px;
+    /* z-index: 100; */
+    position: fixed;
+    align-items: center;
+    flex-shrink: 0;
+    /* background: #7c3b3b; */
+    justify-content: flex-end;
+  }
+  ul.nav-container {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    line-height: 85px;
+    color: white;
+  }
+  ul li a {
+    padding: 0 10px;
+  }
+  .Page-scroll {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 2.5rem;
+    margin: 24px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+  }
+  /* navibar Link container akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  .flex-row {
+    display: flex;
+    padding-top: 14px;
+    flex-direction: row;
+    align-content: center;
+    /* margin-left: 10px; */
+  }
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    /* margin-right: 19%; */
+    text-align: center;
+  }
+  /* property navibar container */
+
+  /* burger awal */
+  .close-burger {
+    top: 0px;
+    left: 322px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .burger {
+    top: 0px;
+    left: 340px;
+    width: 340x;
+    height: 34px;
+    display: none;
+    fill: #ffffff;
+    z-index: 101;
+    position: fixed;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  /* burger akhir */
+  /* ---------------------------------------------------------------------------------------- */
+  /* property navibar container */
+  /* section 1 map outlet */
+  .map-container {
+    left: 5%;
+    right: 5%;
+    border-radius: 10px;
+    position: absolute;
+    width: 90%;
+    height: 1429px;
+    top: 114px;
+    /* left: 5%;
+  right: 5%; */
+    background-color: #f10000;
+    /* overflow: auto; */
+  }
+  .form-map {
+    top: 10%;
+    width: 67%;
+    position: absolute;
+    height: 910px;
+    background: #ffffff;
+    border-width: 0.25px; /* Atur sesuai kebutuhan */
+    border: solid #00000028;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 61%);
+    left: 5%;
+    border-radius: 10px;
+  }
+  .map-size {
+    position: absolute;
+    width: 96%;
+    height: 804px;
+    left: 2%;
+    right: 2%;
+    top: 5%;
+    border-width: 0.25px; /* Atur sesuai kebutuhan */
+    border: solid #0000003d;
+    border-radius: 10px;
+  }
+  #mapFrame {
+    width: 100%;
+    height: 802px;
+    border: 0;
+  }
+  .title-table {
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    right: 25%;
+    text-align: center;
+    font-size: 3.5rem;
+  }
+  .table-container {
+    border-radius: 13px;
+    width: 735px;
+    position: absolute;
+    border-width: 0.25px; /* Atur sesuai kebutuhan */
+    border: solid #00000028;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 61%);
+    top: 10%;
+    right: 5%;
+    height: 911px;
+  }
+  .table-outlet {
+    height: 200px;
+    width: 100%;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ffffff;
+    font-size: 25px;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    text-align: left;
+  }
+  td {
+    border: 1px solid #181818;
+  }
+  th {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+  }
+
+  /* Mengatur lebar kolom pertama menjadi 20% */
+  th:first-child,
+  td:first-child {
+    width: 10%;
+  }
+
+  /* Mengatur lebar kolom kedua menjadi 30% */
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 50%;
+    /* font-size: 15px; */
+  }
+
+  /* Mengatur tinggi sel menjadi 50px */
+
+  /* Mengatur padding di dalam sel */
+  th,
+  td {
+    border: #000000;
+    height: 3px;
+    padding: 11px;
+  }
+
+  #my-table {
+    position: absolute;
+    border-radius: 8px;
+    left: 5%;
+  }
+  .scrollable-container {
+    top: 13%;
+    width: 89%;
+    height: 371px; /* Tentukan tinggi maksimal div */
+    overflow: auto; /* Munculkan bilah gulir jika konten melebihi tinggi maksimal */
+    border: 1px solid #ccc;
+    /* padding: 10px; */
+  }
+  .title-detail-alamat {
+    position: absolute;
+    bottom: 321px;
+    left: 5%;
+    font-size: 2.5rem;
+  }
+  #detail-container {
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 2rem;
+    position: absolute;
+    top: 617px;
+    bottom: 20%;
+    left: 5%;
+    width: 90%;
+  }
+  /* section 1 map outlet */
+
+  .outlet-foot {
+    display: flex;
+    z-index: 4;
+    position: absolute;
+    bottom: 8%;
+    left: 6%;
+    width: 61%;
+    height: 164px;
+  }
+  .outlet-alamt-footer {
+    position: absolute;
+    top: 50%;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 2rem;
+    text-align: justify;
+    font-style: Bold;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    width: 447px;
+    height: 80px;
+  }
+  .footer-logo {
+    top: -18%;
+    left: 0px;
+    width: 402px;
+    height: auto;
+    position: absolute;
+  }
+  .sosial-media {
+    position: absolute;
+    width: 70%;
+    height: 73px;
+    right: 0px;
+    font-size: 1.8rem;
+    color: #ffffff;
+    text-align: center;
+    font-style: medium;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+  }
+  .sosial-container {
+    display: flex;
+    top: 158%;
+    position: absolute;
+    width: 97%;
+    height: 75px;
+    right: 0px;
+  }
+  .footer-wa,
+  .footer-fb,
+  .footer-ig {
+    position: absolute;
+    width: 84px;
+    height: auto;
+    top: -13%;
+  }
+  .wa,
+  .fb,
+  .ig {
+    position: absolute;
+    top: 23%;
+    width: 266px;
+    height: 45px;
+  }
+  .wa {
+    left: 20%;
+  }
+  .fb {
+    left: 50%;
+  }
+  .ig {
+    left: 80%;
+  }
+  .footer-wa {
+    left: -45%;
+  }
+  .footer-fb {
+    left: -45%;
+  }
+  .footer-ig {
+    left: -45%;
+  }
+  .sosial-text-container {
+    top: 30%;
+    position: absolute;
+    width: 100%;
+    height: 73px;
+    left: 0px;
+    font-size: 2rem;
+    color: #ffffff;
+    text-align: center;
+    font-style: medium;
+    font-family: Montserrat Alternates;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+  }
+}
 @media (max-width: 3840px) {
   .pembatas {
     font-size: 40px;
