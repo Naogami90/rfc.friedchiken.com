@@ -18932,10 +18932,10 @@ ul li a {
 }
 @media (max-width: 1090px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .benefit-splash {
     top: 148px;
@@ -21027,10 +21027,10 @@ ul li a {
 }
 @media (max-width: 926px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .gambarslide img {
     transition: all 0.5s ease;
@@ -21754,7 +21754,7 @@ ul li a {
   }
   .home-page2-text35 {
     color: rgba(255, 255, 255, 1);
-    width: 227px;
+    width: 239px;
     height: auto;
     font-size: 12px;
     font-style: Bold;
@@ -21766,7 +21766,7 @@ ul li a {
     font-stretch: normal;
     text-decoration: none;
     /* left: auto; */
-    margin-left: 176px;
+    margin-left: 230px;
   }
   .home-page2-sosmed-container-desk {
     width: 100%;
@@ -21779,7 +21779,7 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 261px;
+    margin-left: 328px;
     flex: 0 0 auto;
     width: 200px;
     height: 50px;
@@ -23133,10 +23133,10 @@ ul li a {
 }
 @media (max-width: 896px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .benefit-splash {
     top: -246px;
@@ -23149,7 +23149,7 @@ ul li a {
   }
   .produk-kami-h2 {
     top: -148px;
-    left: 0px;
+    left: -23px;
     right: 0px;
     width: 294px;
     height: auto;
@@ -23607,7 +23607,7 @@ ul li a {
     top: 0px;
     left: 0px;
     right: 0px;
-    width: 762px;
+    width: 583px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -23832,13 +23832,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 69px;
+    left: 27px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 72px;
+    left: 30px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -24327,8 +24327,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 4100px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -24389,9 +24389,9 @@ ul li a {
     /* z-index: 0; */
     position: absolute;
     top: -151px;
-    width: 35%;
+    width: 38%;
     height: auto;
-    left: 30%;
+    left: 29%;
   }
   .pemisah-1 {
     position: absolute;
@@ -25235,10 +25235,10 @@ ul li a {
 }
 @media (max-width: 854px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .benefit-splash {
     top: -246px;
@@ -25709,7 +25709,7 @@ ul li a {
     top: 0px;
     left: 0px;
     right: 0px;
-    width: 812px;
+    width: 583px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -25935,13 +25935,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 69px;
+    left: 43px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 72px;
+    left: 47px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -25983,9 +25983,9 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 261px;
+    margin-left: 342px;
     flex: 0 0 auto;
-    width: 200px;
+    width: 192px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -26045,7 +26045,7 @@ ul li a {
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 250px;
+    width: 237px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -26430,8 +26430,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 4100px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -26588,7 +26588,7 @@ ul li a {
     top: -65px;
     left: 0px;
     right: 0px;
-    width: 849px;
+    width: 817px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -26690,7 +26690,7 @@ ul li a {
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
-    width: 615px;
+    width: 524px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -27338,10 +27338,10 @@ ul li a {
 }
 @media (max-width: 844px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
 
   .home-page2-herobody {
@@ -27813,7 +27813,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 608px;
+    top: 637px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -27832,7 +27832,7 @@ ul li a {
     top: 0px;
     left: 0px;
     right: 0px;
-    width: 812px;
+    width: 583px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -28057,13 +28057,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 69px;
+    left: 54px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 72px;
+    left: 57px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -28105,9 +28105,9 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 261px;
+    margin-left: 328px;
     flex: 0 0 auto;
-    width: 200px;
+    width: 192px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -28552,8 +28552,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 4100px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -28710,7 +28710,7 @@ ul li a {
     top: -71px;
     left: 0px;
     right: 0px;
-    width: 849px;
+    width: 799px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -28812,7 +28812,7 @@ ul li a {
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
-    width: 615px;
+    width: 522px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -29460,10 +29460,10 @@ ul li a {
 }
 @media (max-width: 820px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .benefit-splash {
     top: -246px;
@@ -29934,7 +29934,7 @@ ul li a {
     top: 0px;
     left: 0px;
     right: 0px;
-    width: 812px;
+    width: 621px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -30054,7 +30054,7 @@ ul li a {
     z-index: 5;
     left: 267px;
     /* right: 5%; */
-    max-width: 523px;
+    max-width: 475px;
     width: 100%;
     top: 48px;
     /* bottom: -149px; */
@@ -30159,13 +30159,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 69px;
+    left: 37px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 72px;
+    left: 43px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -30207,9 +30207,9 @@ ul li a {
   .home-page2-wa {
     /* position: absolute; */
     /* left: 50px; */
-    margin-left: 261px;
+    margin-left: 296px;
     flex: 0 0 auto;
-    width: 200px;
+    width: 192px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -30239,7 +30239,7 @@ ul li a {
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 200px;
+    width: 174px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -30269,7 +30269,7 @@ ul li a {
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 250px;
+    width: 217px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -30654,8 +30654,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 4100px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -30812,7 +30812,7 @@ ul li a {
     top: -71px;
     left: 0px;
     right: 0px;
-    width: 807px;
+    width: 765px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -31560,7 +31560,7 @@ ul li a {
     text-decoration: none;
   }
 }
-@media (max-width: 812px) {
+@media only screen and (max-width: 812px) and (max-height: 375px) {
   .bg-side-continer1 {
     background-size: 100% auto;
   }
@@ -33664,10 +33664,10 @@ ul li a {
 }
 @media (max-width: 780px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 60% auto;
   }
   .benefit-splash {
     top: -246px;
@@ -34081,7 +34081,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1489px;
+    top: 1585px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -34119,7 +34119,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 608px;
+    top: 680px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -34138,7 +34138,7 @@ ul li a {
     top: 0px;
     left: 0px;
     right: 0px;
-    width: 759px;
+    width: 574px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -34258,11 +34258,11 @@ ul li a {
     z-index: 5;
     /* left: 623px; */
     right: 4%;
-    max-width: 495px;
+    max-width: 458px;
     width: 100%;
     top: 48px;
     /* bottom: -149px; */
-    height: 262px;
+    height: 289px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -34292,7 +34292,7 @@ ul li a {
     text-decoration: none;
   }
   .home-page2-text21 {
-    top: 49px;
+    top: 38px;
     /* left: -13%; */
     right: 15%;
     color: rgba(175, 30, 35, 1);
@@ -34363,13 +34363,13 @@ ul li a {
   }
   .home-page2-rfclogoi2 {
     top: 45px;
-    left: 69px;
+    left: 26px;
     width: 181px;
     height: 44px;
     position: absolute;
   }
   .home-page2-text27 {
-    left: 72px;
+    left: 32px;
     color: rgba(255, 255, 255, 1);
     width: 213px;
     bottom: -19px;
@@ -34413,7 +34413,7 @@ ul li a {
     /* left: 50px; */
     margin-left: 261px;
     flex: 0 0 auto;
-    width: 200px;
+    width: 192px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -34443,7 +34443,7 @@ ul li a {
   }
   .home-page2-fb {
     flex: 0 0 auto;
-    width: 200px;
+    width: 163px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -34473,7 +34473,7 @@ ul li a {
   }
   .home-page2-ig {
     flex: 0 0 auto;
-    width: 250px;
+    width: 194px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -34858,8 +34858,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 4000px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -35118,7 +35118,7 @@ ul li a {
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
-    width: 615px;
+    width: 533px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -35766,10 +35766,10 @@ ul li a {
 }
 @media (max-width: 767px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 70% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 70% auto;
   }
   .benefit-splash {
     top: -246px;
@@ -36183,7 +36183,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1489px;
+    top: 1531px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -36221,7 +36221,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 608px;
+    top: 652px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -36360,11 +36360,11 @@ ul li a {
     z-index: 5;
     left: 236px;
     /* right: 4%; */
-    max-width: 500px;
+    max-width: 430px;
     width: 100%;
     top: 48px;
     /* bottom: -149px; */
-    height: 262px;
+    height: 298px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -36379,8 +36379,8 @@ ul li a {
     /* left: 24px; */
     color: rgba(0, 0, 0, 1);
     /* right: 0px; */
-    right: 16%;
-    width: 80%;
+    right: 14%;
+    width: 82%;
     height: auto;
     margin: auto;
     position: absolute;
@@ -36965,8 +36965,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 4225px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -37225,7 +37225,7 @@ ul li a {
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
-    width: 615px;
+    width: 528px;
     height: auto;
     margin: auto;
     position: absolute;
@@ -37873,10 +37873,10 @@ ul li a {
 }
 @media (max-width: 622px) {
   .bg-side-continer1 {
-    background-size: 100% auto;
+    background-size: 70% auto;
   }
   .bg-side-continer2 {
-    background-size: 100% auto;
+    background-size: 70% auto;
   }
   .benefit-splash {
     top: -246px;
@@ -38467,11 +38467,11 @@ ul li a {
     z-index: 5;
     left: 129px;
     /* right: 4%; */
-    max-width: 471px;
+    max-width: 445px;
     width: 100%;
     top: 48px;
     /* bottom: -149px; */
-    height: 262px;
+    height: 276px;
     /* margin: auto; */
     display: flex;
     position: absolute;
@@ -39072,8 +39072,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5730px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -40398,7 +40398,7 @@ ul li a {
   }
   .home-page2-gambar-section {
     z-index: 5;
-    top: 1489px;
+    top: 1683px;
     left: 0;
     right: 0px;
     width: 100%;
@@ -40436,7 +40436,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 608px;
+    top: 786px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -40455,7 +40455,7 @@ ul li a {
     top: 0px;
     left: 0px;
     right: 0px;
-    width: 559px;
+    width: 511px;
     height: 600px;
     margin: auto;
     display: flex;
@@ -40470,7 +40470,7 @@ ul li a {
     left: 0px;
     right: 0px;
     width: 426.2142333984375px;
-    bottom: 60px;
+    bottom: 19px;
     height: 117px;
     margin: auto;
     display: flex;
@@ -40577,7 +40577,7 @@ ul li a {
     /* right: 4%; */
     max-width: 432px;
     width: 100%;
-    top: 48px;
+    top: 60px;
     /* bottom: -149px; */
     height: 284px;
     /* margin: auto; */
@@ -40646,7 +40646,7 @@ ul li a {
   }
   .home-page2-footer-group {
     z-index: 3;
-    top: 5487px;
+    top: 5744px;
     left: 0px;
     width: 100%;
     height: 256px;
@@ -41180,8 +41180,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 6000px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -41290,7 +41290,7 @@ ul li a {
     position: absolute;
   }
   .mitra-section4 {
-    top: 4482px;
+    top: 4705px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -41356,7 +41356,7 @@ ul li a {
     display: block;
   }
   .mitra-section3 {
-    top: 3157px;
+    top: 3357px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -41414,7 +41414,7 @@ ul li a {
     position: absolute;
   }
   .mitra-section2 {
-    top: 2161px;
+    top: 2335px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -41437,7 +41437,7 @@ ul li a {
     position: absolute;
   }
   .mitra-text {
-    top: 55px;
+    top: -18px;
     left: 0px;
     color: rgb(0, 0, 0);
     right: 0px;
@@ -41455,12 +41455,12 @@ ul li a {
     text-decoration: none;
   }
   .mitra-h1 {
-    top: 0px;
+    top: -56px;
     left: 0px;
     color: rgba(0, 0, 0, 1);
     height: auto;
     position: absolute;
-    font-size: 30px;
+    font-size: 27px;
     font-style: Bold;
     text-align: center;
     font-family: Montserrat Alternates;
@@ -43297,8 +43297,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 6000px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -45278,7 +45278,7 @@ ul li a {
   .home-page2-desktop-tabletmenu {
     /* gap: 21px; */
     top: 0px;
-    left: -1px;
+    left: 0px;
     width: 100%;
     height: 40px;
     display: flex;
