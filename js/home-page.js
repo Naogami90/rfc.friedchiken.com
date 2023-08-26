@@ -45,9 +45,9 @@ var btn = document.getElementById("register-open-modal");
 var closeBtn = document.getElementById("register-close-modal");
 
 // Open the modal
-btn.onclick = function () {
-  modal.style.display = "block";
-};
+// btn.onclick = function () {
+//   modal.style.display = "block";
+// };
 
 // Close the modal
 closeBtn.onclick = function () {
