@@ -6514,8 +6514,9 @@ td {
   .flex-column {
     display: flex;
     flex-direction: column;
-    /* margin-right: 19%; */
+    /* margin-right: 01%; */
     text-align: center;
+    margin-left: 0%;
   }
   /* property navibar container */
 
@@ -7152,7 +7153,7 @@ td {
   .outlet-navibar-menu {
     top: 0px;
     left: 0px;
-    width: 104%;
+    width: 100%;
     height: 40px;
     display: flex;
     /* padding: 0 88px 0 0; */

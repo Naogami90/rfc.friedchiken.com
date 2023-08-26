@@ -167,7 +167,7 @@ $(document).ready(function () {
     } else {
       //untuk kurang dari 875
       // Ketika resolusi kurang dari atau sama dengan 600, ubah flex direction menjadi column
-      $(".flex-row").css("margin-left", "27%");
+      // $(".flex-row").css("margin-left", "20%");
       $(".burger").css("display", "block");
       $(".Home-Navibar-linkcontainer").css("height", "0");
 
