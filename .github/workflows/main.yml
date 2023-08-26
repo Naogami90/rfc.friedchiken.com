@@ -1,0 +1,20 @@
+name: Webhook Action
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch name as needed
+
+jobs:
+  webhook:
+    runs-on: ubuntu-latest  # You can choose the runner environment
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Trigger Webhook
+        run: |
+          # Add your webhook logic here
+          # For example, you can use curl to send a request to your webhook endpoint
+          curl -X POST -H "Content-Type: application/json" -d '{"event": "webhook_event"}' https://webhooks.hostinger.com/deploy/95d350cd8f21669e07568eb849f50bf8
