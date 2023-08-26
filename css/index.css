@@ -1,3 +1,20 @@
+.bg-side-continer1 {
+  position: absolute;
+  width: 100%; /* Lebar sesuai kebutuhan */
+  height: 100%; /* Tinggi sesuai kebutuhan */
+  background-image: url("sidebgnormalpage012134-mwzp-800w.png");
+  background-repeat: repeat-y;
+  /* background-size: auto; */
+  background-position: top left;
+}
+.bg-side-continer2 {
+  width: 100%; /* Lebar sesuai kebutuhan */
+  height: 100%; /* Tinggi sesuai kebutuhan */
+  background-image: url("sidebgnormalpage022134-nv5-800w.png");
+  background-repeat: repeat-y;
+  background-position: right top;
+  /* background-size: auto; */
+}
 .benefit-splash {
   top: 148px;
   left: 59px;
@@ -1238,9 +1255,12 @@ ul li a {
 .mitra-sideplain011 {
   top: 200px;
   left: 0px;
-  width: auto;
-  height: 4841px;
+
   position: absolute;
+  width: 100%; /* Lebar sesuai kebutuhan */
+  height: auto; /* Tinggi sesuai kebutuhan */
+  background-image: url("public/external/sideplain0111352-0yol-4900h.png");
+  background-repeat: repeat-y;
   /* z-index: 2; */
 }
 .mitra-sideplain021 {
@@ -3320,7 +3340,7 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
+    height: 12971px;
     top: 25%;
     bottom: 0px;
   }
@@ -4680,7 +4700,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 53%;
+    top: 597px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -5421,8 +5441,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 6584px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -6340,6 +6360,12 @@ ul li a {
   }
 }
 @media (max-width: 1920px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 148px;
     left: 59px;
@@ -6792,7 +6818,7 @@ ul li a {
   }
   .home-page2-frame2tentang-kami-body-text {
     z-index: 2;
-    top: 65%;
+    top: 648px;
     left: 0px;
     right: 0px;
     width: 100%;
@@ -7531,8 +7557,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5820px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -8433,6 +8459,12 @@ ul li a {
   }
 }
 @media (max-width: 1768px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 148px;
     left: 59px;
@@ -9620,8 +9652,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5800px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -10522,6 +10554,12 @@ ul li a {
   }
 }
 @media (max-width: 1440px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 148px;
     left: 59px;
@@ -11708,8 +11746,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5800px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -12612,6 +12650,12 @@ ul li a {
   }
 }
 @media (max-width: 1366px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 148px;
     left: 59px;
@@ -13799,8 +13843,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5805px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -14700,6 +14744,12 @@ ul li a {
   }
 }
 @media (max-width: 1280px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 148px;
     left: 59px;
@@ -15886,8 +15936,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5800px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -15913,7 +15963,7 @@ ul li a {
     top: -11px;
     left: 0px;
     width: 100%;
-    height: 4844px;
+    height: 5501px;
     display: flex;
     position: absolute;
     align-items: flex-start;
@@ -15925,6 +15975,7 @@ ul li a {
     width: auto;
     height: 4841px;
     position: absolute;
+
     /* z-index: 2; */
   }
   .mitra-sideplain021 {
@@ -16787,6 +16838,12 @@ ul li a {
   }
 }
 @media (max-width: 1180px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 148px;
     left: 59px;
@@ -17973,8 +18030,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5800px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -18874,6 +18931,12 @@ ul li a {
   }
 }
 @media (max-width: 1090px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 148px;
     left: 59px;
@@ -20062,8 +20125,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 6087px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -20963,6 +21026,12 @@ ul li a {
   }
 }
 @media (max-width: 926px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .gambarslide img {
     transition: all 0.5s ease;
     width: 100%;
@@ -22159,8 +22228,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 5374px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -23063,6 +23132,12 @@ ul li a {
   }
 }
 @media (max-width: 896px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -246px;
     left: 59px;
@@ -25159,6 +25234,12 @@ ul li a {
   }
 }
 @media (max-width: 854px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -246px;
     left: 59px;
@@ -27256,6 +27337,13 @@ ul li a {
   }
 }
 @media (max-width: 844px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
+
   .home-page2-herobody {
     justify-content: space-between;
     z-index: 5;
@@ -29371,6 +29459,12 @@ ul li a {
   }
 }
 @media (max-width: 820px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -246px;
     left: 59px;
@@ -31467,6 +31561,12 @@ ul li a {
   }
 }
 @media (max-width: 812px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -246px;
     left: 59px;
@@ -33563,6 +33663,12 @@ ul li a {
   }
 }
 @media (max-width: 780px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -246px;
     left: 59px;
@@ -35659,6 +35765,12 @@ ul li a {
   }
 }
 @media (max-width: 767px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -246px;
     left: 59px;
@@ -37760,6 +37872,12 @@ ul li a {
   }
 }
 @media (max-width: 622px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -246px;
     left: 38px;
@@ -39862,6 +39980,12 @@ ul li a {
   }
 }
 @media (max-width: 568px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: -236px;
     left: 38px;
@@ -41964,6 +42088,12 @@ ul li a {
   }
 }
 @media (max-width: 430px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 125px;
     left: 15px;
@@ -44074,6 +44204,12 @@ ul li a {
   }
 }
 @media (max-width: 390px) {
+  .bg-side-continer1 {
+    background-size: 100% auto;
+  }
+  .bg-side-continer2 {
+    background-size: 100% auto;
+  }
   .benefit-splash {
     top: 113px;
     left: 0px;
@@ -45275,8 +45411,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 6416px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -46182,6 +46318,15 @@ ul li a {
   }
 }
 @media (max-width: 360px) {
+  .bg-side-continer2 {
+    width: 100%;
+    background-size: 60%;
+  }
+  .bg-side-continer1 {
+    /* display: block; */
+    width: 100%;
+    background-size: 60% auto;
+  }
   .benefit-splash {
     top: 149px;
     left: 0px;
@@ -46770,8 +46915,8 @@ ul li a {
   .home-page2-herobody {
     justify-content: space-between;
     z-index: 5;
-    /* left: 623px; */
-    right: 3.5%;
+    left: 13px;
+    /* right: 3.5%; */
     max-width: 470px;
     width: 93%;
     top: 391px;
@@ -46796,7 +46941,7 @@ ul li a {
     height: auto;
     margin: auto;
     position: absolute;
-    font-size: 16px;
+    font-size: 15px;
     font-style: Medium;
     text-align: left;
     font-family: Montserrat Alternates;
@@ -46808,10 +46953,10 @@ ul li a {
   .home-page2-text21 {
     top: 85px;
     /* left: -13%; */
-    right: 10%;
+    right: 9%;
     color: rgba(175, 30, 35, 1);
     /* right: 0px; */
-    width: 85%;
+    width: 87%;
     height: auto;
     margin: auto;
     position: absolute;
@@ -47383,8 +47528,8 @@ ul li a {
   .mitra-page {
     position: absolute;
     width: 100%;
-    height: 100vh;
-    top: 25%;
+    height: 6404px;
+    top: 0%;
     bottom: 0px;
   }
   .mitra-container {
@@ -47407,7 +47552,7 @@ ul li a {
   }
   .mitra-side-bg {
     /* overflow: hidden; */
-    top: -11px;
+    top: 115px;
     left: 0px;
     width: 100%;
     height: 4844px;
@@ -47417,18 +47562,19 @@ ul li a {
     flex-shrink: 1;
   }
   .mitra-sideplain011 {
-    top: -153px;
+    top: 0px;
     left: 0px;
     width: 100%;
-    height: 4197px;
+    height: auto;
     position: absolute;
     /* z-index: 2; */
+    background-repeat: repeat-x;
   }
   .mitra-sideplain021 {
-    top: 176px;
+    top: 0px;
     right: 0px;
-    width: auto;
-    height: 4536px;
+    width: 100%;
+    height: auto;
     position: absolute;
   }
   .mitra-pemisah {
